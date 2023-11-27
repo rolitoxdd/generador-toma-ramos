@@ -1,0 +1,7520 @@
+[
+  {
+    "code": "TEM4017_VC01",
+    "subjectCode": "TEM4017",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "BLB TALLER 01",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "BLB TALLER 01",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "BLB TALLER 01",
+        "isMandatory": true,
+        "teacher": "COSTA LUÍS EDUARDO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4017_VC02",
+    "subjectCode": "TEM4017",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "BLB TALLER 02",
+        "isMandatory": true,
+        "teacher": "COSTA LUÍS EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "BLB TALLER 02",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "BLB TALLER 02",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4017_VC03",
+    "subjectCode": "TEM4017",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "BLB TALLER 03",
+        "isMandatory": true,
+        "teacher": "COSTA LUÍS EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "BLB TALLER 03",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "BLB TALLER 03",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4017_VC04",
+    "subjectCode": "TEM4017",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "BLB TALLER 04",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "BLB TALLER 04",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "BLB TALLER 04",
+        "isMandatory": true,
+        "teacher": "COSTA LUÍS EDUARDO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4017_VC05",
+    "subjectCode": "TEM4017",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "BLB CATEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "BLB TALLER 05",
+        "isMandatory": true,
+        "teacher": "COSTA LUÍS EDUARDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "BLB TALLER 05",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "BLB TALLER 05",
+        "isMandatory": true,
+        "teacher": "RIVERO PABLO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4020_VC01",
+    "subjectCode": "TEM4020",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4020_VC02",
+    "subjectCode": "TEM4020",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4020_VC03",
+    "subjectCode": "TEM4020",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4020_VC04",
+    "subjectCode": "TEM4020",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4020_VC05",
+    "subjectCode": "TEM4020",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4021_VC01",
+    "subjectCode": "TEM4021",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      }
+    ]
+  },
+  {
+    "code": "TEM4021_VC02",
+    "subjectCode": "TEM4021",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      }
+    ]
+  },
+  {
+    "code": "TEM4021_VC03",
+    "subjectCode": "TEM4021",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      }
+    ]
+  },
+  {
+    "code": "TEM4021_VC04",
+    "subjectCode": "TEM4021",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      }
+    ]
+  },
+  {
+    "code": "TEM4021_VC05",
+    "subjectCode": "TEM4021",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 05",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "ALLENDES CHRISTIAN JAIME"
+      }
+    ]
+  },
+  {
+    "code": "TEM4022_VC01",
+    "subjectCode": "TEM4022",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ORTIZ PAULA CAROLINA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4022_VC02",
+    "subjectCode": "TEM4022",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ NELLY NAYAD"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4022_VC03",
+    "subjectCode": "TEM4022",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "ORTIZ PAULA CAROLINA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4022_VC04",
+    "subjectCode": "TEM4022",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "MUÑOZ NELLY NAYAD"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4022_VC05",
+    "subjectCode": "TEM4022",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "TALLER 05",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "TALLER 05",
+        "isMandatory": true,
+        "teacher": "ORTIZ PAULA CAROLINA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4027_VC01",
+    "subjectCode": "TEM4027",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA S1-S3",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4027_VC02",
+    "subjectCode": "TEM4027",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA S2-S4",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4027_FG01",
+    "subjectCode": "TEM4027",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA S2-S4",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4027_VC03",
+    "subjectCode": "TEM4027",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA S1-S3",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4027_FG02",
+    "subjectCode": "TEM4027",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA S1-S3",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4027_VC04",
+    "subjectCode": "TEM4027",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA S2-S4",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "CARRION PAMELA CLARA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4028_VC01",
+    "subjectCode": "TEM4028",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4028_VC02",
+    "subjectCode": "TEM4028",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4028_VC03",
+    "subjectCode": "TEM4028",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4028_VC04",
+    "subjectCode": "TEM4028",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4032_VC01",
+    "subjectCode": "TEM4032",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4032_VC02",
+    "subjectCode": "TEM4032",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4032_VC03",
+    "subjectCode": "TEM4032",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4032_VC04",
+    "subjectCode": "TEM4032",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "ROSAS CARLOS ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4034_VC01",
+    "subjectCode": "TEM4034",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4034_VC02",
+    "subjectCode": "TEM4034",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      }
+    ]
+  },
+  {
+    "code": "TEM4034_VC03",
+    "subjectCode": "TEM4034",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORTES PEDRO RAUL"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LANDSKRON ERWIN MAURICIO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4040_VC01",
+    "subjectCode": "TEM4040",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ARAYA ARMIN ANDRÉS"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ARAYA ARMIN ANDRÉS"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ANTILEF TAMARA ALEJANDRA"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ANTILEF TAMARA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "CANALES MARILENA"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "AYLWIN MARIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4040_VC02",
+    "subjectCode": "TEM4040",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "CANALES MARILENA"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "AYLWIN MARIA PAZ"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ARAYA ARMIN ANDRÉS"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ARAYA ARMIN ANDRÉS"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ANTILEF TAMARA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ANTILEF TAMARA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4040_VC03",
+    "subjectCode": "TEM4040",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
+        "isMandatory": true,
+        "teacher": "AYLWIN MARIA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "ARAYA ARMIN ANDRÉS"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "ARAYA ARMIN ANDRÉS"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "ANTILEF TAMARA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "ANTILEF TAMARA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "CANALES MARILENA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4041_VC01",
+    "subjectCode": "TEM4041",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ROSALES LUZ VERONICA"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ZENTENO MARCELO LENIN"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "ROSALES LUZ VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4041_VC02",
+    "subjectCode": "TEM4041",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ROSALES LUZ VERONICA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "ZENTENO MARCELO LENIN"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "ROSALES LUZ VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4041_VC03",
+    "subjectCode": "TEM4041",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ROSALES LUZ VERONICA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "ZENTENO MARCELO LENIN"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "ROSALES LUZ VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4042_VC01",
+    "subjectCode": "TEM4042",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4042_VC02",
+    "subjectCode": "TEM4042",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "CASTILLO LIDIA PAZ"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      }
+    ]
+  },
+  {
+    "code": "TEM4042_FG02",
+    "subjectCode": "TEM4042",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "CASTILLO LIDIA PAZ"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      }
+    ]
+  },
+  {
+    "code": "TEM4042_VC03",
+    "subjectCode": "TEM4042",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "CASTILLO LIDIA PAZ"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      }
+    ]
+  },
+  {
+    "code": "TEM4042_VC04",
+    "subjectCode": "TEM4042",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "FLOREZ OSCAR YESID"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4045_VC01",
+    "subjectCode": "TEM4045",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "FERNANDEZ KATIA YANINA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4050_VC01",
+    "subjectCode": "TEM4050",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA S1",
+        "isMandatory": true,
+        "teacher": "DALMAZZO DANDARO STEFANO"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA S1",
+        "isMandatory": true,
+        "teacher": "DALMAZZO DANDARO STEFANO"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "CAMPOS DAVID EDUARDO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4051_VC01",
+    "subjectCode": "TEM4051",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GÓMEZ GABRIEL EDUARDO"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GÓMEZ GABRIEL EDUARDO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "GÁLVEZ DAVID JONATAN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4053_VC01",
+    "subjectCode": "TEM4053",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4053_VC02",
+    "subjectCode": "TEM4053",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "PROKES MARÍA JOSÉ"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "PROKES MARÍA JOSÉ"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4053_VC03",
+    "subjectCode": "TEM4053",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "PROKES MARÍA JOSÉ"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "PROKES MARÍA JOSÉ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4053_VC04",
+    "subjectCode": "TEM4053",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4053_VC05",
+    "subjectCode": "TEM4053",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "PROKES MARÍA JOSÉ"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "PROKES MARÍA JOSÉ"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "SERNA JAVIERA CONSTANZA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE",
+        "isMandatory": true,
+        "teacher": "GREEN JANET DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "TEM4064_VC01",
+    "subjectCode": "TEM4064",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4064_VC02",
+    "subjectCode": "TEM4064",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "TEM4064_VC03",
+    "subjectCode": "TEM4064",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "PINEDA JORGE JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4064_VC04",
+    "subjectCode": "TEM4064",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE S1-S2-S3-S4",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "BESA NATALIA PAZ"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "QUIROGA GUILLERMO MOISES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4066_VC01",
+    "subjectCode": "TEM4066",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4066_VC02",
+    "subjectCode": "TEM4066",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4066_VC03",
+    "subjectCode": "TEM4066",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "TALLER 03",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4066_VC04",
+    "subjectCode": "TEM4066",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "TALLER 04",
+        "isMandatory": true,
+        "teacher": "VILLAGRA LORENA DEL PILAR"
+      }
+    ]
+  },
+  {
+    "code": "TEM4067_VC01",
+    "subjectCode": "TEM4067",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ JOSÉ IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZÁLEZ JOSÉ IGNACIO"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "BELMAR ERICK FABIÁN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4068_VC01",
+    "subjectCode": "TEM4068",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GIORGI FRANCCESCA JOANA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GIORGI FRANCCESCA JOANA"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "GIORGI FRANCCESCA JOANA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4069_VC01",
+    "subjectCode": "TEM4069",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA MARIA SOLEDAD"
+      }
+    ]
+  },
+  {
+    "code": "TEM4070_VC01",
+    "subjectCode": "TEM4070",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "SILVA NICOLE CAROLINA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "SILVA NICOLE CAROLINA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "SILVA NICOLE CAROLINA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4070_VC02",
+    "subjectCode": "TEM4070",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "TRONCOSO SEBASTIÁN IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "TRONCOSO SEBASTIÁN IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "TRONCOSO SEBASTIÁN IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4070_VC03",
+    "subjectCode": "TEM4070",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CÁCERES FELIPE ERNESTO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CÁCERES FELIPE ERNESTO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CÁCERES FELIPE ERNESTO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4070_VC04",
+    "subjectCode": "TEM4070",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "SITJA NICOLÁS PATRICIO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "SITJA NICOLÁS PATRICIO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "SITJA NICOLÁS PATRICIO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4070_VC05",
+    "subjectCode": "TEM4070",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "MAC-BRIDE NICOLE CAROLINA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "MAC-BRIDE NICOLE CAROLINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "MAC-BRIDE NICOLE CAROLINA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4070_VC06",
+    "subjectCode": "TEM4070",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA MADRE 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "LÓPEZ NATALY ELIZABETH"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "SILVA NICOLE CAROLINA"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "SILVA NICOLE CAROLINA"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "SILVA NICOLE CAROLINA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER 01-02-03-04-05-06",
+        "isMandatory": true,
+        "teacher": "ÁLAMOS MARÍA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "TEM4074_VC01",
+    "subjectCode": "TEM4074",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "PIZARRO DANIEL ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4097_VC01",
+    "subjectCode": "TEM4097",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALENZUELA FELIPE ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALENZUELA FELIPE ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ISABEL ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ISABEL ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ISABEL ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ISABEL ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ISABEL ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ISABEL ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4099_VC01",
+    "subjectCode": "TEM4099",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CARRASCO KARINA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "TEM4100_VC01",
+    "subjectCode": "TEM4100",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ROBLE FRANCISCA MURIEL TRINIDAD"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ROBLE FRANCISCA MURIEL TRINIDAD"
+      }
+    ]
+  },
+  {
+    "code": "TEM4106_VC01",
+    "subjectCode": "TEM4106",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "OLMEDO EDUARDO IGNACIO"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "OLMEDO EDUARDO IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "TEM9003_VC01",
+    "subjectCode": "TEM9003",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "URREA CHRISTIAN GONZALO"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "URREA CHRISTIAN GONZALO"
+      }
+    ]
+  },
+  {
+    "code": "TEM9005_VC01",
+    "subjectCode": "TEM9005",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "URREA CHRISTIAN GONZALO"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "URREA CHRISTIAN GONZALO"
+      }
+    ]
+  },
+  {
+    "code": "TEM9008_VC01",
+    "subjectCode": "TEM9008",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1001_VC01",
+    "subjectCode": "CIG1001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1001_CB02",
+    "subjectCode": "CIG1001",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC01",
+    "subjectCode": "CIG1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC10",
+    "subjectCode": "CIG1002",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_CB11",
+    "subjectCode": "CIG1002",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC02",
+    "subjectCode": "CIG1002",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC03",
+    "subjectCode": "CIG1002",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC04",
+    "subjectCode": "CIG1002",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC05",
+    "subjectCode": "CIG1002",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC06",
+    "subjectCode": "CIG1002",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC07",
+    "subjectCode": "CIG1002",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC08",
+    "subjectCode": "CIG1002",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 08",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 08",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC09",
+    "subjectCode": "CIG1002",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC01",
+    "subjectCode": "CIG1003",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC10",
+    "subjectCode": "CIG1003",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC11",
+    "subjectCode": "CIG1003",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC12",
+    "subjectCode": "CIG1003",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC13",
+    "subjectCode": "CIG1003",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC14",
+    "subjectCode": "CIG1003",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 14",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC15",
+    "subjectCode": "CIG1003",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 15",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC16",
+    "subjectCode": "CIG1003",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 16",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC17",
+    "subjectCode": "CIG1003",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 17",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC18",
+    "subjectCode": "CIG1003",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 18",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC19",
+    "subjectCode": "CIG1003",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 19",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC02",
+    "subjectCode": "CIG1003",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC20",
+    "subjectCode": "CIG1003",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 20",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC21",
+    "subjectCode": "CIG1003",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 21",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC22",
+    "subjectCode": "CIG1003",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "VÁSQUEZ JORGE ANDRÉS"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 22",
+        "isMandatory": true,
+        "teacher": "VÁSQUEZ JORGE ANDRÉS"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC23",
+    "subjectCode": "CIG1003",
+    "section": "Sección 23",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 23",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC24",
+    "subjectCode": "CIG1003",
+    "section": "Sección 24",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 24",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC25",
+    "subjectCode": "CIG1003",
+    "section": "Sección 25",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 25",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC26",
+    "subjectCode": "CIG1003",
+    "section": "Sección 26",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA INGLÉS 26",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC27",
+    "subjectCode": "CIG1003",
+    "section": "Sección 27",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 27",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 27",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC28",
+    "subjectCode": "CIG1003",
+    "section": "Sección 28",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 28",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 28",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC29",
+    "subjectCode": "CIG1003",
+    "section": "Sección 29",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 29",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 29",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC03",
+    "subjectCode": "CIG1003",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC30",
+    "subjectCode": "CIG1003",
+    "section": "Sección 30",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 30",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 30",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC31",
+    "subjectCode": "CIG1003",
+    "section": "Sección 31",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 31",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 31",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC32",
+    "subjectCode": "CIG1003",
+    "section": "Sección 32",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 32",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 32",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC33",
+    "subjectCode": "CIG1003",
+    "section": "Sección 33",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 33",
+        "isMandatory": true,
+        "teacher": "ARAVENA ERICK"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 33",
+        "isMandatory": true,
+        "teacher": "ARAVENA ERICK"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC34",
+    "subjectCode": "CIG1003",
+    "section": "Sección 34",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 34",
+        "isMandatory": true,
+        "teacher": "ARAVENA ERICK"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 34",
+        "isMandatory": true,
+        "teacher": "ARAVENA ERICK"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC35",
+    "subjectCode": "CIG1003",
+    "section": "Sección 35",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 35",
+        "isMandatory": true,
+        "teacher": "ARAVENA ERICK"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 35",
+        "isMandatory": true,
+        "teacher": "ARAVENA ERICK"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC36",
+    "subjectCode": "CIG1003",
+    "section": "Sección 36",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 36",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 36",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC37",
+    "subjectCode": "CIG1003",
+    "section": "Sección 37",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLES 37",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA INGLES 37",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC38",
+    "subjectCode": "CIG1003",
+    "section": "Sección 38",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 38",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 38",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC39",
+    "subjectCode": "CIG1003",
+    "section": "Sección 39",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 39",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 39",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC04",
+    "subjectCode": "CIG1003",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC40",
+    "subjectCode": "CIG1003",
+    "section": "Sección 40",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 40",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 40",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC41",
+    "subjectCode": "CIG1003",
+    "section": "Sección 41",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 41",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 41",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC42",
+    "subjectCode": "CIG1003",
+    "section": "Sección 42",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA INGLES 42",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLES 42",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC43",
+    "subjectCode": "CIG1003",
+    "section": "Sección 43",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 43",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 43",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC44",
+    "subjectCode": "CIG1003",
+    "section": "Sección 44",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 44",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 44",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC45",
+    "subjectCode": "CIG1003",
+    "section": "Sección 45",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 45",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 45",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC46",
+    "subjectCode": "CIG1003",
+    "section": "Sección 46",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 46",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 46",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC47",
+    "subjectCode": "CIG1003",
+    "section": "Sección 47",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 47",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 47",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC48",
+    "subjectCode": "CIG1003",
+    "section": "Sección 48",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 48",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 48",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC49",
+    "subjectCode": "CIG1003",
+    "section": "Sección 49",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA INGLES 49",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA INGLES 49",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC05",
+    "subjectCode": "CIG1003",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC50",
+    "subjectCode": "CIG1003",
+    "section": "Sección 50",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 50",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 50",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC51",
+    "subjectCode": "CIG1003",
+    "section": "Sección 51",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 51",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA INGLÉS 51",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC52",
+    "subjectCode": "CIG1003",
+    "section": "Sección 52",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 52",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 52",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC53",
+    "subjectCode": "CIG1003",
+    "section": "Sección 53",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 53",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 53",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC54",
+    "subjectCode": "CIG1003",
+    "section": "Sección 54",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 54",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 54",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_CB55",
+    "subjectCode": "CIG1003",
+    "section": "Sección 55",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC06",
+    "subjectCode": "CIG1003",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC07",
+    "subjectCode": "CIG1003",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC08",
+    "subjectCode": "CIG1003",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC09",
+    "subjectCode": "CIG1003",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "TEM4120_VC01",
+    "subjectCode": "TEM4120",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LATORRE RAFAEL ABRAHAM"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LATORRE RAFAEL ABRAHAM"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "LATORRE RAFAEL ABRAHAM"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "TEM4120_VC02",
+    "subjectCode": "TEM4120",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4120_VC03",
+    "subjectCode": "TEM4120",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "FERRANDO MAGALY LORENA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "CORNEJO DANIEL ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA MADRE S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "LOPEZ JENNY MIGUELINA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4501_VC01",
+    "subjectCode": "TEM4501",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "PAVANI KATHERINA GHISLAI"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "PAVANI KATHERINA GHISLAI"
+      }
+    ]
+  },
+  {
+    "code": "TEM4503_VC01",
+    "subjectCode": "TEM4503",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MARAGAÑO RICARDO ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "TEM4504_VC01",
+    "subjectCode": "TEM4504",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "HERRERA SERGIO ANDRÉS"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "HERRERA SERGIO ANDRÉS"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "LABORATORIO",
+        "isMandatory": true,
+        "teacher": "VARGAS DANIELA FERNANDA"
+      }
+    ]
+  },
+  {
+    "code": "TEM4601_VC01",
+    "subjectCode": "TEM4601",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES HERALDO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES HERALDO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES HERALDO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES HERALDO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES HERALDO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES HERALDO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC01",
+    "subjectCode": "CIG1014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC10",
+    "subjectCode": "CIG1014",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 10",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC11",
+    "subjectCode": "CIG1014",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 11",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC12",
+    "subjectCode": "CIG1014",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 12",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC13",
+    "subjectCode": "CIG1014",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 13",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC14",
+    "subjectCode": "CIG1014",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 14",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 14",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC15",
+    "subjectCode": "CIG1014",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 15",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA INGLES 15",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC16",
+    "subjectCode": "CIG1014",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 16",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 16",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC17",
+    "subjectCode": "CIG1014",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA INGLES 17",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA INGLES 17",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC18",
+    "subjectCode": "CIG1014",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA INGLES 18",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA INGLES 18",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC19",
+    "subjectCode": "CIG1014",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 19",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 19",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC02",
+    "subjectCode": "CIG1014",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC20",
+    "subjectCode": "CIG1014",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 20",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA INGLES 20",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC21",
+    "subjectCode": "CIG1014",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA INGLES 21",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLES 21",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC22",
+    "subjectCode": "CIG1014",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 22",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA INGLES 22",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC23",
+    "subjectCode": "CIG1014",
+    "section": "Sección 23",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLES 23",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA INGLES 23",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC24",
+    "subjectCode": "CIG1014",
+    "section": "Sección 24",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB25",
+    "subjectCode": "CIG1014",
+    "section": "Sección 25",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC03",
+    "subjectCode": "CIG1014",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA INGLÉS 03",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC04",
+    "subjectCode": "CIG1014",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 04",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC05",
+    "subjectCode": "CIG1014",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA INGLÉS 05",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC06",
+    "subjectCode": "CIG1014",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA INGLÉS 06",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC07",
+    "subjectCode": "CIG1014",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA INGLÉS 07",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC08",
+    "subjectCode": "CIG1014",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA INGLÉS 08",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC09",
+    "subjectCode": "CIG1014",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA INGLÉS 09",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "TEM9016_VC01",
+    "subjectCode": "TEM9016",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+      }
+    ]
+  },
+  {
+    "code": "TEM051201_C1",
+    "subjectCode": "TEM051201",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CABRERA MARTA LISSETTE"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "CABRERA MARTA LISSETTE"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "PAREDES PAULA EUGENIA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "PAREDES PAULA EUGENIA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "TOLEDO JAVIERA FABIOLA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "TOLEDO JAVIERA FABIOLA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "PAREDES PAULA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051201_C2",
+    "subjectCode": "TEM051201",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "TOLEDO JAVIERA FABIOLA"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "TOLEDO JAVIERA FABIOLA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "PAREDES PAULA EUGENIA"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "PAREDES PAULA EUGENIA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CABRERA MARTA LISSETTE"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "CABRERA MARTA LISSETTE"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA S1-S2",
+        "isMandatory": true,
+        "teacher": "PAREDES PAULA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051202_C1",
+    "subjectCode": "TEM051202",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051202_C2",
+    "subjectCode": "TEM051202",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051202_C3",
+    "subjectCode": "TEM051202",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA S1-S2-S3",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051202_C4",
+    "subjectCode": "TEM051202",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "LABORATORIO 04",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051202_C5",
+    "subjectCode": "TEM051202",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "LABORATORIO 05",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051202_C6",
+    "subjectCode": "TEM051202",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "LABORATORIO 06",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      }
+    ]
+  },
+  {
+    "code": "TEM051202_C7",
+    "subjectCode": "TEM051202",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA S4-S5-S6-S7",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 07",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 07",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "LABORATORIO 07",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "LABORATORIO 07",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      }
+    ]
+  }
+]
