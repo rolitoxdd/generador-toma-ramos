@@ -9,16 +9,24 @@ export type CourseData = SubjectWithSections & {
 
 type State = {
   selectedCourses: Array<CourseData | null>;
+  generatedSchedule?: CourseData[] | null;
+  showGeneratedSchedule: boolean;
+  selectedStrategy: string;
 };
 
 type Actions = {
   addCourse: () => void;
   removeCourse: (index: number) => void;
   selectCourse: (index: number, course: CourseData) => void;
+  showSchedule: (schedule: CourseData[]) => void;
+  closeSchedule: () => void;
+  changeStrategy: (strategy: string) => void;
 };
 
 export const useStore = create<State & Actions>((set) => ({
   selectedCourses: [null],
+  showGeneratedSchedule: false,
+  selectedStrategy: "Menos ventanas",
   addCourse: () =>
     set((state) => ({
       selectedCourses: [...state.selectedCourses, null],
@@ -37,4 +45,27 @@ export const useStore = create<State & Actions>((set) => ({
         selectedCourses,
       };
     }),
+  showSchedule: (schedule) => {
+    set(() => {
+      return {
+        generatedSchedule: schedule,
+        showGeneratedSchedule: true,
+      };
+    });
+  },
+  closeSchedule: () => {
+    set(() => {
+      return {
+        generatedSchedule: null,
+        showGeneratedSchedule: false,
+      };
+    });
+  },
+  changeStrategy: (strategy) => {
+    set(() => {
+      return {
+        selectedStrategy: strategy,
+      };
+    });
+  },
 }));

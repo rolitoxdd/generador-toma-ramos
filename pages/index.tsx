@@ -2,7 +2,7 @@ import { NextPage } from "next";
 import { Grid } from "@mui/material";
 import CareerSelect, { CareerSelectProps } from "@/components/CareerSelect";
 
-export { getServerSideProps } from "../src/controllers/Home";
+export { getStaticProps } from "../src/controllers/Home";
 
 export type HomeProps = CareerSelectProps;
 

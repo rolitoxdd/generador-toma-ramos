@@ -1,13 +1,16 @@
 import { memo, FC } from "react";
 import { Button, FormControl } from "@mui/material";
 import CourseSelect from "./CourseSelect";
-import { useStore } from "@/store";
+import StrategySelect from "./StrategySelect";
 import useCourseForm from "./hooks/useCourseForm";
+import { LoadingButton } from "@mui/lab";
 
 const CoursesForm: FC = memo(function CoursesForm() {
-  const { selectedCourses, addCourse, handleSubmit } = useCourseForm();
+  const { selectedCourses, addCourse, handleSubmit, isLoading } =
+    useCourseForm();
   return (
     <form onSubmit={handleSubmit}>
+      <StrategySelect />
       {selectedCourses.map((course, index) => (
         <CourseSelect
           key={index}
@@ -15,17 +18,18 @@ const CoursesForm: FC = memo(function CoursesForm() {
           selectedCoursesIndex={index}
         />
       ))}
-      <Button
+      <LoadingButton
         onClick={addCourse}
         variant="contained"
         color="primary"
         sx={{ marginTop: "20px" }}
         disabled={selectedCourses.length >= 7}
         fullWidth
+        loading={isLoading}
       >
         Agregar otro ramo
-      </Button>
-      <Button
+      </LoadingButton>
+      <LoadingButton
         variant="contained"
         color="success"
         sx={{ marginTop: "10px" }}
@@ -34,9 +38,10 @@ const CoursesForm: FC = memo(function CoursesForm() {
         disabled={selectedCourses
           .filter((c) => c)
           .every((c) => c.selectedSection?.code)}
+        loading={isLoading}
       >
         Generar horario
-      </Button>
+      </LoadingButton>
     </form>
   );
 });

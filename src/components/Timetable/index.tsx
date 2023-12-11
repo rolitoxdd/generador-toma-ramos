@@ -3,13 +3,14 @@ import { FC, memo } from "react";
 import {
   Table,
   TableHead,
-  TableCell,
   TableBody,
   TableRow,
+  TableContainer,
 } from "@mui/material";
 import withSelectedCourses from "./withSelectedCourses";
 import { TimeBlockData } from "@/models/sections";
 import { CourseData } from "@/store";
+import StyledTableCell from "./StyledTableCell";
 
 export type TimeBlockWithCourse = TimeBlockData & {
   course: CourseData;
@@ -31,7 +32,7 @@ export const BLOCKS: Record<string, string> = {
   // I: "20:30 - 21:50",
 };
 
-const DAYS = ["LU", "MA", "MI", "JU", "VI"];
+export const DAYS = ["LU", "MA", "MI", "JU", "VI"];
 
 export const Timetable: FC<TimetableProps> = memo(function Timetable({
   timeBlocks,
@@ -46,47 +47,53 @@ export const Timetable: FC<TimetableProps> = memo(function Timetable({
   }
 
   return (
-    <Table>
-      <TableHead>
-        <TableRow>
-          <TableCell>*</TableCell>
-          <TableCell>Lunes</TableCell>
-          <TableCell>Martes</TableCell>
-          <TableCell>Miercoles</TableCell>
-          <TableCell>Jueves</TableCell>
-          <TableCell>Viernes</TableCell>
-        </TableRow>
-      </TableHead>
-      <TableBody>
-        {Object.entries(BLOCKS).map(([block, time]) => (
-          <TableRow key={block}>
-            <TableCell>
-              {block}: {time}
-            </TableCell>
-            {DAYS.map((day) => {
-              const timeBlock = timeBlocks.find(
-                (timeBlock) =>
-                  timeBlock.day === day && timeBlock.block === block
-              );
-              return (
-                <TableCell key={day} sx={{ lineHeight: "15px" }}>
-                  {timeBlock ? (
-                    <>
-                      {timeBlock.course.name} <br />{" "}
-                      <small>{timeBlock.course.selectedSection.section} </small>{" "}
-                      <br />
-                      <small>{timeBlock.teacher} </small>
-                    </>
-                  ) : (
-                    ""
-                  )}
-                </TableCell>
-              );
-            })}
+    <TableContainer>
+      <Table border={1}>
+        <TableHead>
+          <TableRow>
+            <StyledTableCell variant="head">*</StyledTableCell>
+            <StyledTableCell variant="head">Lunes</StyledTableCell>
+            <StyledTableCell variant="head">Martes</StyledTableCell>
+            <StyledTableCell variant="head">Miercoles</StyledTableCell>
+            <StyledTableCell variant="head">Jueves</StyledTableCell>
+            <StyledTableCell variant="head">Viernes</StyledTableCell>
           </TableRow>
-        ))}
-      </TableBody>
-    </Table>
+        </TableHead>
+        <TableBody>
+          {Object.entries(BLOCKS).map(([block, time]) => (
+            <TableRow key={block}>
+              <StyledTableCell>
+                {block}: {time}
+              </StyledTableCell>
+              {DAYS.map((day) => {
+                const timeBlock = timeBlocks.find(
+                  (timeBlock) =>
+                    timeBlock.day === day && timeBlock.block === block
+                );
+                return (
+                  <StyledTableCell key={day} sx={{ lineHeight: "15px" }}>
+                    {timeBlock ? (
+                      <>
+                        {timeBlock.course.name} <br />{" "}
+                        <small>
+                          {timeBlock.course.selectedSection.section}
+                          {" - "}
+                          {timeBlock.description}
+                        </small>{" "}
+                        <br />
+                        <small>{timeBlock.teacher} </small>
+                      </>
+                    ) : (
+                      ""
+                    )}
+                  </StyledTableCell>
+                );
+              })}
+            </TableRow>
+          ))}
+        </TableBody>
+      </Table>
+    </TableContainer>
   );
 });
 

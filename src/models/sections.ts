@@ -5,7 +5,7 @@ export type TimeBlockData = {
   block: Block;
   description: string; // CATEDRA || AYUDANTIA, etc
   isMandatory: boolean;
-  teacher: boolean;
+  teacher: string;
 };
 
 export type SectionData = {

@@ -1,15 +1,18 @@
 import { CourseData } from "@/store";
 import timeBlocksDontOverlap from "../timeBlocksDontOverlap";
-import { generateSchedulingParams } from ".";
+import { generateSchedulingParams, strategies } from ".";
 
 export function dfs({
   alreadySelectedCourses,
-  notSelectedCourses
+  notSelectedCourses,
+  strategy,
 }: generateSchedulingParams): CourseData[] | null {
+  const getWeight = strategies[strategy];
   if (!notSelectedCourses.length) {
     return alreadySelectedCourses;
   }
   const course = notSelectedCourses[0];
+  const results = [];
 
   const possibleSections = course.sections;
   for (const section of possibleSections) {
@@ -18,18 +21,29 @@ export function dfs({
       { ...course, selectedSection: section },
     ];
 
-    const timeBlocks = newAlreadySelectedCourses.map(
+    const timeBlocks = newAlreadySelectedCourses.flatMap(
       (course) => course.selectedSection.timeBlocks
     );
-    if (timeBlocksDontOverlap(timeBlocks.flat())) {
+    if (timeBlocksDontOverlap(timeBlocks)) {
       const result = dfs({
         alreadySelectedCourses: newAlreadySelectedCourses,
         notSelectedCourses: notSelectedCourses.slice(1),
+        strategy,
       });
       if (result) {
-        return result;
+        results.push(result);
+        continue;
       }
     }
+  }
+
+  if (results.length) {
+    return results.reduce((prev, curr) => {
+      if (getWeight(curr) < getWeight(prev)) {
+        return curr;
+      }
+      return prev;
+    });
   }
   return null;
 }

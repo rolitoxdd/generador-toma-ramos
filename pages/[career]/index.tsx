@@ -6,6 +6,7 @@ import CoursesProvider from "@/providers/Courses";
 
 import CoursesForm from "@/components/CoursesForm";
 import Timetable from "@/components/Timetable";
+import GeneratedScheduleModal from "@/components/GeneratedScheduleModal";
 
 export { getServerSideProps } from "@/controllers/Career";
 
@@ -25,6 +26,7 @@ const Career: NextPage<CareerProps> = ({ career, subjects }) => {
           <CoursesForm />
         </Grid>
       </Grid>
+      <GeneratedScheduleModal />
     </CoursesProvider>
   );
 };
