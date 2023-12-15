@@ -6,7 +6,7 @@ export default function timeBlocksDontOverlap(
   timeBlocksOrCourses: TimeBlockData[] | Array<CourseData>
 ): boolean {
   let timeBlocks: TimeBlockData[];
-  if (timeBlocksOrCourses[0].hasOwnProperty("selectedSection")) {
+  if (timeBlocksOrCourses[0]?.hasOwnProperty("selectedSection")) {
     timeBlocks = getTimeblocksFromCourses(
       timeBlocksOrCourses as Array<CourseData>
     );

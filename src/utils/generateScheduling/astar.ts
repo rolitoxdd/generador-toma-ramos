@@ -6,13 +6,6 @@ import getWindowsFromCoursesData from "../getWindowsFromCoursesData";
 import getNumberOfEarlyFreeBlocks from "../getNumberOfEarlyFreeBlocks";
 import { strategies } from ".";
 
-// type Heuristic = (
-//   alreadySelectedCourses: CourseData[],
-//   sections: SectionData[]
-// ) => SectionData;
-
-const getWeight = (data) => -getNumberOfEarlyFreeBlocks(data);
-
 export function astar({
   alreadySelectedCourses,
   notSelectedCourses,
@@ -50,14 +43,14 @@ export function astar({
     return null; // if there are no possible courses, we can stop cause the course selection is invalid
   }
 
-  const coursesOrderedByWindowsAdded = possibleCourses.sort(
-    (a, b) =>
-      getWeight([...alreadySelectedCourses, b]) -
-      getWeight([...alreadySelectedCourses, a])
-  );
+  // const coursesOrderedByWindowsAdded = possibleCourses.sort(
+  //   (a, b) =>
+  //     getWeight([...alreadySelectedCourses, b]) -
+  //     getWeight([...alreadySelectedCourses, a])
+  // );
 
   let result = null;
-  for (const course of coursesOrderedByWindowsAdded) {
+  for (const course of possibleCourses) {
     const newNotSelectedCourses = notSelectedCourses.filter(
       (notSelectedCourse) => notSelectedCourse.code !== course.code
     );

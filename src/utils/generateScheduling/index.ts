@@ -18,5 +18,9 @@ export const strategies = {
     -getNumberOfEarlyFreeBlocks(data),
 };
 
-export { default as dfs, default as default } from "./dfs";
 // export { default as astar, default as default } from "./astar";
+export { default as dfs, default as default } from "./dfs";
+// export {
+//   default as branchAndBound,
+//   default as default,
+// } from "./branchAndBound";
