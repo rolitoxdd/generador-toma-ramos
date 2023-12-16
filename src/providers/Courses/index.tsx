@@ -2,6 +2,7 @@ import { SectionData } from "@/models/sections";
 import { SubjectData } from "@/models/subjects";
 import { memo, createContext, useContext } from "react";
 import useSWR from "swr";
+import useSections from "./useSections";
 
 export type SubjectWithSections = SubjectData & {
   sections: Array<SectionData>;
@@ -25,10 +26,7 @@ export const useCourses = () => useContext(CoursesContext);
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
 const CoursesProvider = ({ children, career, subjects }) => {
-  const { data, isLoading } = useSWR<Array<SectionData>>(
-    `/sections/${career}.json`,
-    fetcher
-  );
+  const { data, isLoading } = useSections(career);
 
   const subjectsWithSections = subjects.map((subject) => {
     let sections = [];

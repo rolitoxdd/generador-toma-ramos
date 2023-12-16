@@ -17,20 +17,6 @@
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "PEREZ DANITZA KARINN"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ZENTENO ANDRÉS RAÚL"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GABA MARIANA RAQUEL"
       }
     ]
   }

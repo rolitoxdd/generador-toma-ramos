@@ -33,11 +33,21 @@ const useSectionSelect = (
     if (option === AUTO_SECTION) {
       return false;
     }
+
     return !timeBlocksDontOverlap([
       ...getTimeblocksFromCoursesData(
         selectedCourses.slice(0, selectedCoursesIndex)
       ),
-      ...option.timeBlocks,
+      ...option.timeBlocks.reduce((acc, timeBlock) => {
+        if (
+          !acc.find(
+            (tb) => tb.day === timeBlock.day && tb.block === timeBlock.block
+          )
+        ) {
+          return acc.concat(timeBlock);
+        }
+        return acc;
+      }, []),
       ...getTimeblocksFromCoursesData(
         selectedCourses.slice(selectedCoursesIndex + 1)
       ),
