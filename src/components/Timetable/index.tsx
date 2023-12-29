@@ -28,8 +28,9 @@ export const BLOCKS: Record<string, string> = {
   E: "14:30 - 15:50",
   F: "16:00 - 17:20",
   G: "17:30 - 18:50",
-  // H: "19:00 - 20:20",
-  // I: "20:30 - 21:50",
+  // H: "19:00 - 20:10",
+  // I: "20:15 - 21:30",
+  // J: "21:40 - 23:00",
 };
 
 export const DAYS = ["LU", "MA", "MI", "JU", "VI"];
@@ -39,11 +40,12 @@ export const Timetable: FC<TimetableProps> = memo(function Timetable({
 }) {
   if (
     timeBlocks.find(
-      (timeblock) => timeblock.block === "H" || timeblock.block === "I"
+      (timeblock) => timeblock.block === "H" || timeblock.block === "I" || timeblock.block === "J"
     )
   ) {
-    BLOCKS.H = "19:00 - 20:20";
-    BLOCKS.I = "20:30 - 21:50";
+    BLOCKS.H = "19:00 - 20:10";
+    BLOCKS.I = "20:15 - 21:30";
+    BLOCKS.J = "21:40 - 23:00";
   }
 
   return (

@@ -120,6 +120,46 @@
     ]
   },
   {
+    "code": "CIT3320",
+    "name": "CONTINUIDAD DE NEGOCIOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT3325",
+    "name": "INTELIGENCIA DE NEGOCIOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT3420",
+    "name": "REDES ÓPTICAS DE DATOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT3423",
+    "name": "TELEVISIÓN DIGITAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT3427",
+    "name": "INTERNET DE LAS COSAS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CIT4011",
     "name": "TITULACIÓN EXÁMEN DE TÍTULO",
     "credits": 30,
@@ -176,17 +216,9 @@
     ]
   },
   {
-    "code": "FIC1003",
-    "name": "DERECHO EN INGENIERÍA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ING9100",
-    "name": "PRÁCTICA ELECTIVA",
-    "credits": 6,
+    "code": "INF2030",
+    "name": "TALLER DE TÍTULO II",
+    "credits": 15,
     "references": [
       ""
     ]
@@ -246,22 +278,6 @@
     ]
   },
   {
-    "code": "CIT3345",
-    "name": "PROCESOS ÁGILES",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT3431",
-    "name": "REDES MÓVILES CELULARES",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CIT2006",
     "name": "ESTRUCTURAS DE DATOS Y ALGORITMOS",
     "credits": 6,
@@ -290,7 +306,7 @@
     "name": "DESARROLLO WEB Y MÓVIL",
     "credits": 6,
     "references": [
-      "CBM2000"
+      ""
     ]
   },
   {
@@ -470,48 +486,32 @@
     ]
   },
   {
-    "code": "CIT3349",
-    "name": "GRAFOS Y ALGORITMOS",
+    "code": "CIT3433",
+    "name": "INTEROPERABILIDAD Y SIST DE TELEC",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "CIT3354",
-    "name": "SISTEMAS DE PROCESAMIENTO PARA BIG DATA",
+    "code": "CIT3352",
+    "name": "ALGORITMOS EXACTOS Y METAHEURÍSTICAS",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "CIT3434",
-    "name": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG",
+    "code": "CIT3359",
+    "name": "PROYECTOS INTERDISCIPLINARIOS EN TEC.",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "CIT3435",
-    "name": "ALGORITMOS DE RUTEO Y REDES RESILIENTES",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT3356",
-    "name": "JUEGOS SERIOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT3358",
-    "name": "BLOCKCHAIN Y ALGORITMOS DESCENTRALIZADOS",
+    "code": "CIT3360",
+    "name": "DEEP LEARNING",
     "credits": 6,
     "references": [
       ""

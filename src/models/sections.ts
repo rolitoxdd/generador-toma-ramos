@@ -1,6 +1,6 @@
 import { readdir } from "node:fs/promises";
 
-type Block = "A" | "B" | "C" | "D" | "E" | "F" | "G" | "H" | "I";
+type Block = "A" | "B" | "C" | "D" | "E" | "F" | "G" | "H" | "I" | "J";
 
 export type TimeBlockData = {
   day: string;

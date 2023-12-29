@@ -5,32 +5,32 @@
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "A",
+        "day": "MA",
+        "block": "B",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
+        "teacher": "RIVERA JOSÉ RICARDO"
       },
       {
-        "day": "MI",
-        "block": "A",
+        "day": "VI",
+        "block": "B",
         "description": "AYUDANTÍA OBLIGATORIA 01",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "MIRANDA MOISÉS AARÓN"
       },
       {
-        "day": "MA",
-        "block": "A",
+        "day": "LU",
+        "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
+        "teacher": "RIVERA JOSÉ RICARDO"
       },
       {
         "day": "JU",
-        "block": "A",
+        "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
+        "teacher": "RIVERA JOSÉ RICARDO"
       }
     ]
   },
@@ -41,31 +41,31 @@
     "timeBlocks": [
       {
         "day": "MA",
-        "block": "E",
+        "block": "A",
         "description": "LABORATORIO 10",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "VILLAGRAN SIDNEY HERNAN"
       },
       {
-        "day": "MI",
-        "block": "E",
+        "day": "VI",
+        "block": "A",
         "description": "AYUDANTÍA OBLIGATORIA 05",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "VALDÉS BASTIÁN ALFREDO"
       },
       {
         "day": "LU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
+        "teacher": "VILLAGRAN SIDNEY HERNAN"
       },
       {
         "day": "JU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
+        "teacher": "VILLAGRAN SIDNEY HERNAN"
       }
     ]
   },
@@ -76,31 +76,31 @@
     "timeBlocks": [
       {
         "day": "VI",
-        "block": "E",
-        "description": "AYUDANTÍA OBLIGATORIA 06",
+        "block": "A",
+        "description": "LABORATORIO 11",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "BARTOLO LEONARDO MAURICIO"
       },
       {
         "day": "LU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "RIVERA JOSÉ RICARDO"
+        "teacher": "BARTOLO LEONARDO MAURICIO"
       },
       {
         "day": "JU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "RIVERA JOSÉ RICARDO"
+        "teacher": "BARTOLO LEONARDO MAURICIO"
       },
       {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 11",
+        "day": "MA",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 06",
         "isMandatory": true,
-        "teacher": "RIVERA JOSÉ RICARDO"
+        "teacher": "PÉREZ VICENTE JOAQUÍN"
       }
     ]
   },
@@ -110,277 +110,32 @@
     "section": "Sección 12",
     "timeBlocks": [
       {
-        "day": "MI",
-        "block": "E",
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "BARTOLO LEONARDO MAURICIO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "BARTOLO LEONARDO MAURICIO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
         "description": "LABORATORIO 12",
         "isMandatory": true,
-        "teacher": "RIVERA JOSÉ RICARDO"
+        "teacher": "LAVAYEN EDWARD STALIN"
       },
       {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "RIVERA JOSÉ RICARDO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "RIVERA JOSÉ RICARDO"
-      },
-      {
-        "day": "VI",
-        "block": "E",
+        "day": "MA",
+        "block": "A",
         "description": "AYUDANTÍA OBLIGATORIA 06",
         "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC13",
-    "subjectCode": "CBF1000",
-    "section": "Sección 13",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LABORATORIO 13",
-        "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 07",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC14",
-    "subjectCode": "CBF1000",
-    "section": "Sección 14",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LABORATORIO 14",
-        "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 07",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC15",
-    "subjectCode": "CBF1000",
-    "section": "Sección 15",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 15",
-        "isMandatory": true,
-        "teacher": "BRIZUELA JESSICA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "BRIZUELA JESSICA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "BRIZUELA JESSICA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 08",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC16",
-    "subjectCode": "CBF1000",
-    "section": "Sección 16",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 16",
-        "isMandatory": true,
-        "teacher": "BRIZUELA JESSICA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "BRIZUELA JESSICA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "BRIZUELA JESSICA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 08",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC17",
-    "subjectCode": "CBF1000",
-    "section": "Sección 17",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 09",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 17",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC18",
-    "subjectCode": "CBF1000",
-    "section": "Sección 18",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 18",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 09",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC19",
-    "subjectCode": "CBF1000",
-    "section": "Sección 19",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 19",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 10",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
+        "teacher": "PÉREZ VICENTE JOAQUÍN"
       }
     ]
   },
@@ -390,277 +145,32 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "MI",
-        "block": "A",
-        "description": "AYUDANTÍA OBLIGATORIA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "A",
+        "day": "MA",
+        "block": "B",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
+        "teacher": "RIVERA JOSÉ RICARDO"
       },
       {
-        "day": "MA",
-        "block": "A",
+        "day": "LU",
+        "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
+        "teacher": "RIVERA JOSÉ RICARDO"
       },
       {
         "day": "JU",
-        "block": "A",
+        "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC20",
-    "subjectCode": "CBF1000",
-    "section": "Sección 20",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 20",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 10",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC21",
-    "subjectCode": "CBF1000",
-    "section": "Sección 21",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 11",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO 21",
-        "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC22",
-    "subjectCode": "CBF1000",
-    "section": "Sección 22",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO 22",
-        "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
+        "teacher": "RIVERA JOSÉ RICARDO"
       },
       {
         "day": "VI",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 11",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
         "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC23",
-    "subjectCode": "CBF1000",
-    "section": "Sección 23",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "LABORATORIO 23",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 12",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "LEON ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "LEON ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC24",
-    "subjectCode": "CBF1000",
-    "section": "Sección 24",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 12",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "LABORATORIO 24",
-        "isMandatory": true,
-        "teacher": "VILLAGRAN SIDNEY HERNAN"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "LEON ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "LEON ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC25",
-    "subjectCode": "CBF1000",
-    "section": "Sección 25",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA OBLIGATORIA 13",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "MIRANDA MARIO ERNESTO BRAYAN"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "MIRANDA MARIO ERNESTO BRAYAN"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 25",
-        "isMandatory": true,
-        "teacher": "MIRANDA MARIO ERNESTO BRAYAN"
-      }
-    ]
-  },
-  {
-    "code": "CBF1000_VC26",
-    "subjectCode": "CBF1000",
-    "section": "Sección 26",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA OBLIGATORIA 13",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "MIRANDA MARIO ERNESTO BRAYAN"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "MIRANDA MARIO ERNESTO BRAYAN"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 26",
-        "isMandatory": true,
-        "teacher": "MIRANDA MARIO ERNESTO BRAYAN"
+        "teacher": "MIRANDA MOISÉS AARÓN"
       }
     ]
   },
@@ -670,32 +180,32 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "MA",
-        "block": "A",
-        "description": "LABORATORIO 03",
+        "day": "VI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "CARVAJAL ALEJANDRA ANDREA"
       },
       {
         "day": "LU",
-        "block": "A",
+        "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "EREMEEV VITALIE"
       },
       {
         "day": "JU",
-        "block": "A",
+        "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "EREMEEV VITALIE"
       },
       {
-        "day": "VI",
-        "block": "A",
-        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "day": "MA",
+        "block": "E",
+        "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "PARADA MARÍA JESÚS"
       }
     ]
   },
@@ -706,31 +216,31 @@
     "timeBlocks": [
       {
         "day": "MA",
-        "block": "A",
+        "block": "E",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "BRIZUELA JESSICA BEATRIZ"
       },
       {
         "day": "LU",
-        "block": "A",
+        "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "EREMEEV VITALIE"
       },
       {
         "day": "JU",
-        "block": "A",
+        "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "EREMEEV VITALIE"
       },
       {
         "day": "VI",
-        "block": "A",
+        "block": "E",
         "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "CARVAJAL ALEJANDRA ANDREA"
       }
     ]
   },
@@ -740,32 +250,32 @@
     "section": "Sección 5",
     "timeBlocks": [
       {
-        "day": "MI",
-        "block": "D",
+        "day": "VI",
+        "block": "E",
         "description": "LABORATORIO 05",
         "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 03",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "PAREDES DANIELA VICTORIA"
       },
       {
         "day": "LU",
-        "block": "D",
+        "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
+        "teacher": "PAREDES DANIELA VICTORIA"
       },
       {
         "day": "JU",
-        "block": "D",
+        "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
+        "teacher": "PAREDES DANIELA VICTORIA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ SEBASTIÁN"
       }
     ]
   },
@@ -775,32 +285,32 @@
     "section": "Sección 6",
     "timeBlocks": [
       {
-        "day": "MI",
-        "block": "D",
+        "day": "VI",
+        "block": "E",
         "description": "LABORATORIO 06",
         "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
+        "teacher": "PAREDES DANIELA VICTORIA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ SEBASTIÁN"
       },
       {
         "day": "LU",
-        "block": "D",
+        "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
+        "teacher": "PAREDES DANIELA VICTORIA"
       },
       {
         "day": "JU",
-        "block": "D",
+        "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "OLIVARES MARCO ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 03",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "PAREDES DANIELA VICTORIA"
       }
     ]
   },
@@ -810,32 +320,32 @@
     "section": "Sección 7",
     "timeBlocks": [
       {
-        "day": "MI",
-        "block": "F",
+        "day": "VI",
+        "block": "C",
         "description": "AYUDANTÍA OBLIGATORIA 04",
         "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
+        "teacher": "VALDÉS BASTIÁN ALFREDO"
       },
       {
         "day": "MA",
-        "block": "F",
+        "block": "C",
         "description": "LABORATORIO 07",
         "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
+        "teacher": "ESCÁRATE CONSTANZA ADRIANA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "OLIVARES MARCO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "OLIVARES MARCO ANDRES"
       }
     ]
   },
@@ -846,31 +356,31 @@
     "timeBlocks": [
       {
         "day": "MA",
-        "block": "F",
+        "block": "C",
         "description": "LABORATORIO 08",
         "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
+        "teacher": "OLIVARES MARCO ANDRES"
       },
       {
-        "day": "MI",
-        "block": "F",
+        "day": "VI",
+        "block": "C",
         "description": "AYUDANTÍA OBLIGATORIA 04",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "VALDÉS BASTIÁN ALFREDO"
       },
       {
         "day": "LU",
-        "block": "F",
+        "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
+        "teacher": "OLIVARES MARCO ANDRES"
       },
       {
         "day": "JU",
-        "block": "F",
+        "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "PAREDES DANIELA VICTORIA"
+        "teacher": "OLIVARES MARCO ANDRES"
       }
     ]
   },
@@ -881,31 +391,31 @@
     "timeBlocks": [
       {
         "day": "MA",
-        "block": "E",
+        "block": "A",
         "description": "LABORATORIO 09",
         "isMandatory": true,
-        "teacher": "BARTOLO LEONARDO MAURICIO"
+        "teacher": "VILLAGRAN SIDNEY HERNAN"
       },
       {
-        "day": "MI",
-        "block": "E",
+        "day": "VI",
+        "block": "A",
         "description": "AYUDANTÍA OBLIGATORIA 05",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "VALDÉS BASTIÁN ALFREDO"
       },
       {
         "day": "LU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
+        "teacher": "VILLAGRAN SIDNEY HERNAN"
       },
       {
         "day": "JU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "EREMEEV VITALIE"
+        "teacher": "VILLAGRAN SIDNEY HERNAN"
       }
     ]
   },
@@ -917,30 +427,275 @@
       {
         "day": "LU",
         "block": "A",
-        "description": "CÁTEDRA 01",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
         "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
+        "teacher": "ROZAS KATHERINE"
       },
       {
         "day": "MA",
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
+        "teacher": "LOPEZ MARIA GABRIELA"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
+        "teacher": "LOPEZ MARIA GABRIELA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "LOPEZ MARIA GABRIELA"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC10",
+    "subjectCode": "CBM1000",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 10",
+        "isMandatory": true,
+        "teacher": "IRIBARNE SANTIAGO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC11",
+    "subjectCode": "CBM1000",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 11",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "LOPEZ MARIA GABRIELA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "LOPEZ MARIA GABRIELA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "LOPEZ MARIA GABRIELA"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC12",
+    "subjectCode": "CBM1000",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 12",
+        "isMandatory": true,
+        "teacher": "VERA SEBASTIÁN NICOLÁS"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC13",
+    "subjectCode": "CBM1000",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 13",
+        "isMandatory": true,
+        "teacher": "PACHECO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": "ROSSEL JUAN BAUDILIO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": "ROSSEL JUAN BAUDILIO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": "ROSSEL JUAN BAUDILIO"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC14",
+    "subjectCode": "CBM1000",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "LANDERO CARLOS GABRIEL"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "LANDERO CARLOS GABRIEL"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
         "teacher": "LANDERO CARLOS GABRIEL"
       },
       {
         "day": "MI",
-        "block": "A",
-        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 14",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "PEDRAZA RAÚL"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC15",
+    "subjectCode": "CBM1000",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "CONTRERAS JAIME GILBERTO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "CONTRERAS JAIME GILBERTO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "CONTRERAS JAIME GILBERTO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 15",
+        "isMandatory": true,
+        "teacher": "VERA SEBASTIÁN NICOLÁS"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC16",
+    "subjectCode": "CBM1000",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 16",
+        "isMandatory": true,
+        "teacher": "CÁCERES CARLOS FRANCISCO"
       }
     ]
   },
@@ -951,31 +706,31 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
+        "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "MA",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
+        "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "JU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
+        "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "VI",
-        "block": "E",
+        "block": "A",
         "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "MEZA KEVIN"
       }
     ]
   },
@@ -985,32 +740,32 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "MI",
-        "block": "F",
-        "description": "AYUDANTÍA OBLIGATORIA 03",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
         "day": "LU",
-        "block": "F",
+        "block": "A",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
+        "teacher": "MARTI EMILIO ANDRES"
       },
       {
         "day": "JU",
-        "block": "F",
+        "block": "A",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
+        "teacher": "MARTI EMILIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MARTI EMILIO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": "VERA SEBASTIÁN NICOLÁS"
       }
     ]
   },
@@ -1024,28 +779,203 @@
         "block": "B",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "CASADO ANDREA"
+        "teacher": "RIVERO ROSA ELVIRA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "CASADO ANDREA"
+        "teacher": "RIVERO ROSA ELVIRA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "CASADO ANDREA"
+        "teacher": "RIVERO ROSA ELVIRA"
       },
       {
-        "day": "VI",
+        "day": "MI",
         "block": "B",
         "description": "AYUDANTÍA OBLIGATORIA 04",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "ROZAS KATHERINE"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC05",
+    "subjectCode": "CBM1000",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 05",
+        "isMandatory": true,
+        "teacher": "PEDRAZA RAÚL"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC06",
+    "subjectCode": "CBM1000",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "LANDERO CARLOS GABRIEL"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "LANDERO CARLOS GABRIEL"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "LANDERO CARLOS GABRIEL"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 06",
+        "isMandatory": true,
+        "teacher": "PACHECO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC07",
+    "subjectCode": "CBM1000",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "ZUÑIGA FERNANDO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "ZUÑIGA FERNANDO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "ZUÑIGA FERNANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 07",
+        "isMandatory": true,
+        "teacher": "SAEZ NICOLÁS ESTEBAN"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC08",
+    "subjectCode": "CBM1000",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "RIVERO ROSA ELVIRA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "RIVERO ROSA ELVIRA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "RIVERO ROSA ELVIRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 08",
+        "isMandatory": true,
+        "teacher": "CÁCERES CARLOS FRANCISCO"
+      }
+    ]
+  },
+  {
+    "code": "CBM1000_VC09",
+    "subjectCode": "CBM1000",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 09",
+        "isMandatory": true,
+        "teacher": "IBARRA VALENTINA ALEXANDRA"
       }
     ]
   },
@@ -1055,32 +985,277 @@
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "MI",
+        "day": "LU",
         "block": "B",
         "description": "AYUDANTÍA OBLIGATORIA 01",
         "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ARANCIBIA SARA"
+        "teacher": "SANTIBÁÑEZ ANTONIA IGNACIA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARANCIBIA SARA"
+        "teacher": "LOPEZ MARIA GABRIELA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARANCIBIA SARA"
+        "teacher": "LOPEZ MARIA GABRIELA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "LOPEZ MARIA GABRIELA"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC10",
+    "subjectCode": "CBM1001",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 10",
+        "isMandatory": true,
+        "teacher": "ÁVILA FERNANDA ISABEL"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC11",
+    "subjectCode": "CBM1001",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "NEIRA TOMAS ALFONSO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "NEIRA TOMAS ALFONSO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "NEIRA TOMAS ALFONSO"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 11",
+        "isMandatory": true,
+        "teacher": "VALDIVIA BERNARDO JESÚS"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC12",
+    "subjectCode": "CBM1001",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA  12",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA  12",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA  12",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 12",
+        "isMandatory": true,
+        "teacher": "MEZA KEVIN"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC13",
+    "subjectCode": "CBM1001",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": "RIVERO ROSA ELVIRA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": "RIVERO ROSA ELVIRA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": "RIVERO ROSA ELVIRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 13",
+        "isMandatory": true,
+        "teacher": "URBINA IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC14",
+    "subjectCode": "CBM1001",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 14",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC15",
+    "subjectCode": "CBM1001",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 15",
+        "isMandatory": true,
+        "teacher": "VALDIVIA BERNARDO JESÚS"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "MARECHAL MATTHIEU PHILIPPE"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "MARECHAL MATTHIEU PHILIPPE"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "MARECHAL MATTHIEU PHILIPPE"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC16",
+    "subjectCode": "CBM1001",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 16",
+        "isMandatory": true,
+        "teacher": "URBINA IGNACIO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
       }
     ]
   },
@@ -1090,32 +1265,32 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
+        "day": "VI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": "CONCHA MATEO IGNACIO"
+      },
+      {
         "day": "LU",
-        "block": "F",
+        "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "NEIRA TOMAS ALFONSO"
+        "teacher": "ARANCIBIA SARA DE LAS MERCEDES"
       },
       {
         "day": "MA",
-        "block": "F",
+        "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "NEIRA TOMAS ALFONSO"
+        "teacher": "ARANCIBIA SARA DE LAS MERCEDES"
       },
       {
         "day": "JU",
-        "block": "F",
+        "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "NEIRA TOMAS ALFONSO"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "AYUDANTÍA OBLIGATORIA 02",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "ARANCIBIA SARA DE LAS MERCEDES"
       }
     ]
   },
@@ -1125,32 +1300,32 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
+        "day": "VI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": "FIGUEROA IVÁN"
+      },
+      {
         "day": "LU",
-        "block": "C",
+        "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "MA",
-        "block": "C",
+        "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "JU",
-        "block": "C",
+        "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "ROSSEL JUAN BAUDILIO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 03",
-        "isMandatory": true,
-        "teacher": ""
       }
     ]
   },
@@ -1160,32 +1335,207 @@
     "section": "Sección 4",
     "timeBlocks": [
       {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 04",
+        "isMandatory": true,
+        "teacher": "CONCHA MATEO IGNACIO"
+      },
+      {
         "day": "LU",
-        "block": "D",
+        "block": "C",
         "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ARANCIBIA SARA DE LAS MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ARANCIBIA SARA DE LAS MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ARANCIBIA SARA DE LAS MERCEDES"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC05",
+    "subjectCode": "CBM1001",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 05",
+        "isMandatory": true,
+        "teacher": "URBINA IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC06",
+    "subjectCode": "CBM1001",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 06",
+        "isMandatory": true,
+        "teacher": "SANTIBÁÑEZ ANTONIA IGNACIA"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC07",
+    "subjectCode": "CBM1001",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 07",
         "isMandatory": true,
         "teacher": "SAAVEDRA IGNACIO EDUARDO"
       },
       {
         "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 04",
+        "block": "A",
+        "description": "CÁTEDRA 07",
         "isMandatory": true,
         "teacher": "SAAVEDRA IGNACIO EDUARDO"
       },
       {
         "day": "MI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 04",
+        "block": "A",
+        "description": "CÁTEDRA 07",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 07",
+        "isMandatory": true,
+        "teacher": "SANDOVAL JOAQUÍN"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC08",
+    "subjectCode": "CBM1001",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "MATURANA HUGO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 08",
+        "isMandatory": true,
+        "teacher": "ROZAS KATHERINE"
+      }
+    ]
+  },
+  {
+    "code": "CBM1001_VC09",
+    "subjectCode": "CBM1001",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 09",
+        "isMandatory": true,
+        "teacher": "ROZAS KATHERINE"
       }
     ]
   },
@@ -1195,172 +1545,32 @@
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "MA",
-        "block": "B",
+        "day": "LU",
+        "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
+        "teacher": "CASADO ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CASADO ANDREA"
       },
       {
         "day": "JU",
-        "block": "B",
+        "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
+        "teacher": "CASADO ANDREA"
       },
       {
         "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
+        "block": "D",
         "description": "AYUDANTÍA OBLIGATORIA 01",
         "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC10",
-    "subjectCode": "CBM1002",
-    "section": "Sección 10",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "AYUDANTÍA OBLIGATORIA 10",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC11",
-    "subjectCode": "CBM1002",
-    "section": "Sección 11",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "CONTRERAS JAIME GILBERTO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "CONTRERAS JAIME GILBERTO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "CONTRERAS JAIME GILBERTO"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "AYUDANTÍA OBLIGATORIA 11",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC12",
-    "subjectCode": "CBM1002",
-    "section": "Sección 12",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 12",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC13",
-    "subjectCode": "CBM1002",
-    "section": "Sección 13",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "AYUDANTÍA OBLIGATORIA 13",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "CÁCERES CARLOS FRANCISCO"
       }
     ]
   },
@@ -1371,31 +1581,31 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "B",
+        "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
+        "teacher": "LANDERO CARLOS GABRIEL"
       },
       {
         "day": "MA",
-        "block": "B",
+        "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
+        "teacher": "LANDERO CARLOS GABRIEL"
       },
       {
         "day": "JU",
-        "block": "B",
+        "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
+        "teacher": "LANDERO CARLOS GABRIEL"
       },
       {
-        "day": "MI",
-        "block": "B",
+        "day": "VI",
+        "block": "C",
         "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "GONZÁLEZ LAURA CECILIA"
       }
     ]
   },
@@ -1406,31 +1616,31 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "A",
+        "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "CASADO ANDREA"
+        "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "MA",
-        "block": "A",
+        "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "CASADO ANDREA"
+        "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "JU",
-        "block": "A",
+        "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "CASADO ANDREA"
+        "teacher": "ROSSEL JUAN BAUDILIO"
       },
       {
         "day": "VI",
-        "block": "A",
+        "block": "C",
         "description": "AYUDANTÍA OBLIGATORIA 03",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "SAEZ NICOLÁS ESTEBAN"
       }
     ]
   },
@@ -1441,204 +1651,29 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "A",
+        "block": "B",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "MATURANA HUGO"
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
       },
       {
         "day": "MA",
-        "block": "A",
+        "block": "B",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "MATURANA HUGO"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "MATURANA HUGO"
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
       },
       {
         "day": "MI",
-        "block": "A",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
         "description": "AYUDANTÍA OBLIGATORIA 04",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC05",
-    "subjectCode": "CBM1002",
-    "section": "Sección 5",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA OBLIGATORIA 05",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC06",
-    "subjectCode": "CBM1002",
-    "section": "Sección 6",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 06",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC07",
-    "subjectCode": "CBM1002",
-    "section": "Sección 7",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "CASADO ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "CASADO ANDREA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "CASADO ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 07",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC08",
-    "subjectCode": "CBM1002",
-    "section": "Sección 8",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "CONTRERAS JAIME GILBERTO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "CONTRERAS JAIME GILBERTO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "CONTRERAS JAIME GILBERTO"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "AYUDANTÍA OBLIGATORIA 08",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1002_VC09",
-    "subjectCode": "CBM1002",
-    "section": "Sección 9",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "AYUDANTÍA OBLIGATORIA 09",
         "isMandatory": true,
         "teacher": ""
       }
@@ -1651,171 +1686,31 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
+        "teacher": "LANDERO CARLOS GABRIEL"
       },
       {
         "day": "MA",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
+        "teacher": "LANDERO CARLOS GABRIEL"
       },
       {
         "day": "JU",
-        "block": "E",
+        "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
+        "teacher": "LANDERO CARLOS GABRIEL"
       },
       {
-        "day": "VI",
-        "block": "E",
+        "day": "MI",
+        "block": "A",
         "description": "AYUDANTÍA OBLIGATORIA 01",
         "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC10",
-    "subjectCode": "CBM1003",
-    "section": "Sección 10",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 10",
-        "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 02",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC11",
-    "subjectCode": "CBM1003",
-    "section": "Sección 11",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 11",
-        "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 11",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC12",
-    "subjectCode": "CBM1003",
-    "section": "Sección 12",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "MATURANA HUGO"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "MATURANA HUGO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 12",
-        "isMandatory": true,
-        "teacher": "MATURANA HUGO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 12",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC13",
-    "subjectCode": "CBM1003",
-    "section": "Sección 13",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "AYUDANTÍA OBLIGATORIA 13",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA 13",
-        "isMandatory": true,
-        "teacher": "ROSSEL JUAN BAUDILIO"
+        "teacher": "GUZMÁN ISIDORA ESTER"
       }
     ]
   },
@@ -1826,31 +1721,31 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "F",
+        "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+        "teacher": "MARTI EMILIO ANDRES"
       },
       {
         "day": "JU",
-        "block": "F",
+        "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+        "teacher": "MARTI EMILIO ANDRES"
       },
       {
-        "day": "MI",
-        "block": "F",
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MARTI EMILIO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
         "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "MARÍN BASTIÁN"
       }
     ]
   },
@@ -1860,32 +1755,32 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "VI",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 03",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
         "day": "LU",
-        "block": "C",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
       },
       {
         "day": "MA",
-        "block": "C",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
       },
       {
         "day": "JU",
-        "block": "C",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
+        "teacher": "BRAYOVIC BORIS ALEXANDER"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": "MENDIETA GAIZKA ALONSO"
       }
     ]
   },
@@ -1895,65 +1790,30 @@
     "section": "Sección 4",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
-      },
-      {
         "day": "MA",
         "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
+        "teacher": "LOPEZ MARIA GABRIELA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "LANDERO CARLOS GABRIEL"
+        "teacher": "LOPEZ MARIA GABRIELA"
       },
       {
         "day": "VI",
         "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 04",
+        "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC05",
-    "subjectCode": "CBM1003",
-    "section": "Sección 5",
-    "timeBlocks": [
+        "teacher": "LOPEZ MARIA GABRIELA"
+      },
       {
         "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "MARTI EMILIO ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "MARTI EMILIO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "MARTI EMILIO ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 05",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 04",
         "isMandatory": true,
         "teacher": ""
       }
@@ -1966,136 +1826,31 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "A",
+        "block": "E",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
       },
       {
         "day": "MA",
-        "block": "A",
+        "block": "E",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "BRAYOVIC BORIS ALEXANDER"
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
       },
       {
         "day": "MI",
-        "block": "A",
+        "block": "E",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "SAAVEDRA IGNACIO EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
         "description": "AYUDANTÍA OBLIGATORIA 06",
         "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC07",
-    "subjectCode": "CBM1003",
-    "section": "Sección 7",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "LOPEZ MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "AYUDANTÍA OBLIGATORIA 07",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC08",
-    "subjectCode": "CBM1003",
-    "section": "Sección 8",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": "MUÑOZ JUAN ESTEBAN EDUARDO"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA OBLIGATORIA 08",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CBM1003_VC09",
-    "subjectCode": "CBM1003",
-    "section": "Sección 9",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": "RIVERO ROSA ELVIRA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 09",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "MEZA KEVIN"
       }
     ]
   },
@@ -2105,25 +1860,221 @@
     "section": "Sección 1",
     "timeBlocks": [
       {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "SCHOLZ CHRISTÓBAL ARTURO"
+      },
+      {
         "day": "MA",
-        "block": "D",
+        "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "VI",
-        "block": "D",
+        "block": "E",
         "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC10",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 10",
+        "isMandatory": true,
+        "teacher": "ARAYA BÁRBARA MONTSERRAT"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "OPAZO EDITH ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "OPAZO EDITH ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC11",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "CONTENLA ROMMINA STEFANNIE"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "CONTENLA ROMMINA STEFANNIE"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 11",
+        "isMandatory": true,
+        "teacher": "GÓMEZ LUCAS ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC12",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "REYES NORA LILIAN"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "REYES NORA LILIAN"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 12",
+        "isMandatory": true,
+        "teacher": "OLIVARES FELIPE"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC13",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 13",
         "isMandatory": true,
         "teacher": "ARIAS MARIA PATRICIA"
       },
       {
-        "day": "MI",
-        "block": "E",
-        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 13",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 13",
+        "isMandatory": true,
+        "teacher": "RODRÍGUEZ NICOLÁS"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC14",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA KAREN CYNTIA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA KAREN CYNTIA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 14",
+        "isMandatory": true,
+        "teacher": "GUTIÉRREZ TOMÁS BENJAMÍN"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC15",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "REYES NORA LILIAN"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "REYES NORA LILIAN"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 15",
+        "isMandatory": true,
+        "teacher": "ARAYA CONSUELO IGNACIA"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC16",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CONTENLA ROMMINA STEFANNIE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "CONTENLA ROMMINA STEFANNIE"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 16",
+        "isMandatory": true,
+        "teacher": "VALENZUELA NAHUEL JOSÉ"
       }
     ]
   },
@@ -2133,25 +2084,25 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "GACITUA MANUEL ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "GACITUA MANUEL ALEJANDRO"
-      },
-      {
         "day": "MI",
-        "block": "B",
+        "block": "E",
         "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "VALENZUELA NAHUEL JOSÉ"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GACITUA MANUEL ALEJANDRO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GACITUA MANUEL ALEJANDRO"
       }
     ]
   },
@@ -2161,25 +2112,25 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "OPAZO EDITH ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "OPAZO EDITH ALEJANDRA"
-      },
-      {
         "day": "MI",
-        "block": "A",
+        "block": "E",
         "description": "AYUDANTÍA OBLIGATORIA 03",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "HEYSEN HANS PAUL"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA KAREN CYNTIA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA KAREN CYNTIA"
       }
     ]
   },
@@ -2189,25 +2140,25 @@
     "section": "Sección 4",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "C",
+        "day": "MA",
+        "block": "A",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "REYES NORA LILIAN"
+        "teacher": "ARIAS MARIA PATRICIA"
       },
       {
-        "day": "JU",
-        "block": "C",
+        "day": "VI",
+        "block": "A",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "REYES NORA LILIAN"
+        "teacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "MI",
-        "block": "F",
+        "block": "A",
         "description": "AYUDANTÍA OBLIGATORIA 04",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "MIRANDA MOISÉS AARÓN"
       }
     ]
   },
@@ -2217,25 +2168,137 @@
     "section": "Sección 5",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "C",
+        "day": "MI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 05",
+        "isMandatory": true,
+        "teacher": "GÓMEZ LUCAS ANTONIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
         "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "REYES NORA LILIAN"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "REYES NORA LILIAN"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC06",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "OPAZO EDITH ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "OPAZO EDITH ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 06",
+        "isMandatory": true,
+        "teacher": "VALENZUELA CHRISTIAN IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC07",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 07",
+        "isMandatory": true,
+        "teacher": "ORTÍZ MORONI AARON"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC08",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "OPAZO EDITH ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "OPAZO EDITH ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 08",
+        "isMandatory": true,
+        "teacher": "RODRÍGUEZ NICOLÁS"
+      }
+    ]
+  },
+  {
+    "code": "CBQ1000_VC09",
+    "subjectCode": "CBQ1000",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 09",
         "isMandatory": true,
         "teacher": "SEPULVEDA KAREN CYNTIA"
       },
       {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 05",
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 09",
         "isMandatory": true,
         "teacher": "SEPULVEDA KAREN CYNTIA"
       },
       {
         "day": "MI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 05",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 09",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "VALENZUELA CHRISTIAN IGNACIO"
       }
     ]
   },
@@ -2246,14 +2309,14 @@
     "timeBlocks": [
       {
         "day": "MA",
-        "block": "B",
+        "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "CORTES EMA BENITA"
       },
       {
         "day": "VI",
-        "block": "B",
+        "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "CORTES EMA BENITA"
@@ -2274,14 +2337,14 @@
     "timeBlocks": [
       {
         "day": "MA",
-        "block": "B",
+        "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "CORTES EMA BENITA"
       },
       {
         "day": "VI",
-        "block": "B",
+        "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "CORTES EMA BENITA"
@@ -2301,25 +2364,25 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "MI",
-        "block": "F",
-        "description": "AYUDANTÍA OPCIONAL 02",
-        "isMandatory": false,
-        "teacher": ""
-      },
-      {
         "day": "MA",
-        "block": "D",
+        "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CORTES EMA BENITA"
+        "teacher": "SAN MARTIN ROSA IRENE"
       },
       {
         "day": "VI",
-        "block": "D",
+        "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CORTES EMA BENITA"
+        "teacher": "SAN MARTIN ROSA IRENE"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
       }
     ]
   },
@@ -2329,25 +2392,25 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CORTES EMA BENITA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CORTES EMA BENITA"
-      },
-      {
         "day": "MI",
-        "block": "F",
+        "block": "B",
         "description": "AYUDANTÍA OPCIONAL 02",
         "isMandatory": false,
         "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN ROSA IRENE"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN ROSA IRENE"
       }
     ]
   },
@@ -2357,22 +2420,22 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "A",
+        "day": "MA",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ORTIZ ROBERTO ENRIQUE"
+        "teacher": "CORTES EMA BENITA"
       },
       {
-        "day": "JU",
-        "block": "A",
+        "day": "VI",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ORTIZ ROBERTO ENRIQUE"
+        "teacher": "CORTES EMA BENITA"
       },
       {
         "day": "MI",
-        "block": "B",
+        "block": "A",
         "description": "AYUDANTÍA OPCIONAL 03",
         "isMandatory": false,
         "teacher": ""
@@ -2385,22 +2448,22 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "A",
+        "day": "MA",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ORTIZ ROBERTO ENRIQUE"
+        "teacher": "CORTES EMA BENITA"
       },
       {
-        "day": "JU",
-        "block": "A",
+        "day": "VI",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ORTIZ ROBERTO ENRIQUE"
+        "teacher": "CORTES EMA BENITA"
       },
       {
         "day": "MI",
-        "block": "B",
+        "block": "A",
         "description": "AYUDANTÍA OPCIONAL 03",
         "isMandatory": false,
         "teacher": ""
@@ -2414,49 +2477,21 @@
     "timeBlocks": [
       {
         "day": "MI",
-        "block": "A",
+        "block": "E",
         "description": "AYUDANTÍA OPCIONAL 04",
         "isMandatory": false,
         "teacher": ""
       },
       {
         "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "ORTIZ ROBERTO ENRIQUE"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "ORTIZ ROBERTO ENRIQUE"
-      }
-    ]
-  },
-  {
-    "code": "CII1000_FG04",
-    "subjectCode": "CII1000",
-    "section": "Sección 4",
-    "timeBlocks": [
-      {
-        "day": "MI",
         "block": "A",
-        "description": "AYUDANTÍA OPCIONAL 04",
-        "isMandatory": false,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": "ORTIZ ROBERTO ENRIQUE"
       },
       {
         "day": "JU",
-        "block": "C",
+        "block": "A",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": "ORTIZ ROBERTO ENRIQUE"
@@ -2469,25 +2504,81 @@
     "section": "Sección 5",
     "timeBlocks": [
       {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "CORTES EMA BENITA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "CORTES EMA BENITA"
+      },
+      {
         "day": "MI",
         "block": "E",
         "description": "AYUDANTÍA OPCIONAL 05",
         "isMandatory": false,
         "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CII1000_VC06",
+    "subjectCode": "CII1000",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "ORTIZ ROBERTO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "ORTIZ ROBERTO ENRIQUE"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OPCIONAL 06",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CII1000_VC07",
+    "subjectCode": "CII1000",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OPCIONAL 07",
+        "isMandatory": false,
+        "teacher": ""
       },
       {
         "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 05",
+        "block": "B",
+        "description": "CÁTEDRA 07",
         "isMandatory": true,
-        "teacher": "SAN MARTIN ROSA IRENE"
+        "teacher": "ARISMENDI YESSICA ELIZBETH"
       },
       {
         "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 05",
+        "block": "B",
+        "description": "CÁTEDRA 07",
         "isMandatory": true,
-        "teacher": "SAN MARTIN ROSA IRENE"
+        "teacher": "ARISMENDI YESSICA ELIZBETH"
       }
     ]
   },
@@ -2497,23 +2588,219 @@
     "section": "Sección 1",
     "timeBlocks": [
       {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HIDALGO MAURICIO FERNANDO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HIDALGO MAURICIO FERNANDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "GALVEZ FRANCISCO ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA10",
+    "subjectCode": "CIT1000",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 10",
+        "isMandatory": true,
+        "teacher": "ÓRDENES RODRIGO JAVIER"
+      },
+      {
         "day": "LU",
         "block": "B",
-        "description": "CÁTEDRA 01",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "HIDALGO MAURICIO FERNANDO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "HIDALGO MAURICIO FERNANDO"
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA11",
+    "subjectCode": "CIT1000",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 11",
+        "isMandatory": true,
+        "teacher": "SIERRA ABEL CAIN"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA12",
+    "subjectCode": "CIT1000",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 12",
+        "isMandatory": true,
+        "teacher": "BERRÍOS NICOLÁS BASTIÁN"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 12",
         "isMandatory": true,
         "teacher": "DUARTE JUAN JOSE"
       },
       {
         "day": "JU",
         "block": "B",
-        "description": "CÁTEDRA 01",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "DUARTE JUAN JOSE"
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA13",
+    "subjectCode": "CIT1000",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 13",
+        "isMandatory": true,
+        "teacher": "CASTRO OSCAR ANDRÉS"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_VC14",
+    "subjectCode": "CIT1000",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 14",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA15",
+    "subjectCode": "CIT1000",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 15",
         "isMandatory": true,
         "teacher": "DUARTE JUAN JOSE"
       },
       {
-        "day": "MI",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "DUARTE JUAN JOSE"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 15",
+        "isMandatory": true,
+        "teacher": "MUÑOZ KEVIN DAMIÁN"
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA16",
+    "subjectCode": "CIT1000",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "AYUDANTÍA OBLIGATORIA 16",
+        "isMandatory": true,
+        "teacher": "ROMERO LAURA ANTONELLA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 16",
         "isMandatory": true,
         "teacher": ""
       }
@@ -2525,25 +2812,25 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 02",
+        "day": "JU",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": "DUARTE JUAN JOSE"
+        "teacher": "DIAZ VALENTINA"
       },
       {
-        "day": "JU",
-        "block": "D",
+        "day": "MA",
+        "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "DUARTE JUAN JOSE"
+        "teacher": "SUCHAN KAROL MARCIN"
       },
       {
         "day": "VI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "block": "C",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "SUCHAN KAROL MARCIN"
       }
     ]
   },
@@ -2554,24 +2841,24 @@
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "A",
+        "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ALVAREZ ESTEBAN AUGUSTO"
+        "teacher": ""
       },
       {
         "day": "JU",
-        "block": "A",
+        "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ALVAREZ ESTEBAN AUGUSTO"
+        "teacher": ""
       },
       {
-        "day": "VI",
-        "block": "A",
+        "day": "MA",
+        "block": "C",
         "description": "AYUDANTÍA OBLIGATORIA 03",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "MORALES BENJAMIN"
       }
     ]
   },
@@ -2581,22 +2868,22 @@
     "section": "Sección 4",
     "timeBlocks": [
       {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "HIDALGO MAURICIO FERNANDO"
-      },
-      {
-        "day": "VI",
-        "block": "E",
+        "day": "LU",
+        "block": "D",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": "HIDALGO MAURICIO FERNANDO"
       },
       {
         "day": "JU",
-        "block": "E",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "HIDALGO MAURICIO FERNANDO"
+      },
+      {
+        "day": "VI",
+        "block": "D",
         "description": "AYUDANTÍA OBLIGATORIA 04",
         "isMandatory": true,
         "teacher": ""
@@ -2604,30 +2891,170 @@
     ]
   },
   {
-    "code": "CIT1010_CA01",
-    "subjectCode": "CIT1010",
-    "section": "Sección 1",
+    "code": "CIT1000_CA05",
+    "subjectCode": "CIT1000",
+    "section": "Sección 5",
     "timeBlocks": [
       {
-        "day": "LU",
+        "day": "MA",
         "block": "D",
-        "description": "CÁTEDRA 01",
+        "description": "CÁTEDRA 05",
         "isMandatory": true,
         "teacher": ""
       },
       {
-        "day": "JU",
+        "day": "VI",
         "block": "D",
-        "description": "CÁTEDRA 01",
+        "description": "CÁTEDRA 05",
         "isMandatory": true,
         "teacher": ""
       },
       {
         "day": "MI",
         "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "description": "AYUDANTÍA OBLIGATORIA 05",
+        "isMandatory": true,
+        "teacher": "VERGARA NICOLÁS ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA06",
+    "subjectCode": "CIT1000",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "AYUDANTÍA OBLIGATORIA 06",
+        "isMandatory": true,
+        "teacher": "OVIEDO JONAS BERNABE"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "DUARTE JUAN JOSE"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "DUARTE JUAN JOSE"
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA07",
+    "subjectCode": "CIT1000",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 07",
+        "isMandatory": true,
+        "teacher": "DIAZ VALENTINA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 07",
         "isMandatory": true,
         "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA08",
+    "subjectCode": "CIT1000",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 08",
+        "isMandatory": true,
+        "teacher": "OVIEDO JONAS BERNABE"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "DUARTE JUAN JOSE"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": "DUARTE JUAN JOSE"
+      }
+    ]
+  },
+  {
+    "code": "CIT1000_CA09",
+    "subjectCode": "CIT1000",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "AYUDANTÍA OBLIGATORIA 09",
+        "isMandatory": true,
+        "teacher": "TAPIA DIEGO IGNACIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "HIDALGO MAURICIO FERNANDO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "HIDALGO MAURICIO FERNANDO"
+      }
+    ]
+  },
+  {
+    "code": "CIT1010_VC01",
+    "subjectCode": "CIT1010",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "POBLETE VICTOR MATIAS AARON"
       }
     ]
   },
@@ -2637,219 +3064,79 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "JU",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 02",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
         "day": "MA",
-        "block": "B",
+        "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SUCHAN KAROL MARCIN"
+        "teacher": "LLANZA LEANDRO ANTONIO"
       },
       {
         "day": "VI",
-        "block": "B",
+        "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SUCHAN KAROL MARCIN"
-      }
-    ]
-  },
-  {
-    "code": "CIT1010_CA03",
-    "subjectCode": "CIT1010",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "DUARTE JUAN JOSE"
+        "teacher": "LLANZA LEANDRO ANTONIO"
       },
       {
         "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 03",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
         "isMandatory": true,
-        "teacher": "DUARTE JUAN JOSE"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 03",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "VARGAS ANTONIO ANDRES"
       }
     ]
   },
   {
-    "code": "CIT1010_CA04",
+    "code": "CIT1010_VC03",
     "subjectCode": "CIT1010",
     "section": "Sección 4",
     "timeBlocks": [
       {
         "day": "LU",
         "block": "F",
-        "description": "CÁTEDRA 04",
+        "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "DUARTE JUAN JOSE"
+        "teacher": ""
       },
       {
         "day": "JU",
         "block": "F",
-        "description": "CÁTEDRA 04",
+        "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "DUARTE JUAN JOSE"
+        "teacher": ""
       },
       {
         "day": "MA",
         "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": "FUENTES VALERIA"
+      }
+    ]
+  },
+  {
+    "code": "CIT1010_VC04",
+    "subjectCode": "CIT1010",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
         "description": "AYUDANTÍA OBLIGATORIA 04",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CIT1010_CA05",
-    "subjectCode": "CIT1010",
-    "section": "Sección 5",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "HIDALGO MAURICIO FERNANDO"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "HIDALGO MAURICIO FERNANDO"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "AYUDANTÍA OBLIGATORIA 05",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CIT1010_CA06",
-    "subjectCode": "CIT1010",
-    "section": "Sección 6",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "LLANZA LEANDRO ANTONIO"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "LLANZA LEANDRO ANTONIO"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "AYUDANTÍA OBLIGATORIA 06",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CIT1010_CA07",
-    "subjectCode": "CIT1010",
-    "section": "Sección 7",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "HIDALGO MAURICIO FERNANDO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 07",
-        "isMandatory": true,
-        "teacher": "HIDALGO MAURICIO FERNANDO"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "AYUDANTÍA OBLIGATORIA 07",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CIT1010_CA08",
-    "subjectCode": "CIT1010",
-    "section": "Sección 8",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 08",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA OBLIGATORIA 08",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "CIT1010_CA09",
-    "subjectCode": "CIT1010",
-    "section": "Sección 9",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 09",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "AYUDANTÍA OBLIGATORIA 09",
         "isMandatory": true,
         "teacher": ""
       }
@@ -2876,21 +3163,21 @@
       },
       {
         "day": "VI",
-        "block": "C",
+        "block": "D",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
         "teacher": ""
       },
       {
-        "day": "LU",
-        "block": "F",
+        "day": "MI",
+        "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
         "teacher": ""
       },
       {
-        "day": "LU",
-        "block": "G",
+        "day": "MI",
+        "block": "B",
         "description": "LABORATORIO 01",
         "isMandatory": true,
         "teacher": ""
@@ -2918,21 +3205,21 @@
       },
       {
         "day": "VI",
-        "block": "C",
+        "block": "D",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
         "teacher": ""
       },
       {
         "day": "MI",
-        "block": "A",
+        "block": "D",
         "description": "LABORATORIO 02",
         "isMandatory": true,
         "teacher": ""
       },
       {
         "day": "MI",
-        "block": "B",
+        "block": "E",
         "description": "LABORATORIO 02",
         "isMandatory": true,
         "teacher": ""
@@ -2945,121 +3232,380 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "MI",
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ACOSTA SANDRA YOLANDA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ACOSTA SANDRA YOLANDA"
+      },
+      {
+        "day": "VI",
         "block": "D",
-        "description": "LABORATORIO 03",
+        "description": "AYUDANTÍA 01",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ACOSTA SANDRA YOLANDA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ACOSTA SANDRA YOLANDA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "AYUDANTÍA 02",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "COC2001_VC04",
-    "subjectCode": "COC2001",
-    "section": "Sección 4",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ACOSTA SANDRA YOLANDA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ACOSTA SANDRA YOLANDA"
       },
       {
         "day": "MI",
         "block": "F",
-        "description": "LABORATORIO 04",
+        "description": "LABORATORIO 03",
         "isMandatory": true,
         "teacher": ""
       },
       {
-        "day": "VI",
-        "block": "B",
-        "description": "AYUDANTÍA 02",
+        "day": "MI",
+        "block": "G",
+        "description": "LABORATORIO 03",
         "isMandatory": true,
         "teacher": ""
       }
     ]
   },
   {
-    "code": "FIC1000_VC1",
+    "code": "FIC1000_VC01",
     "subjectCode": "FIC1000",
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "MA",
-        "block": "A",
+        "day": "LU",
+        "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CORRAL GABRIELA ANDREA"
+        "teacher": "MEDINA MARÍA BELÉN"
       },
       {
-        "day": "VI",
-        "block": "A",
+        "day": "JU",
+        "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CORRAL GABRIELA ANDREA"
+        "teacher": "MEDINA MARÍA BELÉN"
       }
     ]
   },
   {
-    "code": "FIC1000_VC2",
+    "code": "FIC1000_VC10",
     "subjectCode": "FIC1000",
-    "section": "Sección 2",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "AÑAZCO MARÍA JOSÉ"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": "AÑAZCO MARÍA JOSÉ"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC11",
+    "subjectCode": "FIC1000",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "AÑAZCO MARÍA JOSÉ"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": "AÑAZCO MARÍA JOSÉ"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC12",
+    "subjectCode": "FIC1000",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "REYES GRACIELA DE LOURDES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": "REYES GRACIELA DE LOURDES"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC13",
+    "subjectCode": "FIC1000",
+    "section": "Sección 13",
     "timeBlocks": [
       {
         "day": "MA",
         "block": "B",
-        "description": "CÁTEDRA 02",
+        "description": "CÁTEDRA 13",
         "isMandatory": true,
-        "teacher": "CORRAL GABRIELA ANDREA"
+        "teacher": "REYES GRACIELA DE LOURDES"
       },
       {
         "day": "VI",
         "block": "B",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": "REYES GRACIELA DE LOURDES"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC14",
+    "subjectCode": "FIC1000",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "REYES GRACIELA DE LOURDES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": "REYES GRACIELA DE LOURDES"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC15",
+    "subjectCode": "FIC1000",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "ROJAS PABLO ELIAS"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": "ROJAS PABLO ELIAS"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC16",
+    "subjectCode": "FIC1000",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "MEDINA MARÍA BELÉN"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": "MEDINA MARÍA BELÉN"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC02",
+    "subjectCode": "FIC1000",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
         "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "QUEZADA MARÍA GRACIELA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "QUEZADA MARÍA GRACIELA"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC03",
+    "subjectCode": "FIC1000",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "QUEZADA MARÍA GRACIELA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "QUEZADA MARÍA GRACIELA"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC04",
+    "subjectCode": "FIC1000",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "CORRAL GABRIELA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": "CORRAL GABRIELA ANDREA"
       }
     ]
   },
   {
-    "code": "ICI9045_VC01",
+    "code": "FIC1000_VC05",
+    "subjectCode": "FIC1000",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "CORRAL GABRIELA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "CORRAL GABRIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC06",
+    "subjectCode": "FIC1000",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "CORRAL GABRIELA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "CORRAL GABRIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC07",
+    "subjectCode": "FIC1000",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "SERVELLO STEPHANIE ISABEL"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "SERVELLO STEPHANIE ISABEL"
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC08",
+    "subjectCode": "FIC1000",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "FIC1000_VC09",
+    "subjectCode": "FIC1000",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "AÑAZCO MARÍA JOSÉ"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": "AÑAZCO MARÍA JOSÉ"
+      }
+    ]
+  },
+  {
+    "code": "ICI9045_VC1",
     "subjectCode": "ICI9045",
     "section": "Sección 1",
     "timeBlocks": [
@@ -3080,24 +3626,24 @@
     ]
   },
   {
-    "code": "ICI3310_VC01",
-    "subjectCode": "ICI3310",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "I",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
     "code": "COC2006_VC01",
     "subjectCode": "COC2006",
     "section": "Sección 1",
     "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MONTORIO CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "LABORATORIO 01",
+        "isMandatory": true,
+        "teacher": "MONTORIO CAROLINA ANDREA"
+      },
       {
         "day": "LU",
         "block": "A",
@@ -3114,24 +3660,10 @@
       },
       {
         "day": "MI",
-        "block": "E",
+        "block": "C",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
         "teacher": "SAEZ MARCELA ROSA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": ""
       }
     ]
   },
@@ -3141,6 +3673,27 @@
     "section": "Sección 2",
     "timeBlocks": [
       {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA 01",
+        "isMandatory": true,
+        "teacher": "SAEZ MARCELA ROSA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "SAEZ MARCELA ROSA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "LABORATORIO 02",
+        "isMandatory": true,
+        "teacher": "SAEZ MARCELA ROSA"
+      },
+      {
         "day": "LU",
         "block": "A",
         "description": "CÁTEDRA 01",
@@ -3153,27 +3706,6 @@
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "MONTORIO CAROLINA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "SAEZ MARCELA ROSA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": ""
       }
     ]
   },
@@ -3183,6 +3715,27 @@
     "section": "Sección 3",
     "timeBlocks": [
       {
+        "day": "MI",
+        "block": "C",
+        "description": "AYUDANTÍA 01",
+        "isMandatory": true,
+        "teacher": "SAEZ MARCELA ROSA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "SAEZ MARCELA ROSA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "LABORATORIO 03",
+        "isMandatory": true,
+        "teacher": "SAEZ MARCELA ROSA"
+      },
+      {
         "day": "LU",
         "block": "A",
         "description": "CÁTEDRA 01",
@@ -3195,27 +3748,6 @@
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "MONTORIO CAROLINA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "SAEZ MARCELA ROSA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": ""
       }
     ]
   }

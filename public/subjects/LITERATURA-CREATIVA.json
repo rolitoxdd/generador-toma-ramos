@@ -1,47 +1,39 @@
 [
   {
-    "code": "LIT1013",
-    "name": "LITERATURA HISPANOAMERICANA I",
+    "code": "COM9100",
+    "name": "PRÁCTICA ELECTIVA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT1019",
-    "name": "TRADUCCIÓN LITERARIA",
+    "code": "LIT1025",
+    "name": "LITERATURA ESPAÑOLA II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT1020",
-    "name": "TALLER DE CRÍTICA LITERARIA",
+    "code": "LIT1030",
+    "name": "TALLER DE INTRODUCCIÓN AL ENSAYO",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT1027",
-    "name": "LITERATURA HISPANOAMERICANA III",
+    "code": "LIT2001",
+    "name": "SEMINARIO SHAKESPEARE",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT1028",
-    "name": "TALLER DE TITULACIÓN II",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "LIT2000",
-    "name": "SEMINARIO QUIJOTE",
+    "code": "LIT2002",
+    "name": "TALLER DE ESCRITURA",
     "credits": 5,
     "references": [
       ""
@@ -56,72 +48,96 @@
     ]
   },
   {
-    "code": "LIT2009",
-    "name": "TALLER DE INTRODUCCIÓN A LA POESÍA",
+    "code": "LIT2012",
+    "name": "LITERATURA ESPAÑOLA I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT2042",
-    "name": "LINGÜÍSTICA GENERAL II",
+    "code": "LIT2026",
+    "name": "LITERATURA HISPANOAMERICANA II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3004",
-    "name": "GRAMÁTICA II",
+    "code": "LIT2028",
+    "name": "TALLER DE TITULACIÓN I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3005",
-    "name": "LATÍN II",
+    "code": "LIT2030",
+    "name": "LINGÜÍSTICA GENERAL I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3006",
-    "name": "LITERATURA OCCIDENTAL I",
+    "code": "LIT3000",
+    "name": "GRAMÁTICA I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3008",
-    "name": "LITERATURA OCCIDENTAL III",
+    "code": "LIT3001",
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN LITERARI",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3010",
-    "name": "EDICIÓN DE TEXTOS",
+    "code": "LIT3002",
+    "name": "LATÍN I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3012",
-    "name": "PRODUCCIÓN EDITORIAL II",
+    "code": "LIT3003",
+    "name": "ANÁLISIS DE TEXTOS LITERARIOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3013",
-    "name": "TEORÍA LITERARIA I",
+    "code": "LIT3007",
+    "name": "LITERATURA OCCIDENTAL II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3009",
+    "name": "LITERATURA OCCIDENTAL IV",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3011",
+    "name": "PRODUCCIÓN EDITORIAL I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3014",
+    "name": "TEORÍA LITERARIA II",
     "credits": 5,
     "references": [
       ""
@@ -136,16 +152,8 @@
     ]
   },
   {
-    "code": "LIT3017",
-    "name": "NARRATIVA CHILENA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "LIT3018",
-    "name": "ESTÉTICA GENERAL",
+    "code": "LIT3016",
+    "name": "POESÍA CHILENA",
     "credits": 5,
     "references": [
       ""
@@ -192,32 +200,56 @@
     ]
   },
   {
-    "code": "LIT9094",
-    "name": "LITERATURA RUSA",
+    "code": "PER6113",
+    "name": "REDACCIÓN GENERAL",
+    "credits": 5,
+    "references": [
+      "COM5113"
+    ]
+  },
+  {
+    "code": "LIT9109",
+    "name": "CANAL DE LITERATURA DIGITAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT9116",
-    "name": "TALLER DE TRAVESÍA",
+    "code": "LIT9110",
+    "name": "TALLER WORD FOR WORD",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT9119",
-    "name": "LA PRENSA COMO CANTERA PARA UN LIBRO",
+    "code": "LIT9111",
+    "name": "TALLER DE NO FICCIÓN",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT9120",
-    "name": "VOLVER AL FUTURO: LOS 80S, MTV Y LA CULT",
+    "code": "LIT9117",
+    "name": "LITERATURA FRANCESA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9121",
+    "name": "LA OTRA ESCRITURA DE JOSÉ DONOSO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9122",
+    "name": "ANÁLISIS DE LITERATURAS INTERMINABLES",
     "credits": 5,
     "references": [
       ""

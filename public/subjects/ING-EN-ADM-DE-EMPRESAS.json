@@ -32,27 +32,11 @@
     ]
   },
   {
-    "code": "EVE0601",
-    "name": "TECNOLOGÍAS DE INFORMACIÓN EMPRESARIAL",
+    "code": "EVE0201",
+    "name": "ADMINISTRACIÓN I",
     "credits": 5,
     "references": [
-      "IAE4219"
-    ]
-  },
-  {
-    "code": "EVE0202",
-    "name": "ADMINISTRACIÓN II",
-    "credits": 5,
-    "references": [
-      "IAE4201"
-    ]
-  },
-  {
-    "code": "IAE5207",
-    "name": "CÁLCULO",
-    "credits": 5,
-    "references": [
-      "IAE4207"
+      "IAE4101"
     ]
   },
   {
@@ -61,14 +45,6 @@
     "credits": 5,
     "references": [
       "IAE4113"
-    ]
-  },
-  {
-    "code": "IAE5209",
-    "name": "CONTABILIDAD II",
-    "credits": 5,
-    "references": [
-      "IAE4209"
     ]
   },
   {
@@ -86,6 +62,14 @@
     "references": [
       "IAE4307",
       "IFG1302"
+    ]
+  },
+  {
+    "code": "IAE5315",
+    "name": "COMPORTAMIENTO ORGANIZACIONAL",
+    "credits": 5,
+    "references": [
+      "IAE4515"
     ]
   },
   {
@@ -110,22 +94,6 @@
     "credits": 5,
     "references": [
       "IAE4413"
-    ]
-  },
-  {
-    "code": "IAE5407",
-    "name": "ESTADÍSTICA II",
-    "credits": 5,
-    "references": [
-      "IAE4407"
-    ]
-  },
-  {
-    "code": "IAE5405",
-    "name": "GESTIÓN COMERCIAL",
-    "credits": 5,
-    "references": [
-      "IAE4405"
     ]
   },
   {
@@ -185,51 +153,11 @@
     ]
   },
   {
-    "code": "IAE5605",
-    "name": "INVESTIGACIÓN DE MERCADOS",
-    "credits": 5,
-    "references": [
-      "IAE4605"
-    ]
-  },
-  {
-    "code": "IAE5615",
-    "name": "MEDICIONES EN GESTIÓN DE RRHH",
-    "credits": 5,
-    "references": [
-      "IAE4715"
-    ]
-  },
-  {
     "code": "IAE5606",
     "name": "GERENCIA DE VENTAS",
     "credits": 5,
     "references": [
       "IAE4606"
-    ]
-  },
-  {
-    "code": "IAE5616",
-    "name": "ESTRATÉGIAS COMUNICACIONALES",
-    "credits": 5,
-    "references": [
-      "IAE4705"
-    ]
-  },
-  {
-    "code": "IAE5613",
-    "name": "FUNDAMENTOS DE ECONOMETRÍA",
-    "credits": 5,
-    "references": [
-      "IAE4613"
-    ]
-  },
-  {
-    "code": "IAE5603",
-    "name": "FINANZAS INTERNACIONALES",
-    "credits": 5,
-    "references": [
-      "IAE4703"
     ]
   },
   {
@@ -257,6 +185,14 @@
     ]
   },
   {
+    "code": "IAE5703",
+    "name": "MERCADO DE CAPITALES",
+    "credits": 5,
+    "references": [
+      "IAE4803"
+    ]
+  },
+  {
     "code": "IAE5704",
     "name": "ESTRATÉGIAS FINANCIERAS",
     "credits": 5,
@@ -273,48 +209,16 @@
     ]
   },
   {
-    "code": "INL4090",
-    "name": "HERRAMIENTAS APLICADAS PROC LOGÍSTICOS",
+    "code": "IIG4001",
+    "name": "GESTIÓN DE SERVICIOS TI BASADOS EN ITIL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CAV00004",
-    "name": "APLICACIÓN DE LAS IFRS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CAV00003",
-    "name": "AUDITORÍA FORENSE",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CAV00001",
-    "name": "GESTIÓN TRIBUTARIA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "IIG4002",
-    "name": "NEGOCIOS EN INTERNET",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EVE5801",
-    "name": "GESTIÓN DE DATOS PARA TOMA DE DECISIONES",
+    "code": "INL4080",
+    "name": "NORMATIVA DE SEG. EN LAS OP. LOGÍSTICAS",
     "credits": 5,
     "references": [
       ""
@@ -329,19 +233,59 @@
     ]
   },
   {
-    "code": "EVE5803",
-    "name": "ÉTICA DE LOS NEGOCIOS Y LA GERENCIA",
+    "code": "EVE5804",
+    "name": "RESPONSABILIDAD SOCIAL CORPORATIVA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EVE5807",
-    "name": "GERENCIA DE RETAIL",
+    "code": "EVE5806",
+    "name": "REESTRUCTURACION DE EMPRESAS",
     "credits": 5,
     "references": [
       ""
+    ]
+  },
+  {
+    "code": "CAV00006",
+    "name": "MARCOS ASG Y AUDITORIA SUSTENTABLE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IAE06111",
+    "name": "TECNOLOGÍAS DE INFORMACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IAE06112",
+    "name": "ADMINISTRACIÓN DE EMPRESAS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IAE06113",
+    "name": "CONTABILIDAD FINANCIERA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE08111",
+    "name": "ÁLGEBRA APLICADA",
+    "credits": 5,
+    "references": [
+      "EVE0102"
     ]
   }
 ]

@@ -224,14 +224,6 @@
     ]
   },
   {
-    "code": "COC3301",
-    "name": "TALLER DE PROYECTOS",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "COC4014",
     "name": "EXAMEN DE TITULO",
     "credits": 30,
@@ -259,22 +251,6 @@
     "code": "FIC1000",
     "name": "COMUNICACIÓN PARA LA INGENIERÍA",
     "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FIC1003",
-    "name": "DERECHO EN INGENIERÍA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ING9100",
-    "name": "PRÁCTICA ELECTIVA",
-    "credits": 6,
     "references": [
       ""
     ]
@@ -318,8 +294,8 @@
     ]
   },
   {
-    "code": "COC3624",
-    "name": "INSPECCIÓN TÉCNICA DE OBRAS Y SIST GEST",
+    "code": "COC3619",
+    "name": "ELECTIVO PROFESIONAL; DISEÑO EN MADERA",
     "credits": 6,
     "references": [
       ""
@@ -334,27 +310,11 @@
     ]
   },
   {
-    "code": "COC3427",
-    "name": "ELECTIVO PROFESIONAL: DISEÑO OBRAS HIDRA",
+    "code": "COC3625",
+    "name": "MANEJO DEL RIESGO Y APOYO DE LA TOMA DE",
     "credits": 6,
     "references": [
       ""
-    ]
-  },
-  {
-    "code": "COC3527",
-    "name": "DISEÑO EN ESTRUCTURA DE ACERO AVANZADO",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT2008",
-    "name": "DESARROLLO WEB Y MÓVIL",
-    "credits": 6,
-    "references": [
-      "CBM2000"
     ]
   },
   {
@@ -434,12 +394,36 @@
     "name": "PLANIFICACIÓN DE PROYECTOS",
     "credits": 6,
     "references": [
-      ""
+      "COC2004"
     ]
   },
   {
     "code": "COC2009",
     "name": "BIM",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3300",
+    "name": "TALLER DE PROYECTOS",
+    "credits": 7,
+    "references": [
+      "COC3301"
+    ]
+  },
+  {
+    "code": "COC3331",
+    "name": "PRÁCTICA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3431",
+    "name": "PRÁCTICA II",
     "credits": 6,
     "references": [
       ""
@@ -478,32 +462,16 @@
     ]
   },
   {
+    "code": "COC3530",
+    "name": "EP EG; INGENIERÍA GEOTÉCNICA AVANZADA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "COC3428",
     "name": "EP HM; MODELACIÓN HIDROLÓGICA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC3531",
-    "name": "EP EG; MODELACIÓN NUMÉRICA DE ESTRUCTURA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC3429",
-    "name": "EP HM; ELECT PROF. INGENIERIA DE PUENTES",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC3432",
-    "name": "EP HM; HIDROLOGÍA DE MONTAÑA",
     "credits": 6,
     "references": [
       ""
@@ -518,8 +486,16 @@
     ]
   },
   {
-    "code": "COC3632",
-    "name": "EP GC; TEMAS AVANZADOS DE ING CIVIL",
+    "code": "COC3433",
+    "name": "EP HM; AGUAS RESIDUALES Y MEDIO AMBIENTE",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3633",
+    "name": "EP GC; SISTEMAS INTEGRADOS DE GESTIÓN",
     "credits": 6,
     "references": [
       ""

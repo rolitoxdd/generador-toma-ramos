@@ -3,6 +3,10 @@ import { SubjectWithSections, useCourses } from "@/providers/Courses";
 import type { AutocompleteProps } from "@mui/material";
 import { useMemo } from "react";
 
+function removeDuplicates(arr: SubjectWithSections[]) {
+  return arr.filter((item) => arr.find((x) => x.code === item.code) === item);
+}
+
 const useSubjectSelect = (selectedCoursesIndex: number) => {
   const courses = useCourses();
   const selectCourse = useStore((store) => store.selectCourse);
@@ -17,7 +21,11 @@ const useSubjectSelect = (selectedCoursesIndex: number) => {
   const getOptionDisabled = (option) =>
     Boolean(selectedCourses.find((c) => c?.code === option.code));
 
-  return { subjects: courses.subjects, onChange, getOptionDisabled };
+  return {
+    subjects: removeDuplicates(courses.subjects),
+    onChange,
+    getOptionDisabled,
+  };
 };
 
 export default useSubjectSelect;
