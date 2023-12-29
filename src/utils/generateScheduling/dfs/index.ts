@@ -1,7 +1,12 @@
 export {
   default as minimalFWChecking,
-  default as default,
+  // default as default,
 } from "./minimalFWChecking";
+
+export {
+  default as minimalFWCheckingAll,
+  default as default,
+} from "./minimalFWCheckingAll";
 
 export {
   default as withoutFWChecking,

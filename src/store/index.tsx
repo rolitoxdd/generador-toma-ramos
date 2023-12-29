@@ -9,7 +9,7 @@ export type CourseData = SubjectWithSections & {
 
 type State = {
   selectedCourses: Array<CourseData | null>;
-  generatedSchedule?: CourseData[] | null;
+  generatedSchedules?: CourseData[][] | null;
   showGeneratedSchedule: boolean;
   selectedStrategy: string;
 };
@@ -18,7 +18,7 @@ type Actions = {
   addCourse: () => void;
   removeCourse: (index: number) => void;
   selectCourse: (index: number, course: CourseData) => void;
-  showSchedule: (schedule: CourseData[]) => void;
+  showSchedule: (schedule: CourseData[][]) => void;
   closeSchedule: () => void;
   changeStrategy: (strategy: string) => void;
 };
@@ -48,7 +48,7 @@ export const useStore = create<State & Actions>((set) => ({
   showSchedule: (schedule) => {
     set(() => {
       return {
-        generatedSchedule: schedule,
+        generatedSchedules: schedule,
         showGeneratedSchedule: true,
       };
     });
@@ -56,7 +56,7 @@ export const useStore = create<State & Actions>((set) => ({
   closeSchedule: () => {
     set(() => {
       return {
-        generatedSchedule: null,
+        generatedSchedules: null,
         showGeneratedSchedule: false,
       };
     });

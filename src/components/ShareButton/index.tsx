@@ -11,7 +11,6 @@ const ShareButton: FC<ShareButtonProps> = memo(function ShareButton({
   const url = courses
     .sort((a, b) => a.code.localeCompare(b.code))
     .map((course) => `${course.code}-${course.selectedSection?.code}`);
-  console.log("url", url);
   
   return (
     <Tooltip title="Compartir este horario">
