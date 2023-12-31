@@ -1,5 +1,6 @@
 import { Html, Head, Main, NextScript } from "next/document";
 import { useTheme, Container } from "@mui/material";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Document() {
   const theme = useTheme();
@@ -13,6 +14,7 @@ export default function Document() {
         >
           {/* Header with change of color possiblity */}
           <Main />
+          <Analytics />
           <NextScript />
         </Container>
       </body>
