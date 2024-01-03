@@ -24,7 +24,14 @@ const GeneratedScheduleModal: React.FC = function GeneratedScheduleModal() {
     <Modal
       open={showSchedule}
       onClose={closeSchedule}
-      sx={{ display: "flex", justifyContent: "center", alignItems: "center" }}
+      sx={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        marginLeft: "30px",
+        marginRight: "30px",
+        marginTop: "30px",
+      }}
     >
       <>
         <Box
@@ -34,6 +41,8 @@ const GeneratedScheduleModal: React.FC = function GeneratedScheduleModal() {
             padding: "50px",
             height: "fit-content",
             position: "relative",
+            maxHeight: "90%",
+            overflow: "scroll",
           }}
         >
           <IconButton

@@ -40,7 +40,10 @@ export const Timetable: FC<TimetableProps> = memo(function Timetable({
 }) {
   if (
     timeBlocks.find(
-      (timeblock) => timeblock.block === "H" || timeblock.block === "I" || timeblock.block === "J"
+      (timeblock) =>
+        timeblock.block === "H" ||
+        timeblock.block === "I" ||
+        timeblock.block === "J"
     )
   ) {
     BLOCKS.H = "19:00 - 20:10";
