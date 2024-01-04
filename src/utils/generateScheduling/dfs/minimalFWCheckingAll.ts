@@ -55,7 +55,9 @@ function getAll({
     strategy,
     results,
   });
-  return results;
+  return results.sort(
+    (a, b) => strategies[strategy](a) - strategies[strategy](b)
+  );
 }
 
 export default getAll;
