@@ -32,7 +32,7 @@ const useCourseForm = () => {
       const schedule = e.data;
       console.log(schedule);
       console.timeEnd("generateScheduling");
-      if (!schedule)
+      if (!schedule || !schedule.length)
         alert("No se pudo generar un horario con los ramos seleccionados");
       showSchedule(schedule);
       setIsLoading(false);
