@@ -1,56 +1,40 @@
 [
   {
-    "code": "PEL2001",
-    "name": "DIDÁCTICA DE LA ESCRITURA, LECTURA Y ORA",
+    "code": "PEL2004",
+    "name": "DIDÁCTICA DE LA LITERATURA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PEL2005",
+    "name": "EVALUACIÓN DE LA LITERATURA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PEL2006",
+    "name": "PRÁCTICA Y REFLEXIÓN DOCENTE II",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PHL2014",
+    "name": "APRENDIZAJE Y DESARROLLO EN LA ADOLES II",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PHL2015",
+    "name": "SEMINARIO DE TITULACIÓN",
     "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PEL2002",
-    "name": "EVALUACIÓN DE LA ESCRITURA, LECTURA Y OR",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PEL2003",
-    "name": "PRÁCTICA Y REFLEXIÓN DOCENTE I",
-    "credits": 8,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PELEXA2",
-    "name": "EXAMEN DE TÍTULO",
-    "credits": 0,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PHL2009",
-    "name": "CURRÍCULUM EN EL SISTEMA ESCOLAR CHILENO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PHL2010",
-    "name": "APRENDIZAJE Y DES. EN LA ADOLESCEN I",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PHL2011",
-    "name": "POLITICAS EDUCATIVAS Y PRÁCTICAS DOC",
-    "credits": 4,
     "references": [
       ""
     ]

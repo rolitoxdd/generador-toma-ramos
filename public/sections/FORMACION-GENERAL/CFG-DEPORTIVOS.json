@@ -1,6 +1,6 @@
 [
   {
-    "code": "FGS90005_VC0",
+    "code": "FGD9005_FG01",
     "subjectCode": "FGD9005",
     "section": "Sección 1",
     "timeBlocks": [
@@ -93,14 +93,14 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "MENDOZA FRANCISCO JAVIER"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "MENDOZA FRANCISCO JAVIER"
       }
     ]
   },
@@ -317,19 +317,19 @@
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CARO PAULA ALEJANDRA"
+        "teacher": "GARCÍA ROCÍO"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CARO PAULA ALEJANDRA"
+        "teacher": "GARCÍA ROCÍO"
       }
     ]
   },
   {
-    "code": "FGD9033_VC02",
+    "code": "FGD9033_FG02",
     "subjectCode": "FGD9033",
     "section": "Sección 2",
     "timeBlocks": [
@@ -338,14 +338,14 @@
         "block": "D",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CARO PAULA ALEJANDRA"
+        "teacher": "GARCÍA ROCÍO"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CARO PAULA ALEJANDRA"
+        "teacher": "GARCÍA ROCÍO"
       }
     ]
   },
@@ -359,14 +359,14 @@
         "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "CARO PAULA ALEJANDRA"
+        "teacher": "GARCÍA ROCÍO"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "CARO PAULA ALEJANDRA"
+        "teacher": "GARCÍA ROCÍO"
       }
     ]
   },
@@ -504,21 +504,21 @@
     ]
   },
   {
-    "code": "FGD9051_FG01",
-    "subjectCode": "FGD9051",
-    "section": "Sección 1",
+    "code": "FGD9049_FG03",
+    "subjectCode": "FGD9049",
+    "section": "Sección 3",
     "timeBlocks": [
       {
         "day": "MA",
         "block": "C",
-        "description": "CÁTEDRA 01",
+        "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "SOTO MAX BRUNO"
       },
       {
         "day": "JU",
         "block": "C",
-        "description": "CÁTEDRA 01",
+        "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "SOTO MAX BRUNO"
       }
@@ -665,7 +665,7 @@
     ]
   },
   {
-    "code": "FGD9069_FGD0",
+    "code": "FGD9069_FG01",
     "subjectCode": "FGD9069",
     "section": "Sección 1",
     "timeBlocks": [

@@ -150,24 +150,16 @@
     ]
   },
   {
-    "code": "BAE01112",
-    "name": "INT A LAS TEC DE LA INFORMACIÓN",
-    "credits": 6,
+    "code": "ICG4112",
+    "name": "MATEMÁTICAS 1",
+    "credits": 7,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAE01113",
-    "name": "INTRODUCCIÓN A LA ECONOMÍA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "BAE01114",
-    "name": "TALLER DE HABILIDADES DE GESTIÓN",
+    "code": "ICG4113",
+    "name": "TEC.  DE INF. PARA LOS NEGOCIOS 1",
     "credits": 5,
     "references": [
       ""

@@ -1,96 +1,128 @@
 [
   {
-    "code": "EDB4007",
-    "name": "ADQUI. LENGUA ORAL Y ESCRITA F. PRÁCTICA",
+    "code": "EDB4003",
+    "name": "FUNDAM. TEÓRICOS ENSEÑANZA DE LA LENGUA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDB4008",
-    "name": "MATEMÁTICAS 2: GEOMETRÍA I Y SU DIDÁCTIC",
+    "code": "EDB4004",
+    "name": "MATEMÁTICA 1: NÚMEROS Y SU DIDÁCTICA.",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDB4018",
-    "name": "ESCRITURA Y SU DIDÁCTICA",
+    "code": "EDB4012",
+    "name": "LECTURA Y SU DIDÁCTICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDB4019",
-    "name": "MATEMÁTICAS 4: GEOMETRÍA II Y SU DIDÁCTI",
+    "code": "EDB4013",
+    "name": "MATEMÁTICAS 3: ÁLGEBRA Y SU DIDÁCTICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDD1000",
-    "name": "APRENDIZAJE Y DESARROLLO 1:FUNCIONAMIENT",
+    "code": "EDB4022",
+    "name": "COMUNICACIÓN ORAL Y SU DIDÁCTICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDD1001",
-    "name": "POLÍTICAS EDUCATIVAS Y EDUCACIÓN ESPECIA",
+    "code": "EDB4023",
+    "name": "MATEMÁTICAS 5: DATOS Y AZAR Y SU DIDÁCTI",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDD1002",
-    "name": "FUNDAMENTOS DISCIPLINARIOS DE LA EDUCACI",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDD1006",
-    "name": "FORMACIÓN PRÁCTICA 2",
+    "code": "EDD1003",
+    "name": "FORMACIÓN PRÁCTICA 1",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDD1007",
-    "name": "APRENDIZAJE Y DESARROLLO 3: DESARROLLO A",
+    "code": "EDD1004",
+    "name": "APRENDIZAJE Y DESARROLLO 2 : PSICOMOTRIC",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDD1012",
-    "name": "FORMACIÓN PRÁCTICA 4: EVALUACIÓN PSICOPE",
+    "code": "EDD1010",
+    "name": "APRENDIZAJE Y DESARROLLO 4: AUTONOMÍA Y",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1011",
+    "name": "EDUCACIÓN INCLUSIVA: TENSIONES ENTRE LA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1014",
+    "name": "FORMACIÓN PRÁCTICA 5: DISEÑOS INCLUSIVOS",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDD1016",
-    "name": "PRÁCTICA PROFESIONAL 1: FLEXIBILIZACIÓN",
-    "credits": 12,
+    "code": "EDD1020",
+    "name": "PRÁCTICA PROFESIONAL 2: PROYECTO COLABOR",
+    "credits": 20,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDD1028",
-    "name": "DIDÁCTICAS PARA LA COMPRENSIÓN DEL MEDIO",
+    "code": "EDD1021",
+    "name": "SEMINARIO DE TÍTULO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1027",
+    "name": "CURRÍCULUM Y EVALUACIÓN EN EL SISTEMA ES",
     "credits": 7,
+    "references": [
+      "EDD1005"
+    ]
+  },
+  {
+    "code": "EDD1029",
+    "name": "FORMACIÓN PRÁCTICA 3",
+    "credits": 5,
+    "references": [
+      "EDD1009"
+    ]
+  },
+  {
+    "code": "EDD9101",
+    "name": "TIC: RECURSO PARA EL APRENDIZAJE",
+    "credits": 5,
     "references": [
       ""
     ]
@@ -136,51 +168,11 @@
     ]
   },
   {
-    "code": "EDD1030",
-    "name": "PSICOLOGÍA DEL APRENDIZAJE Y DEL DES",
+    "code": "EDD1033",
+    "name": "DESARROLLO COGNITIVO 1",
     "credits": 5,
     "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDD1031",
-    "name": "INVEST-ACCIÓN EN EL CONTEXTO ESCOLAR",
-    "credits": 5,
-    "references": [
-      "EDD1026"
-    ]
-  },
-  {
-    "code": "EDD1032",
-    "name": "DIDACTICA DEL LENGUAJE  Y COMUNICACIÓN",
-    "credits": 5,
-    "references": [
-      "EDD1013"
-    ]
-  },
-  {
-    "code": "EDD1034",
-    "name": "DESARROLLO COGNITIVO 2",
-    "credits": 5,
-    "references": [
-      "EDD1017"
-    ]
-  },
-  {
-    "code": "EDD1035",
-    "name": "DIDÁCTICA DE LA MATEMÁTICA",
-    "credits": 4,
-    "references": [
-      "EDD1018"
-    ]
-  },
-  {
-    "code": "EDD1036",
-    "name": "DISEÑO DE UN PROYECTO DE INV ACCIÓN",
-    "credits": 4,
-    "references": [
-      "EDD1019"
+      "EDD1015"
     ]
   }
 ]

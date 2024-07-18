@@ -30,88 +30,72 @@
     ]
   },
   {
-    "code": "CRA01111",
-    "name": "TALLER DE INTRODUCCIÓN AL AUDIOVISUAL",
+    "code": "CRA01121",
+    "name": "TALLER DE MICRORRELATO AUDIOVISUAL",
     "credits": 7,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01112",
-    "name": "EDICIÓN DIGITAL DE IMAGEN Y SONIDO",
+    "code": "CRA01122",
+    "name": "DIRECCIÓN DE FOTOGRAFÍA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01113",
-    "name": "INTRODUCCIÓN AL GUIÓN",
+    "code": "CRA01123",
+    "name": "TEC. PARA LA CREACIÓN Y REDES SOCIALES",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01114",
-    "name": "HISTORIA Y ESTÉTICA DEL CINE 1",
+    "code": "CRA01124",
+    "name": "HISTORIA Y ESTÉTICA DEL CINE 2",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01115",
-    "name": "LENGUAJE AUDIOVISUAL",
+    "code": "CRA01225",
+    "name": "HISTORIA Y ESTÉTICA DEL DOCUMENTAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01116",
-    "name": "TEORÍA DE LA COMUNICACIÓN Y LA IMAGEN",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CRA01211",
-    "name": "TALLER DE ANIMACIÓN",
+    "code": "CRA01221",
+    "name": "TALLER DE CINE FICCIÓN 1",
     "credits": 7,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01212",
-    "name": "TALLER DE DIRECCIÓN ACTORAL",
+    "code": "CRA01222",
+    "name": "TALLER DE MONTAJE",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01213",
-    "name": "GUIÓN DE CINE FICCIÓN",
+    "code": "CRA01224",
+    "name": "PRODUCCIÓN AUDIOVISUAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CRA01215",
-    "name": "TEORÍA DEL MONTAJE",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CRA01214",
-    "name": "DIRECCIÓN DE ARTE",
+    "code": "CRA01223",
+    "name": "GUIÓN DE SERIES",
     "credits": 5,
     "references": [
       ""

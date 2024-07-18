@@ -1,5 +1,6 @@
 import { Html, Head, Main, NextScript } from "next/document";
 import { useTheme, Container } from "@mui/material";
+import Header from "@/components/Header";
 
 export default function Document() {
   const theme = useTheme();
@@ -11,7 +12,7 @@ export default function Document() {
           sx={{ bgcolor: "background.default", minHeight: "100vh" }}
           maxWidth="xl"
         >
-          {/* Header with change of color possiblity */}
+          <Header />
           <Main />
           <NextScript />
         </Container>

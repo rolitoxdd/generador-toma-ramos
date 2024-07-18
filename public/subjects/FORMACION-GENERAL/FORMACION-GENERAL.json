@@ -8,14 +8,6 @@
     ]
   },
   {
-    "code": "CFG2017",
-    "name": "HISTORIA DE LA CIENCIA: INFLEXIONES E IM",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CFG2027",
     "name": "LA CIUDAD CÓMO ESPACIO INCLUSIVO",
     "credits": 5,
@@ -34,6 +26,14 @@
   {
     "code": "CFG2059",
     "name": "POESIA INDIGENA LATINOAMERICANA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2065",
+    "name": "NOVELA GRÁFICA: SOBRE LA CRISIS DEL SUJE",
     "credits": 5,
     "references": [
       ""
@@ -120,6 +120,14 @@
     ]
   },
   {
+    "code": "CFG2180",
+    "name": "POESÍA Y PAISAJE EN CHILE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CFG2189",
     "name": "DERECHOS DE LAS MINORÍAS E INTERCULTURAL",
     "credits": 5,
@@ -130,14 +138,6 @@
   {
     "code": "CFG2192",
     "name": "DEBATES DE GÉNERO: MUJERES Y HOMBRES EN",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CFG2198",
-    "name": "B-LEARNIN EL SIST. SOLAR Y LA BÚSQ.",
     "credits": 5,
     "references": [
       ""
@@ -200,8 +200,8 @@
     ]
   },
   {
-    "code": "CFG2239",
-    "name": "POESÍA LATINOAMERICANA CONTEMPORÁNEA",
+    "code": "CFG2238",
+    "name": "CIUDADANÍA Y GÉNERO EN CHILE:SIGLOS XX Y",
     "credits": 5,
     "references": [
       ""
@@ -250,6 +250,14 @@
   {
     "code": "CFG2278",
     "name": "MOVIMIENTOS SOCIALES EN LA HISTORIA RECI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2280",
+    "name": "ARTE Y PSICOANÁLISIS",
     "credits": 5,
     "references": [
       ""
@@ -312,24 +320,40 @@
     ]
   },
   {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
     "code": "CFG2318",
     "name": "RELACIONES DE GÉNERO Y VIOLENCIA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CFG2321",
-    "name": "REP. MUJER EN LOS MEDIOS DE COM Y CULTUR",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CFG2327",
-    "name": "EL INMIGRANTE SUEÑO Y CONFLICTOS",
     "credits": 5,
     "references": [
       ""
@@ -365,6 +389,14 @@
     "credits": 5,
     "references": [
       ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
     ]
   },
   {
@@ -424,16 +456,16 @@
     ]
   },
   {
-    "code": "CFG2352",
-    "name": "MUJER Y PENSAMIENTO",
+    "code": "CFG2348",
+    "name": "ESTRELLAS DE LA VÍA LACTEA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CFG2354",
-    "name": "B-LEARNING GUERRA FRÍA Y SOCIEDAD ACTUAL",
+    "code": "CFG2352",
+    "name": "MUJER Y PENSAMIENTO",
     "credits": 5,
     "references": [
       ""
@@ -472,14 +504,6 @@
     ]
   },
   {
-    "code": "CFG2366",
-    "name": "MÚSICA, PERCEPCIÓN Y EMOCIONES",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CFG2368",
     "name": "FEMINISMO DIVERSOS Y DISIDENCIAS SEXUALE",
     "credits": 5,
@@ -496,8 +520,40 @@
     ]
   },
   {
+    "code": "CFG2374",
+    "name": "MOVIMIENTOS DE DDHH EN EL CONO SUR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2378",
+    "name": "B-LEARNING BLACK POWER",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CFG2380",
     "name": "HISTORIA LGBTI DE CHILE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2383",
+    "name": "CIENCIA Y SOCIEDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2384",
+    "name": "B-LEARNING EDUC EN EL MUNDO CONTEMP",
     "credits": 5,
     "references": [
       ""
@@ -512,22 +568,6 @@
     ]
   },
   {
-    "code": "CFG2387",
-    "name": "ASTRONOMIA GENERAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CFG2388",
-    "name": "WOMEN'S RIGHTS MOVEMENTS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CFG2390",
     "name": "NEUROCIENCIA Y LA ERA DIGITAL",
     "credits": 5,
@@ -536,8 +576,24 @@
     ]
   },
   {
+    "code": "CFG2394",
+    "name": "TRANSHUMANISMO, DIGNIDAD Y DDHH",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CFG2397",
     "name": "MEMORIA EN AMÉRICA LATINA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2398",
+    "name": "USA: A HISTORY OF IMMIGRANTS",
     "credits": 5,
     "references": [
       ""
@@ -568,14 +624,6 @@
     ]
   },
   {
-    "code": "CFG5016",
-    "name": "EXTENSIÓN: HUMANIDADES CONTEMPORÁNEAS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CFG5012",
     "name": "DOING BUSINESS IN LATIN AMERICA",
     "credits": 5,
@@ -592,16 +640,16 @@
     ]
   },
   {
-    "code": "CFG5023",
-    "name": "PATRIMONIO EN TENSIÓN",
+    "code": "CFG5021",
+    "name": "EXPLORING THE SOLAR SYSTEM AND BEYOND",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CFG5022",
-    "name": "GENOMA:LA NUEVA ERA SELECCIÓN GENÉTICA",
+    "code": "CFG5023",
+    "name": "PATRIMONIO EN TENSIÓN",
     "credits": 5,
     "references": [
       ""
@@ -616,32 +664,16 @@
     ]
   },
   {
-    "code": "CFG5028",
-    "name": "TERRITORIO Y CONVIVENCIA SOCIAL",
+    "code": "CFG5027",
+    "name": "DESASTRES SOCIO-NATURALES",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CFG5030",
-    "name": "LA ANATOMIA NARRATIVA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CFG5029",
-    "name": "EDUCACIÓN EN SALUD SEXUAL Y REPRODUCTIVA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CFG5031",
-    "name": "PENSAMIENTO POLÍTICO DE PARRA",
+    "code": "CFG5033",
+    "name": "ASTRONOMÍA EXTRAGALÁCTICA",
     "credits": 5,
     "references": [
       ""
@@ -650,6 +682,38 @@
   {
     "code": "CFG5034",
     "name": "ASTRONOMÍA Y LITERATURA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5037",
+    "name": "CONTROVERSIAS MORALES DE AYER Y HOY",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5036",
+    "name": "LA BIOGRAFÍA:INVENCIÓN DE SÍ MISMO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5038",
+    "name": "FASCISMO Y LITERATURA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5039",
+    "name": "CULTURA Y VIOLENCIA EN AMÉRICA LATINA",
     "credits": 5,
     "references": [
       ""
