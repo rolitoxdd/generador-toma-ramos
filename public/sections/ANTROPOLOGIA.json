@@ -2165,14 +2165,8 @@
         "block": "E",
         "description": "PRÁCTICA 01",
         "isMandatory": true,
-        "teacher": "BARRAZA JAVIERA FRANCISCA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "PRÁCTICA 01",
-        "isMandatory": true,
-        "teacher": "PEREZ MIGUEL ANDRES"
+        "teacher": "BARRAZA JAVIERA FRANCISCA",
+        "secondTeacher": "PEREZ MIGUEL ANDRES"
       }
     ]
   },
@@ -2361,14 +2355,16 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "SILVA VERÓNICA PATRICIA"
+        "teacher": "SILVA VERÓNICA PATRICIA",
+        "secondTeacher": "SEPÚLVEDA MARCELA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "SILVA VERÓNICA PATRICIA"
+        "teacher": "SILVA VERÓNICA PATRICIA",
+        "secondTeacher": "SEPÚLVEDA MARCELA ALEJANDRA"
       },
       {
         "day": "SA",
@@ -2376,20 +2372,6 @@
         "description": "AYUDANTÍA OPCIONAL",
         "isMandatory": false,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "SEPÚLVEDA MARCELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "SEPÚLVEDA MARCELA ALEJANDRA"
       }
     ]
   },
@@ -2403,28 +2385,16 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "SILVA VERÓNICA PATRICIA"
+        "teacher": "SILVA VERÓNICA PATRICIA",
+        "secondTeacher": "SEPÚLVEDA MARCELA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "SILVA VERÓNICA PATRICIA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "SEPÚLVEDA MARCELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "SEPÚLVEDA MARCELA ALEJANDRA"
+        "teacher": "SILVA VERÓNICA PATRICIA",
+        "secondTeacher": "SEPÚLVEDA MARCELA ALEJANDRA"
       },
       {
         "day": "SA",

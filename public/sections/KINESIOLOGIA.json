@@ -3040,18 +3040,12 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "BRAVO LEONARDO ENRIQUE"
       },
       {
         "day": "JU",
         "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "BRAVO LEONARDO ENRIQUE"
-      },
-      {
-        "day": "LU",
-        "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
         "teacher": "BRAVO LEONARDO ENRIQUE"
@@ -3068,56 +3062,16 @@
         "block": "A",
         "description": "LABORATORIO SEC 1",
         "isMandatory": true,
-        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "REYES MAURICIO EUGENIO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "LABORATORIO SEC 1",
         "isMandatory": true,
-        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "LABORATORIO SEC 1",
-        "isMandatory": true,
-        "teacher": "BRAVO LEONARDO ENRIQUE"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "LABORATORIO SEC 1",
-        "isMandatory": true,
-        "teacher": "BRAVO LEONARDO ENRIQUE"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "LABORATORIO SEC 1",
-        "isMandatory": true,
-        "teacher": "TRUJILLO LUZ MARIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "LABORATORIO SEC 1",
-        "isMandatory": true,
-        "teacher": "TRUJILLO LUZ MARIA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "LABORATORIO SEC 1",
-        "isMandatory": true,
-        "teacher": "REYES MAURICIO EUGENIO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "LABORATORIO SEC 1",
-        "isMandatory": true,
-        "teacher": "REYES MAURICIO EUGENIO"
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "REYES MAURICIO EUGENIO"
       }
     ]
   },
@@ -3131,14 +3085,16 @@
         "block": "C",
         "description": "LABORATORIO SEC 2",
         "isMandatory": true,
-        "teacher": "REYES MAURICIO EUGENIO"
+        "teacher": "REYES MAURICIO EUGENIO",
+        "secondTeacher": "GARCIA DANIELA PATRICIA"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "LABORATORIO SEC 2",
         "isMandatory": true,
-        "teacher": "REYES MAURICIO EUGENIO"
+        "teacher": "REYES MAURICIO EUGENIO",
+        "secondTeacher": "GARCIA DANIELA PATRICIA"
       },
       {
         "day": "JU",
@@ -3152,7 +3108,8 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
+        "teacher": "VON OETINGER ASTRID ANDREA EDLE",
+        "secondTeacher": "BRAVO LEONARDO ENRIQUE"
       },
       {
         "day": "JU",
@@ -3162,58 +3119,9 @@
         "teacher": "BRAVO LEONARDO ENRIQUE"
       },
       {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "BRAVO LEONARDO ENRIQUE"
-      },
-      {
         "day": "VI",
         "block": "A",
         "description": "AYUDANTÍA OBLIGATORIA 2",
-        "isMandatory": true,
-        "teacher": "GARCIA DANIELA PATRICIA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "LABORATORIO SEC 2",
-        "isMandatory": true,
-        "teacher": "BRAVO LEONARDO ENRIQUE"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "LABORATORIO SEC 2",
-        "isMandatory": true,
-        "teacher": "BRAVO LEONARDO ENRIQUE"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "LABORATORIO SEC 2",
-        "isMandatory": true,
-        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "LABORATORIO SEC 2",
-        "isMandatory": true,
-        "teacher": "VON OETINGER ASTRID ANDREA EDLE"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "LABORATORIO SEC 2",
-        "isMandatory": true,
-        "teacher": "GARCIA DANIELA PATRICIA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "LABORATORIO SEC 2",
         "isMandatory": true,
         "teacher": "GARCIA DANIELA PATRICIA"
       }

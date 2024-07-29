@@ -2109,7 +2109,8 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "AYALA PAVEL ALEJANDRO"
+        "teacher": "AYALA PAVEL ALEJANDRO",
+        "secondTeacher": ""
       },
       {
         "day": "MA",
@@ -2136,13 +2137,6 @@
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "AYUDANTÍA OBLIGATORIA 01",
         "isMandatory": true,
         "teacher": ""
       }

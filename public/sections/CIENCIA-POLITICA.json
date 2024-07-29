@@ -9,28 +9,16 @@
         "block": "F",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "LOPEZ ANA PAOLA"
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "MEDALLA TANIA"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "LOPEZ ANA PAOLA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "MEDALLA TANIA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "MEDALLA TANIA"
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "MEDALLA TANIA"
       }
     ]
   },
@@ -44,28 +32,16 @@
         "block": "F",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "FIGUEROA DANTE OMAR"
+        "teacher": "FIGUEROA DANTE OMAR",
+        "secondTeacher": "GUTIERREZ VOLKER AMAURY"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "FIGUEROA DANTE OMAR"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ VOLKER AMAURY"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ VOLKER AMAURY"
+        "teacher": "FIGUEROA DANTE OMAR",
+        "secondTeacher": "GUTIERREZ VOLKER AMAURY"
       }
     ]
   },
@@ -100,28 +76,16 @@
         "block": "E",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "ÁNGEL LUNA"
+        "teacher": "ÁNGEL LUNA",
+        "secondTeacher": "SCHNEUER MARIA JOSE"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "ÁNGEL LUNA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "SCHNEUER MARIA JOSE"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "SCHNEUER MARIA JOSE"
+        "teacher": "ÁNGEL LUNA",
+        "secondTeacher": "SCHNEUER MARIA JOSE"
       }
     ]
   },
@@ -135,28 +99,16 @@
         "block": "C",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "RODRIGUEZ ROSARIO CAROLINA"
+        "teacher": "RODRIGUEZ ROSARIO CAROLINA",
+        "secondTeacher": "LARA ROMINA"
       },
       {
         "day": "VI",
         "block": "D",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "RODRIGUEZ ROSARIO CAROLINA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "LARA ROMINA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "LARA ROMINA"
+        "teacher": "RODRIGUEZ ROSARIO CAROLINA",
+        "secondTeacher": "LARA ROMINA"
       }
     ]
   },
@@ -191,28 +143,16 @@
         "block": "B",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "BECKER IGNACIA"
+        "teacher": "BECKER IGNACIA",
+        "secondTeacher": "LABORDE MIGUEL"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "BECKER IGNACIA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "LABORDE MIGUEL"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "LABORDE MIGUEL"
+        "teacher": "BECKER IGNACIA",
+        "secondTeacher": "LABORDE MIGUEL"
       }
     ]
   },
@@ -226,28 +166,16 @@
         "block": "H",
         "description": "B-LEARNING 01",
         "isMandatory": true,
-        "teacher": "SANTIBAÑEZ MARA JIMENA"
+        "teacher": "SANTIBAÑEZ MARA JIMENA",
+        "secondTeacher": "FLORES CARLA"
       },
       {
         "day": "JU",
         "block": "I",
         "description": "B-LEARNING 01",
         "isMandatory": true,
-        "teacher": "SANTIBAÑEZ MARA JIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "B-LEARNING 01",
-        "isMandatory": true,
-        "teacher": "FLORES CARLA"
-      },
-      {
-        "day": "JU",
-        "block": "I",
-        "description": "B-LEARNING 01",
-        "isMandatory": true,
-        "teacher": "FLORES CARLA"
+        "teacher": "SANTIBAÑEZ MARA JIMENA",
+        "secondTeacher": "FLORES CARLA"
       }
     ]
   },
@@ -345,28 +273,16 @@
         "block": "C",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "CONTRERAS SEBASTIAN ANTONIO"
+        "teacher": "CONTRERAS SEBASTIAN ANTONIO",
+        "secondTeacher": "DURAND MARIA TERESA"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "CONTRERAS SEBASTIAN ANTONIO"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "DURAND MARIA TERESA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "DURAND MARIA TERESA"
+        "teacher": "CONTRERAS SEBASTIAN ANTONIO",
+        "secondTeacher": "DURAND MARIA TERESA"
       }
     ]
   },
@@ -443,28 +359,16 @@
         "block": "E",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "ROBLES GILBERTO ALFREDO"
+        "teacher": "ROBLES GILBERTO ALFREDO",
+        "secondTeacher": "LIZAMA BENJAMÍN ANDRÉS"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "ROBLES GILBERTO ALFREDO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "LIZAMA BENJAMÍN ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "LIZAMA BENJAMÍN ANDRÉS"
+        "teacher": "ROBLES GILBERTO ALFREDO",
+        "secondTeacher": "LIZAMA BENJAMÍN ANDRÉS"
       }
     ]
   },
@@ -478,28 +382,16 @@
         "block": "B",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "VILLEGAS CRISTÓBAL PATRICIO"
+        "teacher": "VILLEGAS CRISTÓBAL PATRICIO",
+        "secondTeacher": "BARRERO LINA MARIA"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "VILLEGAS CRISTÓBAL PATRICIO"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "BARRERO LINA MARIA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "BARRERO LINA MARIA"
+        "teacher": "VILLEGAS CRISTÓBAL PATRICIO",
+        "secondTeacher": "BARRERO LINA MARIA"
       }
     ]
   },
@@ -513,28 +405,16 @@
         "block": "B",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "IBARRA LUCAS"
+        "teacher": "IBARRA LUCAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "IBARRA LUCAS"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "SCHMIDT FRANCISCO JAVIER"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "SCHMIDT FRANCISCO JAVIER"
+        "teacher": "IBARRA LUCAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
       }
     ]
   },
@@ -548,28 +428,16 @@
         "block": "E",
         "description": "CÁTEDRA FG 02",
         "isMandatory": true,
-        "teacher": "IBARRA LUCAS"
+        "teacher": "IBARRA LUCAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA FG 02",
         "isMandatory": true,
-        "teacher": "IBARRA LUCAS"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA FG 02",
-        "isMandatory": true,
-        "teacher": "SCHMIDT FRANCISCO JAVIER"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA FG 02",
-        "isMandatory": true,
-        "teacher": "SCHMIDT FRANCISCO JAVIER"
+        "teacher": "IBARRA LUCAS",
+        "secondTeacher": "SCHMIDT FRANCISCO JAVIER"
       }
     ]
   },
@@ -583,28 +451,16 @@
         "block": "C",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "SINGH DOMINIQUE"
+        "teacher": "SINGH DOMINIQUE",
+        "secondTeacher": "AGAR LORENZO RENE"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "SINGH DOMINIQUE"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "AGAR LORENZO RENE"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "AGAR LORENZO RENE"
+        "teacher": "SINGH DOMINIQUE",
+        "secondTeacher": "AGAR LORENZO RENE"
       }
     ]
   },
@@ -2326,28 +2182,16 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JIMÉNEZ DENISSE"
+        "teacher": "JIMÉNEZ DENISSE",
+        "secondTeacher": "ORELLANA MARÍA MACARENA"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JIMÉNEZ DENISSE"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORELLANA MARÍA MACARENA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORELLANA MARÍA MACARENA"
+        "teacher": "JIMÉNEZ DENISSE",
+        "secondTeacher": "ORELLANA MARÍA MACARENA"
       }
     ]
   },
@@ -2361,28 +2205,16 @@
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CAMPOS HERNAN JAVIER"
+        "teacher": "CAMPOS HERNAN JAVIER",
+        "secondTeacher": "ORELLANA MARÍA MACARENA"
       },
       {
         "day": "VI",
         "block": "D",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CAMPOS HERNAN JAVIER"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ORELLANA MARÍA MACARENA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ORELLANA MARÍA MACARENA"
+        "teacher": "CAMPOS HERNAN JAVIER",
+        "secondTeacher": "ORELLANA MARÍA MACARENA"
       }
     ]
   },
@@ -2823,28 +2655,16 @@
         "block": "E",
         "description": "B-LEARNING HORARIO BLOQUEADO 02",
         "isMandatory": true,
-        "teacher": "ELTIT BERNARDITA ESPERA"
+        "teacher": "ELTIT BERNARDITA ESPERA",
+        "secondTeacher": "FONSECA FELIPE"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "B-LEARNING HORARIO BLOQUEADO 02",
         "isMandatory": true,
-        "teacher": "ELTIT BERNARDITA ESPERA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "B-LEARNING HORARIO BLOQUEADO 02",
-        "isMandatory": true,
-        "teacher": "FONSECA FELIPE"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "B-LEARNING HORARIO BLOQUEADO 02",
-        "isMandatory": true,
-        "teacher": "FONSECA FELIPE"
+        "teacher": "ELTIT BERNARDITA ESPERA",
+        "secondTeacher": "FONSECA FELIPE"
       }
     ]
   },
@@ -2858,28 +2678,16 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "KAULINO ADRIANA KOULIN"
+        "teacher": "KAULINO ADRIANA KOULIN",
+        "secondTeacher": "ITURBE JORGE IÑAKI"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "KAULINO ADRIANA KOULIN"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ITURBE JORGE IÑAKI"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ITURBE JORGE IÑAKI"
+        "teacher": "KAULINO ADRIANA KOULIN",
+        "secondTeacher": "ITURBE JORGE IÑAKI"
       }
     ]
   },
@@ -2893,28 +2701,16 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "KAULINO ADRIANA KOULIN"
+        "teacher": "KAULINO ADRIANA KOULIN",
+        "secondTeacher": "ITURBE JORGE IÑAKI"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "KAULINO ADRIANA KOULIN"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ITURBE JORGE IÑAKI"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ITURBE JORGE IÑAKI"
+        "teacher": "KAULINO ADRIANA KOULIN",
+        "secondTeacher": "ITURBE JORGE IÑAKI"
       }
     ]
   },
@@ -3285,28 +3081,16 @@
         "block": "H",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "ROMERO ELENA PILAR"
+        "teacher": "ROMERO ELENA PILAR",
+        "secondTeacher": "HERNÁNDEZ CRISTÓBAL IGNACIO"
       },
       {
         "day": "VI",
         "block": "I",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "ROMERO ELENA PILAR"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "HERNÁNDEZ CRISTÓBAL IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "I",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "HERNÁNDEZ CRISTÓBAL IGNACIO"
+        "teacher": "ROMERO ELENA PILAR",
+        "secondTeacher": "HERNÁNDEZ CRISTÓBAL IGNACIO"
       }
     ]
   },
@@ -5462,28 +5246,16 @@
         "block": "B",
         "description": "B-LEARNING 01",
         "isMandatory": true,
-        "teacher": "LIEMPI MARCELA ANTONIETA"
+        "teacher": "LIEMPI MARCELA ANTONIETA",
+        "secondTeacher": "VERGARA XIMENA ANDREA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "B-LEARNING 01",
         "isMandatory": true,
-        "teacher": "LIEMPI MARCELA ANTONIETA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "B-LEARNING 01",
-        "isMandatory": true,
-        "teacher": "VERGARA XIMENA ANDREA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "B-LEARNING 01",
-        "isMandatory": true,
-        "teacher": "VERGARA XIMENA ANDREA"
+        "teacher": "LIEMPI MARCELA ANTONIETA",
+        "secondTeacher": "VERGARA XIMENA ANDREA"
       }
     ]
   },
@@ -7051,28 +6823,16 @@
         "block": "H",
         "description": "B-LEARNING 01",
         "isMandatory": true,
-        "teacher": "LOPEZ ANA PAOLA"
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "GALLARDO MILENA SUSANA"
       },
       {
         "day": "LU",
         "block": "I",
         "description": "B-LEARNING 01",
         "isMandatory": true,
-        "teacher": "LOPEZ ANA PAOLA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "B-LEARNING 01",
-        "isMandatory": true,
-        "teacher": "GALLARDO MILENA SUSANA"
-      },
-      {
-        "day": "LU",
-        "block": "I",
-        "description": "B-LEARNING 01",
-        "isMandatory": true,
-        "teacher": "GALLARDO MILENA SUSANA"
+        "teacher": "LOPEZ ANA PAOLA",
+        "secondTeacher": "GALLARDO MILENA SUSANA"
       }
     ]
   },
@@ -7086,28 +6846,16 @@
         "block": "C",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "AGAR LORENZO RENE"
+        "teacher": "AGAR LORENZO RENE",
+        "secondTeacher": "SÁEZ DANIELA BELÉN"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "AGAR LORENZO RENE"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "SÁEZ DANIELA BELÉN"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "SÁEZ DANIELA BELÉN"
+        "teacher": "AGAR LORENZO RENE",
+        "secondTeacher": "SÁEZ DANIELA BELÉN"
       }
     ]
   },
@@ -7121,28 +6869,16 @@
         "block": "C",
         "description": "B-LEARNING FG02",
         "isMandatory": true,
-        "teacher": "SINGH DOMINIQUE"
+        "teacher": "SINGH DOMINIQUE",
+        "secondTeacher": "AGAR LORENZO RENE"
       },
       {
         "day": "VI",
         "block": "D",
         "description": "B-LEARNING FG02",
         "isMandatory": true,
-        "teacher": "SINGH DOMINIQUE"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "B-LEARNING FG02",
-        "isMandatory": true,
-        "teacher": "AGAR LORENZO RENE"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "B-LEARNING FG02",
-        "isMandatory": true,
-        "teacher": "AGAR LORENZO RENE"
+        "teacher": "SINGH DOMINIQUE",
+        "secondTeacher": "AGAR LORENZO RENE"
       }
     ]
   },
@@ -7205,14 +6941,8 @@
         "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "RODRIGUEZ JUAN PABLO"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "VERGARA CATALINA REBECA"
+        "teacher": "RODRIGUEZ JUAN PABLO",
+        "secondTeacher": "VERGARA CATALINA REBECA"
       }
     ]
   },
@@ -7436,28 +7166,16 @@
         "block": "E",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "GILLMORE MARÍA GRACIA"
+        "teacher": "GILLMORE MARÍA GRACIA",
+        "secondTeacher": "DURAND MARIA TERESA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "GILLMORE MARÍA GRACIA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "DURAND MARIA TERESA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "DURAND MARIA TERESA"
+        "teacher": "GILLMORE MARÍA GRACIA",
+        "secondTeacher": "DURAND MARIA TERESA"
       }
     ]
   },
@@ -7471,28 +7189,16 @@
         "block": "C",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "ZENTENO ANDRÉS RAÚL"
+        "teacher": "ZENTENO ANDRÉS RAÚL",
+        "secondTeacher": "DURAND MARIA TERESA"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "ZENTENO ANDRÉS RAÚL"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "DURAND MARIA TERESA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "DURAND MARIA TERESA"
+        "teacher": "ZENTENO ANDRÉS RAÚL",
+        "secondTeacher": "DURAND MARIA TERESA"
       }
     ]
   },
@@ -8157,28 +7863,16 @@
         "block": "F",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "BENITEZ FRANCISCA VALENTINA"
+        "teacher": "BENITEZ FRANCISCA VALENTINA",
+        "secondTeacher": "VICUÑA MANUEL JOSE"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "BENITEZ FRANCISCA VALENTINA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "VICUÑA MANUEL JOSE"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "VICUÑA MANUEL JOSE"
+        "teacher": "BENITEZ FRANCISCA VALENTINA",
+        "secondTeacher": "VICUÑA MANUEL JOSE"
       }
     ]
   },
@@ -8192,28 +7886,16 @@
         "block": "E",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "BARRIENTOS CLAUDIO JAVIER"
+        "teacher": "BARRIENTOS CLAUDIO JAVIER",
+        "secondTeacher": "ESCOBAR RAFAEL"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "BARRIENTOS CLAUDIO JAVIER"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "ESCOBAR RAFAEL"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "ESCOBAR RAFAEL"
+        "teacher": "BARRIENTOS CLAUDIO JAVIER",
+        "secondTeacher": "ESCOBAR RAFAEL"
       }
     ]
   },
@@ -8227,28 +7909,16 @@
         "block": "B",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "VALENZUELA MARIA JOSE"
+        "teacher": "VALENZUELA MARIA JOSE",
+        "secondTeacher": "BRUNNER JOSE JOAQUIN"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "B-LEARNING FG 01",
         "isMandatory": true,
-        "teacher": "VALENZUELA MARIA JOSE"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "BRUNNER JOSE JOAQUIN"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "B-LEARNING FG 01",
-        "isMandatory": true,
-        "teacher": "BRUNNER JOSE JOAQUIN"
+        "teacher": "VALENZUELA MARIA JOSE",
+        "secondTeacher": "BRUNNER JOSE JOAQUIN"
       }
     ]
   },
@@ -8262,28 +7932,16 @@
         "block": "C",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "VIVANCO ANDREA PAZ"
+        "teacher": "VIVANCO ANDREA PAZ",
+        "secondTeacher": "MÜLLER BRENDA"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "VIVANCO ANDREA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "MÜLLER BRENDA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "MÜLLER BRENDA"
+        "teacher": "VIVANCO ANDREA PAZ",
+        "secondTeacher": "MÜLLER BRENDA"
       }
     ]
   },
@@ -8381,28 +8039,16 @@
         "block": "A",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "NAVARRO VALERIA SONIA EVA"
+        "teacher": "NAVARRO VALERIA SONIA EVA",
+        "secondTeacher": "REYES DANIELA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA FG 01",
         "isMandatory": true,
-        "teacher": "NAVARRO VALERIA SONIA EVA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "REYES DANIELA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA FG 01",
-        "isMandatory": true,
-        "teacher": "REYES DANIELA ALEJANDRA"
+        "teacher": "NAVARRO VALERIA SONIA EVA",
+        "secondTeacher": "REYES DANIELA ALEJANDRA"
       }
     ]
   },
@@ -8458,28 +8104,16 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ESPINOZA GONZALO ALBERTO"
+        "teacher": "ESPINOZA GONZALO ALBERTO",
+        "secondTeacher": "PANTOJA TAMARA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ESPINOZA GONZALO ALBERTO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PANTOJA TAMARA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PANTOJA TAMARA"
+        "teacher": "ESPINOZA GONZALO ALBERTO",
+        "secondTeacher": "PANTOJA TAMARA"
       }
     ]
   },
@@ -8521,14 +8155,8 @@
         "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "JOFRE HUGO PATRICIO"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "ÁLVAREZ VÍCTOR HUGO ANDRÉS"
+        "teacher": "JOFRE HUGO PATRICIO",
+        "secondTeacher": "ÁLVAREZ VÍCTOR HUGO ANDRÉS"
       }
     ]
   }

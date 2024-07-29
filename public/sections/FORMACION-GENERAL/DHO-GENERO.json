@@ -9,56 +9,16 @@
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ROCHA VICTOR MARIO"
+        "teacher": "ROCHA VICTOR MARIO",
+        "secondTeacher": "GABA MARIANA RAQUEL"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ROCHA VICTOR MARIO"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PEREZ DANITZA KARINN"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PEREZ DANITZA KARINN"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ZENTENO ANDRÉS RAÚL"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ZENTENO ANDRÉS RAÚL"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GABA MARIANA RAQUEL"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GABA MARIANA RAQUEL"
+        "teacher": "ROCHA VICTOR MARIO",
+        "secondTeacher": "GABA MARIANA RAQUEL"
       }
     ]
   }

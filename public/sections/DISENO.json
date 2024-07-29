@@ -9,28 +9,16 @@
         "block": "B",
         "description": "VACANTE CATEDRA 01",
         "isMandatory": true,
-        "teacher": "ALBORNOZ PATRICIO ANDRES"
+        "teacher": "ALBORNOZ PATRICIO ANDRES",
+        "secondTeacher": "PONCE ANDRÉS"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "VACANTE CATEDRA 01",
         "isMandatory": true,
-        "teacher": "ALBORNOZ PATRICIO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "VACANTE CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "PONCE ANDRÉS"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "VACANTE CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "PONCE ANDRÉS"
+        "teacher": "ALBORNOZ PATRICIO ANDRES",
+        "secondTeacher": "PONCE ANDRÉS"
       }
     ]
   },
@@ -65,63 +53,24 @@
         "block": "E",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "SILVA PEDRO PABLO"
+        "teacher": "SILVA PEDRO PABLO",
+        "secondTeacher": "CELEDON ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "SILVA PEDRO PABLO"
+        "teacher": "SILVA PEDRO PABLO",
+        "secondTeacher": "CELEDON ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "SILVA PEDRO PABLO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CROXATTO BERNARDITA MARIA JESUS"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CROXATTO BERNARDITA MARIA JESUS"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CROXATTO BERNARDITA MARIA JESUS"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CELEDON ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CELEDON ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CELEDON ALEJANDRA"
+        "teacher": "SILVA PEDRO PABLO",
+        "secondTeacher": "CELEDON ALEJANDRA"
       }
     ]
   },
@@ -2928,84 +2877,48 @@
         "block": "B",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "BEJARES JOAQUIN ANDRES"
+        "teacher": "BEJARES JOAQUIN ANDRES",
+        "secondTeacher": "VIVALLO JOSÉ ALONSO"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "BEJARES JOAQUIN ANDRES"
+        "teacher": "BEJARES JOAQUIN ANDRES",
+        "secondTeacher": "VIVALLO JOSÉ ALONSO"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "BEJARES JOAQUIN ANDRES"
+        "teacher": "BEJARES JOAQUIN ANDRES",
+        "secondTeacher": "VIVALLO JOSÉ ALONSO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "BEJARES JOAQUIN ANDRES"
+        "teacher": "BEJARES JOAQUIN ANDRES",
+        "secondTeacher": "VIVALLO JOSÉ ALONSO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "BEJARES JOAQUIN ANDRES"
+        "teacher": "BEJARES JOAQUIN ANDRES",
+        "secondTeacher": "VIVALLO JOSÉ ALONSO"
       },
       {
         "day": "LU",
         "block": "H",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "BEJARES JOAQUIN ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "VIVALLO JOSÉ ALONSO"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "VIVALLO JOSÉ ALONSO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "VIVALLO JOSÉ ALONSO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "VIVALLO JOSÉ ALONSO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "VIVALLO JOSÉ ALONSO"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "VIVALLO JOSÉ ALONSO"
+        "teacher": "BEJARES JOAQUIN ANDRES",
+        "secondTeacher": "VIVALLO JOSÉ ALONSO"
       }
     ]
   },
@@ -3019,28 +2932,32 @@
         "block": "E",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "JUSTINIANO MARIA TRINIDAD"
+        "teacher": "JUSTINIANO MARIA TRINIDAD",
+        "secondTeacher": "VILINA MILKA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "JUSTINIANO MARIA TRINIDAD"
+        "teacher": "JUSTINIANO MARIA TRINIDAD",
+        "secondTeacher": "VILINA MILKA"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "JUSTINIANO MARIA TRINIDAD"
+        "teacher": "JUSTINIANO MARIA TRINIDAD",
+        "secondTeacher": "VILINA MILKA"
       },
       {
         "day": "LU",
         "block": "H",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "JUSTINIANO MARIA TRINIDAD"
+        "teacher": "JUSTINIANO MARIA TRINIDAD",
+        "secondTeacher": "VILINA MILKA"
       },
       {
         "day": "LU",
@@ -3052,34 +2969,6 @@
       {
         "day": "LU",
         "block": "C",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "VILINA MILKA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "VILINA MILKA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "VILINA MILKA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "VILINA MILKA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
         "teacher": "VILINA MILKA"
@@ -3096,84 +2985,48 @@
         "block": "B",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "MENDOZA GUISELA EDITH"
+        "teacher": "MENDOZA GUISELA EDITH",
+        "secondTeacher": "FIGUEROA JAVIERA"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "MENDOZA GUISELA EDITH"
+        "teacher": "MENDOZA GUISELA EDITH",
+        "secondTeacher": "FIGUEROA JAVIERA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "MENDOZA GUISELA EDITH"
+        "teacher": "MENDOZA GUISELA EDITH",
+        "secondTeacher": "FIGUEROA JAVIERA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "MENDOZA GUISELA EDITH"
+        "teacher": "MENDOZA GUISELA EDITH",
+        "secondTeacher": "FIGUEROA JAVIERA"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "MENDOZA GUISELA EDITH"
+        "teacher": "MENDOZA GUISELA EDITH",
+        "secondTeacher": "FIGUEROA JAVIERA"
       },
       {
         "day": "LU",
         "block": "H",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "MENDOZA GUISELA EDITH"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "FIGUEROA JAVIERA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "FIGUEROA JAVIERA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "FIGUEROA JAVIERA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "FIGUEROA JAVIERA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "FIGUEROA JAVIERA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "FIGUEROA JAVIERA"
+        "teacher": "MENDOZA GUISELA EDITH",
+        "secondTeacher": "FIGUEROA JAVIERA"
       }
     ]
   },
@@ -3593,84 +3446,48 @@
         "block": "B",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "NECOCHEA ANTONIA CLEMENCIA"
+        "teacher": "NECOCHEA ANTONIA CLEMENCIA",
+        "secondTeacher": "SANZANA FELIPE FABRICIO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "NECOCHEA ANTONIA CLEMENCIA"
+        "teacher": "NECOCHEA ANTONIA CLEMENCIA",
+        "secondTeacher": "SANZANA FELIPE FABRICIO"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "NECOCHEA ANTONIA CLEMENCIA"
+        "teacher": "NECOCHEA ANTONIA CLEMENCIA",
+        "secondTeacher": "SANZANA FELIPE FABRICIO"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "NECOCHEA ANTONIA CLEMENCIA"
+        "teacher": "NECOCHEA ANTONIA CLEMENCIA",
+        "secondTeacher": "SANZANA FELIPE FABRICIO"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "NECOCHEA ANTONIA CLEMENCIA"
+        "teacher": "NECOCHEA ANTONIA CLEMENCIA",
+        "secondTeacher": "SANZANA FELIPE FABRICIO"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "NECOCHEA ANTONIA CLEMENCIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "SANZANA FELIPE FABRICIO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "SANZANA FELIPE FABRICIO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "SANZANA FELIPE FABRICIO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "SANZANA FELIPE FABRICIO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "SANZANA FELIPE FABRICIO"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "SANZANA FELIPE FABRICIO"
+        "teacher": "NECOCHEA ANTONIA CLEMENCIA",
+        "secondTeacher": "SANZANA FELIPE FABRICIO"
       }
     ]
   },
@@ -4041,28 +3858,16 @@
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SFEIR CARINA MARÍA"
+        "teacher": "SFEIR CARINA MARÍA",
+        "secondTeacher": "SFEIR CARINA MARÍA"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SFEIR CARINA MARÍA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SFEIR CARINA MARÍA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SFEIR CARINA MARÍA"
+        "teacher": "SFEIR CARINA MARÍA",
+        "secondTeacher": "SFEIR CARINA MARÍA"
       }
     ]
   },
@@ -4181,28 +3986,16 @@
         "block": "B",
         "description": "CÁTEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "GONZALEZ AGUSTINA PAZ"
+        "teacher": "GONZALEZ AGUSTINA PAZ",
+        "secondTeacher": "GONZALEZ AGUSTINA PAZ"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "GONZALEZ AGUSTINA PAZ"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "GONZALEZ AGUSTINA PAZ"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "GONZALEZ AGUSTINA PAZ"
+        "teacher": "GONZALEZ AGUSTINA PAZ",
+        "secondTeacher": "GONZALEZ AGUSTINA PAZ"
       }
     ]
   },
@@ -4370,84 +4163,48 @@
         "block": "B",
         "description": "CATEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARYCARMEN"
+        "teacher": "MUÑOZ MARYCARMEN",
+        "secondTeacher": "FUENZALIDA FELIPE IGNACIO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CATEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARYCARMEN"
+        "teacher": "MUÑOZ MARYCARMEN",
+        "secondTeacher": "FUENZALIDA FELIPE IGNACIO"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "CATEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARYCARMEN"
+        "teacher": "MUÑOZ MARYCARMEN",
+        "secondTeacher": "FUENZALIDA FELIPE IGNACIO"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "CATEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARYCARMEN"
+        "teacher": "MUÑOZ MARYCARMEN",
+        "secondTeacher": "FUENZALIDA FELIPE IGNACIO"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CATEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARYCARMEN"
+        "teacher": "MUÑOZ MARYCARMEN",
+        "secondTeacher": "FUENZALIDA FELIPE IGNACIO"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CATEDRA DE CARRERA 02",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARYCARMEN"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "FUENZALIDA FELIPE IGNACIO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CATEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "FUENZALIDA FELIPE IGNACIO"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CATEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "FUENZALIDA FELIPE IGNACIO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CATEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "FUENZALIDA FELIPE IGNACIO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CATEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "FUENZALIDA FELIPE IGNACIO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CATEDRA DE CARRERA 02",
-        "isMandatory": true,
-        "teacher": "FUENZALIDA FELIPE IGNACIO"
+        "teacher": "MUÑOZ MARYCARMEN",
+        "secondTeacher": "FUENZALIDA FELIPE IGNACIO"
       }
     ]
   },
@@ -4461,84 +4218,48 @@
         "block": "B",
         "description": "CÁTEDRA DE CARRERA 01",
         "isMandatory": true,
-        "teacher": "GROVE EUGENIO ANDRES"
+        "teacher": "GROVE EUGENIO ANDRES",
+        "secondTeacher": "ARRATIA DANIELA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA DE CARRERA 01",
         "isMandatory": true,
-        "teacher": "GROVE EUGENIO ANDRES"
+        "teacher": "GROVE EUGENIO ANDRES",
+        "secondTeacher": "ARRATIA DANIELA"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "CÁTEDRA DE CARRERA 01",
         "isMandatory": true,
-        "teacher": "GROVE EUGENIO ANDRES"
+        "teacher": "GROVE EUGENIO ANDRES",
+        "secondTeacher": "ARRATIA DANIELA"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "CÁTEDRA DE CARRERA 01",
         "isMandatory": true,
-        "teacher": "GROVE EUGENIO ANDRES"
+        "teacher": "GROVE EUGENIO ANDRES",
+        "secondTeacher": "ARRATIA DANIELA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CÁTEDRA DE CARRERA 01",
         "isMandatory": true,
-        "teacher": "GROVE EUGENIO ANDRES"
+        "teacher": "GROVE EUGENIO ANDRES",
+        "secondTeacher": "ARRATIA DANIELA"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA DE CARRERA 01",
         "isMandatory": true,
-        "teacher": "GROVE EUGENIO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA DE CARRERA 01",
-        "isMandatory": true,
-        "teacher": "ARRATIA DANIELA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA DE CARRERA 01",
-        "isMandatory": true,
-        "teacher": "ARRATIA DANIELA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA DE CARRERA 01",
-        "isMandatory": true,
-        "teacher": "ARRATIA DANIELA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA DE CARRERA 01",
-        "isMandatory": true,
-        "teacher": "ARRATIA DANIELA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA DE CARRERA 01",
-        "isMandatory": true,
-        "teacher": "ARRATIA DANIELA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA DE CARRERA 01",
-        "isMandatory": true,
-        "teacher": "ARRATIA DANIELA"
+        "teacher": "GROVE EUGENIO ANDRES",
+        "secondTeacher": "ARRATIA DANIELA"
       }
     ]
   },
@@ -4601,84 +4322,48 @@
         "block": "B",
         "description": "CÁTEDRA DE CARRERA 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ CRISTIAN ANDRES"
+        "teacher": "GONZALEZ CRISTIAN ANDRES",
+        "secondTeacher": "PIZARRO VALENTINA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA DE CARRERA 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ CRISTIAN ANDRES"
+        "teacher": "GONZALEZ CRISTIAN ANDRES",
+        "secondTeacher": "PIZARRO VALENTINA"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "CÁTEDRA DE CARRERA 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ CRISTIAN ANDRES"
+        "teacher": "GONZALEZ CRISTIAN ANDRES",
+        "secondTeacher": "PIZARRO VALENTINA"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "CÁTEDRA DE CARRERA 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ CRISTIAN ANDRES"
+        "teacher": "GONZALEZ CRISTIAN ANDRES",
+        "secondTeacher": "PIZARRO VALENTINA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CÁTEDRA DE CARRERA 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ CRISTIAN ANDRES"
+        "teacher": "GONZALEZ CRISTIAN ANDRES",
+        "secondTeacher": "PIZARRO VALENTINA"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA DE CARRERA 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ CRISTIAN ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA DE CARRERA 03",
-        "isMandatory": true,
-        "teacher": "PIZARRO VALENTINA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA DE CARRERA 03",
-        "isMandatory": true,
-        "teacher": "PIZARRO VALENTINA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA DE CARRERA 03",
-        "isMandatory": true,
-        "teacher": "PIZARRO VALENTINA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA DE CARRERA 03",
-        "isMandatory": true,
-        "teacher": "PIZARRO VALENTINA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA DE CARRERA 03",
-        "isMandatory": true,
-        "teacher": "PIZARRO VALENTINA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA DE CARRERA 03",
-        "isMandatory": true,
-        "teacher": "PIZARRO VALENTINA"
+        "teacher": "GONZALEZ CRISTIAN ANDRES",
+        "secondTeacher": "PIZARRO VALENTINA"
       }
     ]
   },
@@ -4692,84 +4377,48 @@
         "block": "B",
         "description": "CÁTEDRA DE CARRERA 04",
         "isMandatory": true,
-        "teacher": "ABUD JENNY BEATRIZ"
+        "teacher": "ABUD JENNY BEATRIZ",
+        "secondTeacher": "ROMÁN DANIELA FERNANDA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA DE CARRERA 04",
         "isMandatory": true,
-        "teacher": "ABUD JENNY BEATRIZ"
+        "teacher": "ABUD JENNY BEATRIZ",
+        "secondTeacher": "ROMÁN DANIELA FERNANDA"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "CÁTEDRA DE CARRERA 04",
         "isMandatory": true,
-        "teacher": "ABUD JENNY BEATRIZ"
+        "teacher": "ABUD JENNY BEATRIZ",
+        "secondTeacher": "ROMÁN DANIELA FERNANDA"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "CÁTEDRA DE CARRERA 04",
         "isMandatory": true,
-        "teacher": "ABUD JENNY BEATRIZ"
+        "teacher": "ABUD JENNY BEATRIZ",
+        "secondTeacher": "ROMÁN DANIELA FERNANDA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CÁTEDRA DE CARRERA 04",
         "isMandatory": true,
-        "teacher": "ABUD JENNY BEATRIZ"
+        "teacher": "ABUD JENNY BEATRIZ",
+        "secondTeacher": "ROMÁN DANIELA FERNANDA"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA DE CARRERA 04",
         "isMandatory": true,
-        "teacher": "ABUD JENNY BEATRIZ"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA DE CARRERA 04",
-        "isMandatory": true,
-        "teacher": "ROMÁN DANIELA FERNANDA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA DE CARRERA 04",
-        "isMandatory": true,
-        "teacher": "ROMÁN DANIELA FERNANDA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA DE CARRERA 04",
-        "isMandatory": true,
-        "teacher": "ROMÁN DANIELA FERNANDA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA DE CARRERA 04",
-        "isMandatory": true,
-        "teacher": "ROMÁN DANIELA FERNANDA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA DE CARRERA 04",
-        "isMandatory": true,
-        "teacher": "ROMÁN DANIELA FERNANDA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA DE CARRERA 04",
-        "isMandatory": true,
-        "teacher": "ROMÁN DANIELA FERNANDA"
+        "teacher": "ABUD JENNY BEATRIZ",
+        "secondTeacher": "ROMÁN DANIELA FERNANDA"
       }
     ]
   },
@@ -4832,28 +4481,16 @@
         "block": "E",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
+        "teacher": "ARTEAGA ALVARO IGNACIO",
+        "secondTeacher": "RUZ JOSEFA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA CARRERA 01",
         "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "RUZ JOSEFA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA CARRERA 01",
-        "isMandatory": true,
-        "teacher": "RUZ JOSEFA"
+        "teacher": "ARTEAGA ALVARO IGNACIO",
+        "secondTeacher": "RUZ JOSEFA"
       }
     ]
   },
@@ -4909,84 +4546,48 @@
         "block": "B",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "NOVOA HECTOR ALEJANDRO"
+        "teacher": "NOVOA HECTOR ALEJANDRO",
+        "secondTeacher": "YURAC ANDRO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "NOVOA HECTOR ALEJANDRO"
+        "teacher": "NOVOA HECTOR ALEJANDRO",
+        "secondTeacher": "YURAC ANDRO"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "NOVOA HECTOR ALEJANDRO"
+        "teacher": "NOVOA HECTOR ALEJANDRO",
+        "secondTeacher": "YURAC ANDRO"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "NOVOA HECTOR ALEJANDRO"
+        "teacher": "NOVOA HECTOR ALEJANDRO",
+        "secondTeacher": "YURAC ANDRO"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "NOVOA HECTOR ALEJANDRO"
+        "teacher": "NOVOA HECTOR ALEJANDRO",
+        "secondTeacher": "YURAC ANDRO"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "CÁTEDRA CARRERA 02",
         "isMandatory": true,
-        "teacher": "NOVOA HECTOR ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "YURAC ANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "YURAC ANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "YURAC ANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "YURAC ANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "YURAC ANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "CÁTEDRA CARRERA 02",
-        "isMandatory": true,
-        "teacher": "YURAC ANDRO"
+        "teacher": "NOVOA HECTOR ALEJANDRO",
+        "secondTeacher": "YURAC ANDRO"
       }
     ]
   },
@@ -5014,56 +4615,32 @@
         "block": "E",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "KUSANOVICH CAROLINA ANDREA"
+        "teacher": "KUSANOVICH CAROLINA ANDREA",
+        "secondTeacher": "CARDEMIL FELIPE ALBERTO"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "KUSANOVICH CAROLINA ANDREA"
+        "teacher": "KUSANOVICH CAROLINA ANDREA",
+        "secondTeacher": "CARDEMIL FELIPE ALBERTO"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "KUSANOVICH CAROLINA ANDREA"
+        "teacher": "KUSANOVICH CAROLINA ANDREA",
+        "secondTeacher": "CARDEMIL FELIPE ALBERTO"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "CÁTEDRA CARRERA 03",
         "isMandatory": true,
-        "teacher": "KUSANOVICH CAROLINA ANDREA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "CARDEMIL FELIPE ALBERTO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "CARDEMIL FELIPE ALBERTO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "CARDEMIL FELIPE ALBERTO"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "CÁTEDRA CARRERA 03",
-        "isMandatory": true,
-        "teacher": "CARDEMIL FELIPE ALBERTO"
+        "teacher": "KUSANOVICH CAROLINA ANDREA",
+        "secondTeacher": "CARDEMIL FELIPE ALBERTO"
       }
     ]
   },
@@ -5273,126 +4850,48 @@
         "block": "B",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "BRAVO RODRIGO"
+        "teacher": "BRAVO RODRIGO",
+        "secondTeacher": "GAJARDO DIEGO CLEMENTE"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "BRAVO RODRIGO"
+        "teacher": "BRAVO RODRIGO",
+        "secondTeacher": "GAJARDO DIEGO CLEMENTE"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "BRAVO RODRIGO"
+        "teacher": "BRAVO RODRIGO",
+        "secondTeacher": "GAJARDO DIEGO CLEMENTE"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "BRAVO RODRIGO"
+        "teacher": "BRAVO RODRIGO",
+        "secondTeacher": "GAJARDO DIEGO CLEMENTE"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "BRAVO RODRIGO"
+        "teacher": "BRAVO RODRIGO",
+        "secondTeacher": "GAJARDO DIEGO CLEMENTE"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "BRAVO RODRIGO"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "SORIA DIEGO"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "SORIA DIEGO"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "SORIA DIEGO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "SORIA DIEGO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "SORIA DIEGO"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "SORIA DIEGO"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GAJARDO DIEGO CLEMENTE"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GAJARDO DIEGO CLEMENTE"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GAJARDO DIEGO CLEMENTE"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GAJARDO DIEGO CLEMENTE"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GAJARDO DIEGO CLEMENTE"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GAJARDO DIEGO CLEMENTE"
+        "teacher": "BRAVO RODRIGO",
+        "secondTeacher": "GAJARDO DIEGO CLEMENTE"
       }
     ]
   },
@@ -5427,84 +4926,48 @@
         "block": "B",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "GALLARDO MANUEL SIMON"
+        "teacher": "GALLARDO MANUEL SIMON",
+        "secondTeacher": "GILI JUAN MANUEL"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "GALLARDO MANUEL SIMON"
+        "teacher": "GALLARDO MANUEL SIMON",
+        "secondTeacher": "GILI JUAN MANUEL"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "GALLARDO MANUEL SIMON"
+        "teacher": "GALLARDO MANUEL SIMON",
+        "secondTeacher": "GILI JUAN MANUEL"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "GALLARDO MANUEL SIMON"
+        "teacher": "GALLARDO MANUEL SIMON",
+        "secondTeacher": "GILI JUAN MANUEL"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "GALLARDO MANUEL SIMON"
+        "teacher": "GALLARDO MANUEL SIMON",
+        "secondTeacher": "GILI JUAN MANUEL"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "GALLARDO MANUEL SIMON"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GILI JUAN MANUEL"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GILI JUAN MANUEL"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GILI JUAN MANUEL"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GILI JUAN MANUEL"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GILI JUAN MANUEL"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "GILI JUAN MANUEL"
+        "teacher": "GALLARDO MANUEL SIMON",
+        "secondTeacher": "GILI JUAN MANUEL"
       }
     ]
   },
@@ -5518,126 +4981,48 @@
         "block": "B",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "MONTOYA AARON"
+        "teacher": "MONTOYA AARON",
+        "secondTeacher": "MARTIN ANDRÉS AMILCAR"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "MONTOYA AARON"
+        "teacher": "MONTOYA AARON",
+        "secondTeacher": "MARTIN ANDRÉS AMILCAR"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "MONTOYA AARON"
+        "teacher": "MONTOYA AARON",
+        "secondTeacher": "MARTIN ANDRÉS AMILCAR"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "MONTOYA AARON"
+        "teacher": "MONTOYA AARON",
+        "secondTeacher": "MARTIN ANDRÉS AMILCAR"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "MONTOYA AARON"
+        "teacher": "MONTOYA AARON",
+        "secondTeacher": "MARTIN ANDRÉS AMILCAR"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "MONTOYA AARON"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MAJLUF SERGIO ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MAJLUF SERGIO ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MAJLUF SERGIO ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MAJLUF SERGIO ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MAJLUF SERGIO ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MAJLUF SERGIO ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MARTIN ANDRÉS AMILCAR"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MARTIN ANDRÉS AMILCAR"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MARTIN ANDRÉS AMILCAR"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MARTIN ANDRÉS AMILCAR"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MARTIN ANDRÉS AMILCAR"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "MARTIN ANDRÉS AMILCAR"
+        "teacher": "MONTOYA AARON",
+        "secondTeacher": "MARTIN ANDRÉS AMILCAR"
       }
     ]
   },
@@ -5651,84 +5036,48 @@
         "block": "B",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "CORDOVA MANUEL ALEJANDRO"
+        "teacher": "CORDOVA MANUEL ALEJANDRO",
+        "secondTeacher": "ALTAMIRANO ARIEL ANDRES"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "CORDOVA MANUEL ALEJANDRO"
+        "teacher": "CORDOVA MANUEL ALEJANDRO",
+        "secondTeacher": "ALTAMIRANO ARIEL ANDRES"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "CORDOVA MANUEL ALEJANDRO"
+        "teacher": "CORDOVA MANUEL ALEJANDRO",
+        "secondTeacher": "ALTAMIRANO ARIEL ANDRES"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "CORDOVA MANUEL ALEJANDRO"
+        "teacher": "CORDOVA MANUEL ALEJANDRO",
+        "secondTeacher": "ALTAMIRANO ARIEL ANDRES"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "CORDOVA MANUEL ALEJANDRO"
+        "teacher": "CORDOVA MANUEL ALEJANDRO",
+        "secondTeacher": "ALTAMIRANO ARIEL ANDRES"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "CORDOVA MANUEL ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ALTAMIRANO ARIEL ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ALTAMIRANO ARIEL ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ALTAMIRANO ARIEL ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ALTAMIRANO ARIEL ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ALTAMIRANO ARIEL ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ALTAMIRANO ARIEL ANDRES"
+        "teacher": "CORDOVA MANUEL ALEJANDRO",
+        "secondTeacher": "ALTAMIRANO ARIEL ANDRES"
       }
     ]
   },
@@ -5742,126 +5091,48 @@
         "block": "B",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "QUINTANA ROBERTO IVÁN"
+        "teacher": "QUINTANA ROBERTO IVÁN",
+        "secondTeacher": "RUIZ ALEJANDRA CONTESSINA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "QUINTANA ROBERTO IVÁN"
+        "teacher": "QUINTANA ROBERTO IVÁN",
+        "secondTeacher": "RUIZ ALEJANDRA CONTESSINA"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "QUINTANA ROBERTO IVÁN"
+        "teacher": "QUINTANA ROBERTO IVÁN",
+        "secondTeacher": "RUIZ ALEJANDRA CONTESSINA"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "QUINTANA ROBERTO IVÁN"
+        "teacher": "QUINTANA ROBERTO IVÁN",
+        "secondTeacher": "RUIZ ALEJANDRA CONTESSINA"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "QUINTANA ROBERTO IVÁN"
+        "teacher": "QUINTANA ROBERTO IVÁN",
+        "secondTeacher": "RUIZ ALEJANDRA CONTESSINA"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "QUINTANA ROBERTO IVÁN"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "BACHMANN JOSEFINE"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "BACHMANN JOSEFINE"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "BACHMANN JOSEFINE"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "BACHMANN JOSEFINE"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "BACHMANN JOSEFINE"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "BACHMANN JOSEFINE"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "RUIZ ALEJANDRA CONTESSINA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "RUIZ ALEJANDRA CONTESSINA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "RUIZ ALEJANDRA CONTESSINA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "RUIZ ALEJANDRA CONTESSINA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "RUIZ ALEJANDRA CONTESSINA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "RUIZ ALEJANDRA CONTESSINA"
+        "teacher": "QUINTANA ROBERTO IVÁN",
+        "secondTeacher": "RUIZ ALEJANDRA CONTESSINA"
       }
     ]
   },
@@ -5875,126 +5146,48 @@
         "block": "B",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "IBARRA MARIA EUGENIA"
+        "teacher": "IBARRA MARIA EUGENIA",
+        "secondTeacher": "AVILA TRINIDAD"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "IBARRA MARIA EUGENIA"
+        "teacher": "IBARRA MARIA EUGENIA",
+        "secondTeacher": "AVILA TRINIDAD"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "IBARRA MARIA EUGENIA"
+        "teacher": "IBARRA MARIA EUGENIA",
+        "secondTeacher": "AVILA TRINIDAD"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "IBARRA MARIA EUGENIA"
+        "teacher": "IBARRA MARIA EUGENIA",
+        "secondTeacher": "AVILA TRINIDAD"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "IBARRA MARIA EUGENIA"
+        "teacher": "IBARRA MARIA EUGENIA",
+        "secondTeacher": "AVILA TRINIDAD"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "IBARRA MARIA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ROMERO MARU PAULINA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ROMERO MARU PAULINA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ROMERO MARU PAULINA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ROMERO MARU PAULINA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ROMERO MARU PAULINA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ROMERO MARU PAULINA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "AVILA TRINIDAD"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "AVILA TRINIDAD"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "AVILA TRINIDAD"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "AVILA TRINIDAD"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "AVILA TRINIDAD"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "AVILA TRINIDAD"
+        "teacher": "IBARRA MARIA EUGENIA",
+        "secondTeacher": "AVILA TRINIDAD"
       }
     ]
   },
@@ -6008,84 +5201,48 @@
         "block": "B",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "KING JENNIFER ANNE"
+        "teacher": "KING JENNIFER ANNE",
+        "secondTeacher": "ARTEAGA ALVARO IGNACIO"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "KING JENNIFER ANNE"
+        "teacher": "KING JENNIFER ANNE",
+        "secondTeacher": "ARTEAGA ALVARO IGNACIO"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "KING JENNIFER ANNE"
+        "teacher": "KING JENNIFER ANNE",
+        "secondTeacher": "ARTEAGA ALVARO IGNACIO"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "KING JENNIFER ANNE"
+        "teacher": "KING JENNIFER ANNE",
+        "secondTeacher": "ARTEAGA ALVARO IGNACIO"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "KING JENNIFER ANNE"
+        "teacher": "KING JENNIFER ANNE",
+        "secondTeacher": "ARTEAGA ALVARO IGNACIO"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "TALLER",
         "isMandatory": true,
-        "teacher": "KING JENNIFER ANNE"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "TALLER",
-        "isMandatory": true,
-        "teacher": "ARTEAGA ALVARO IGNACIO"
+        "teacher": "KING JENNIFER ANNE",
+        "secondTeacher": "ARTEAGA ALVARO IGNACIO"
       }
     ]
   },
@@ -6260,98 +5417,56 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARAMBIO BERNARDITA MARIA"
+        "teacher": "MARAMBIO BERNARDITA MARIA",
+        "secondTeacher": "DIAZ ISABEL JUANA"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARAMBIO BERNARDITA MARIA"
+        "teacher": "MARAMBIO BERNARDITA MARIA",
+        "secondTeacher": "DIAZ ISABEL JUANA"
       },
       {
         "day": "LU",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARAMBIO BERNARDITA MARIA"
+        "teacher": "MARAMBIO BERNARDITA MARIA",
+        "secondTeacher": "DIAZ ISABEL JUANA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARAMBIO BERNARDITA MARIA"
+        "teacher": "MARAMBIO BERNARDITA MARIA",
+        "secondTeacher": "DIAZ ISABEL JUANA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARAMBIO BERNARDITA MARIA"
+        "teacher": "MARAMBIO BERNARDITA MARIA",
+        "secondTeacher": "DIAZ ISABEL JUANA"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARAMBIO BERNARDITA MARIA"
+        "teacher": "MARAMBIO BERNARDITA MARIA",
+        "secondTeacher": "DIAZ ISABEL JUANA"
       },
       {
         "day": "LU",
         "block": "H",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARAMBIO BERNARDITA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ ISABEL JUANA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ ISABEL JUANA"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ ISABEL JUANA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ ISABEL JUANA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ ISABEL JUANA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ ISABEL JUANA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ ISABEL JUANA"
+        "teacher": "MARAMBIO BERNARDITA MARIA",
+        "secondTeacher": "DIAZ ISABEL JUANA"
       }
     ]
   },
@@ -6407,84 +5522,48 @@
         "block": "B",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "PINO BARBARA ALEJANDRA"
+        "teacher": "PINO BARBARA ALEJANDRA",
+        "secondTeacher": "VILLARROEL KARLA GIULIANA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "PINO BARBARA ALEJANDRA"
+        "teacher": "PINO BARBARA ALEJANDRA",
+        "secondTeacher": "VILLARROEL KARLA GIULIANA"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "PINO BARBARA ALEJANDRA"
+        "teacher": "PINO BARBARA ALEJANDRA",
+        "secondTeacher": "VILLARROEL KARLA GIULIANA"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "PINO BARBARA ALEJANDRA"
+        "teacher": "PINO BARBARA ALEJANDRA",
+        "secondTeacher": "VILLARROEL KARLA GIULIANA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "PINO BARBARA ALEJANDRA"
+        "teacher": "PINO BARBARA ALEJANDRA",
+        "secondTeacher": "VILLARROEL KARLA GIULIANA"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "PINO BARBARA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "VILLARROEL KARLA GIULIANA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "VILLARROEL KARLA GIULIANA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "VILLARROEL KARLA GIULIANA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "VILLARROEL KARLA GIULIANA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "VILLARROEL KARLA GIULIANA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "VILLARROEL KARLA GIULIANA"
+        "teacher": "PINO BARBARA ALEJANDRA",
+        "secondTeacher": "VILLARROEL KARLA GIULIANA"
       }
     ]
   },
@@ -6589,84 +5668,48 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA"
+        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA",
+        "secondTeacher": "FAUNDEZ MARIA DE LA PAZ"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA"
+        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA",
+        "secondTeacher": "FAUNDEZ MARIA DE LA PAZ"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA"
+        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA",
+        "secondTeacher": "FAUNDEZ MARIA DE LA PAZ"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA"
+        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA",
+        "secondTeacher": "FAUNDEZ MARIA DE LA PAZ"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA"
+        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA",
+        "secondTeacher": "FAUNDEZ MARIA DE LA PAZ"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FAUNDEZ MARIA DE LA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FAUNDEZ MARIA DE LA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FAUNDEZ MARIA DE LA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FAUNDEZ MARIA DE LA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FAUNDEZ MARIA DE LA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FAUNDEZ MARIA DE LA PAZ"
+        "teacher": "GONZÁLEZ ARIBEL ALEJANDRA",
+        "secondTeacher": "FAUNDEZ MARIA DE LA PAZ"
       }
     ]
   },
@@ -6680,28 +5723,16 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CONTRERAS DIEGO ALDAIR"
+        "teacher": "CONTRERAS DIEGO ALDAIR",
+        "secondTeacher": "TALEP MARGARITA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CONTRERAS DIEGO ALDAIR"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
+        "teacher": "CONTRERAS DIEGO ALDAIR",
+        "secondTeacher": "TALEP MARGARITA"
       }
     ]
   },
@@ -6715,126 +5746,48 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "STEPHENS VICENTE"
+        "teacher": "STEPHENS VICENTE",
+        "secondTeacher": "TALEP MARGARITA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "STEPHENS VICENTE"
+        "teacher": "STEPHENS VICENTE",
+        "secondTeacher": "TALEP MARGARITA"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "STEPHENS VICENTE"
+        "teacher": "STEPHENS VICENTE",
+        "secondTeacher": "TALEP MARGARITA"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "STEPHENS VICENTE"
+        "teacher": "STEPHENS VICENTE",
+        "secondTeacher": "TALEP MARGARITA"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "STEPHENS VICENTE"
+        "teacher": "STEPHENS VICENTE",
+        "secondTeacher": "TALEP MARGARITA"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "STEPHENS VICENTE"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SEBASTIAN LIOI"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SEBASTIAN LIOI"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SEBASTIAN LIOI"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SEBASTIAN LIOI"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SEBASTIAN LIOI"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SEBASTIAN LIOI"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TALEP MARGARITA"
+        "teacher": "STEPHENS VICENTE",
+        "secondTeacher": "TALEP MARGARITA"
       }
     ]
   },

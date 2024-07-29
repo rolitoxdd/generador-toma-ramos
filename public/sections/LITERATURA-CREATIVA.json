@@ -86,28 +86,16 @@
         "block": "E",
         "description": "B-LEARNING HORARIO BLOQUEADO 02",
         "isMandatory": true,
-        "teacher": "ELTIT BERNARDITA ESPERA"
+        "teacher": "ELTIT BERNARDITA ESPERA",
+        "secondTeacher": "FONSECA FELIPE"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "B-LEARNING HORARIO BLOQUEADO 02",
         "isMandatory": true,
-        "teacher": "ELTIT BERNARDITA ESPERA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "B-LEARNING HORARIO BLOQUEADO 02",
-        "isMandatory": true,
-        "teacher": "FONSECA FELIPE"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "B-LEARNING HORARIO BLOQUEADO 02",
-        "isMandatory": true,
-        "teacher": "FONSECA FELIPE"
+        "teacher": "ELTIT BERNARDITA ESPERA",
+        "secondTeacher": "FONSECA FELIPE"
       }
     ]
   },
@@ -1038,28 +1026,16 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JARA PATRICIO JAIR"
+        "teacher": "JARA PATRICIO JAIR",
+        "secondTeacher": "MIZRAJI MARIANA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JARA PATRICIO JAIR"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MIZRAJI MARIANA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MIZRAJI MARIANA"
+        "teacher": "JARA PATRICIO JAIR",
+        "secondTeacher": "MIZRAJI MARIANA"
       }
     ]
   },
@@ -1073,28 +1049,16 @@
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "JARA PATRICIO JAIR"
+        "teacher": "JARA PATRICIO JAIR",
+        "secondTeacher": "MIZRAJI MARIANA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "JARA PATRICIO JAIR"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "MIZRAJI MARIANA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "MIZRAJI MARIANA"
+        "teacher": "JARA PATRICIO JAIR",
+        "secondTeacher": "MIZRAJI MARIANA"
       }
     ]
   },

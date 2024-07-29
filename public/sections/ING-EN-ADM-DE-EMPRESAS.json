@@ -2319,28 +2319,16 @@
         "block": "J",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "REYES JAIME EVARISTO"
+        "teacher": "REYES JAIME EVARISTO",
+        "secondTeacher": "CARDENAS CLAUDIA PIA"
       },
       {
         "day": "MI",
         "block": "J",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "REYES JAIME EVARISTO"
-      },
-      {
-        "day": "LU",
-        "block": "J",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "CARDENAS CLAUDIA PIA"
-      },
-      {
-        "day": "MI",
-        "block": "J",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "CARDENAS CLAUDIA PIA"
+        "teacher": "REYES JAIME EVARISTO",
+        "secondTeacher": "CARDENAS CLAUDIA PIA"
       }
     ]
   },
@@ -2508,28 +2496,16 @@
         "block": "H",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MORENO ROBERTO ANDRES"
+        "teacher": "MORENO ROBERTO ANDRES",
+        "secondTeacher": "LETELIER RUBEN PATRICIO"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MORENO ROBERTO ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "LETELIER RUBEN PATRICIO"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "LETELIER RUBEN PATRICIO"
+        "teacher": "MORENO ROBERTO ANDRES",
+        "secondTeacher": "LETELIER RUBEN PATRICIO"
       }
     ]
   },
@@ -2606,28 +2582,16 @@
         "block": "H",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ROMERO JOSEFA ELIANA"
+        "teacher": "ROMERO JOSEFA ELIANA",
+        "secondTeacher": "ROMERO MATÍAS"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ROMERO JOSEFA ELIANA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ROMERO MATÍAS"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ROMERO MATÍAS"
+        "teacher": "ROMERO JOSEFA ELIANA",
+        "secondTeacher": "ROMERO MATÍAS"
       }
     ]
   },
@@ -2641,28 +2605,16 @@
         "block": "H",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ROMERO JOSEFA ELIANA"
+        "teacher": "ROMERO JOSEFA ELIANA",
+        "secondTeacher": "ROMERO MATÍAS"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ROMERO JOSEFA ELIANA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ROMERO MATÍAS"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ROMERO MATÍAS"
+        "teacher": "ROMERO JOSEFA ELIANA",
+        "secondTeacher": "ROMERO MATÍAS"
       }
     ]
   },

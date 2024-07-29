@@ -3761,56 +3761,16 @@
         "block": "H",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ACEVEDO DIEGO IGNACIO"
+        "teacher": "ACEVEDO DIEGO IGNACIO",
+        "secondTeacher": "ORTIZ SEBASTIAN ALEJANDRO"
       },
       {
         "day": "MI",
         "block": "I",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ACEVEDO DIEGO IGNACIO"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BENAVENTE MARIANELA DEL CARMEN"
-      },
-      {
-        "day": "MI",
-        "block": "I",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BENAVENTE MARIANELA DEL CARMEN"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BRAVO DAYANA BETZABETH"
-      },
-      {
-        "day": "MI",
-        "block": "I",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BRAVO DAYANA BETZABETH"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTIZ SEBASTIAN ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "I",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTIZ SEBASTIAN ALEJANDRO"
+        "teacher": "ACEVEDO DIEGO IGNACIO",
+        "secondTeacher": "ORTIZ SEBASTIAN ALEJANDRO"
       }
     ]
   },

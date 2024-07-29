@@ -4370,14 +4370,8 @@
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GEOFFROY XIMENA MARIA"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HIDALGO NICOLAS ANDRES"
+        "teacher": "GEOFFROY XIMENA MARIA",
+        "secondTeacher": "HIDALGO NICOLAS ANDRES"
       }
     ]
   },
@@ -4391,14 +4385,8 @@
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GEOFFROY XIMENA MARIA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HIDALGO NICOLAS ANDRES"
+        "teacher": "GEOFFROY XIMENA MARIA",
+        "secondTeacher": "HIDALGO NICOLAS ANDRES"
       }
     ]
   },
@@ -4412,14 +4400,8 @@
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GEOFFROY XIMENA MARIA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HIDALGO NICOLAS ANDRES"
+        "teacher": "GEOFFROY XIMENA MARIA",
+        "secondTeacher": "HIDALGO NICOLAS ANDRES"
       }
     ]
   },

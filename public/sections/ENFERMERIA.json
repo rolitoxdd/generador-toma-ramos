@@ -9,21 +9,8 @@
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "SEPULVEDA CARMEN TERESA DE LOURDES"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MUÑOZ MARA ELIZABETH"
+        "teacher": "SEPULVEDA CARMEN TERESA DE LOURDES",
+        "secondTeacher": "MUÑOZ MARA ELIZABETH"
       }
     ]
   },
@@ -2088,14 +2075,8 @@
         "block": "E",
         "description": "LABORATORIO 1",
         "isMandatory": true,
-        "teacher": "WIESE GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 1",
-        "isMandatory": true,
-        "teacher": "ARNES MARIBEL"
+        "teacher": "WIESE GUILLERMO SEBASTIAN",
+        "secondTeacher": "ARNES MARIBEL"
       }
     ]
   },
@@ -2123,14 +2104,8 @@
         "block": "E",
         "description": "LABORATORIO 2",
         "isMandatory": true,
-        "teacher": "RETAMALES PATRICIO EDGARDO"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "RETAMALES PATRICIO EDGARDO",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       }
     ]
   },
@@ -2158,14 +2133,8 @@
         "block": "F",
         "description": "LABORATORIO 3",
         "isMandatory": true,
-        "teacher": "WIESE GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "LABORATORIO 3",
-        "isMandatory": true,
-        "teacher": "ARNES MARIBEL"
+        "teacher": "WIESE GUILLERMO SEBASTIAN",
+        "secondTeacher": "ARNES MARIBEL"
       }
     ]
   },
@@ -2221,14 +2190,8 @@
         "block": "G",
         "description": "LABORATORIO 5",
         "isMandatory": true,
-        "teacher": "ARNES MARIBEL"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "LABORATORIO 5",
-        "isMandatory": true,
-        "teacher": "MONTERO MARCIA VIRGINIA"
+        "teacher": "ARNES MARIBEL",
+        "secondTeacher": "MONTERO MARCIA VIRGINIA"
       }
     ]
   },
@@ -2270,105 +2233,24 @@
         "block": "A",
         "description": "LABORATORIO 1 VIERNES",
         "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
+        "teacher": "TOLEDO JAVIERA FABIOLA",
+        "secondTeacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "LABORATORIO 1 VIERNES",
         "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
+        "teacher": "TOLEDO JAVIERA FABIOLA",
+        "secondTeacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "LABORATORIO 1 VIERNES",
         "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "RUIZ VICENTE"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "RUIZ VICENTE"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 1 VIERNES",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
+        "teacher": "TOLEDO JAVIERA FABIOLA",
+        "secondTeacher": "CABRERA MARTA LISSETTE"
       },
       {
         "day": "MA",
@@ -2382,7 +2264,8 @@
         "block": "C",
         "description": "CÁTEDRA UNICA",
         "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
+        "teacher": "PAREDES PAULA EUGENIA",
+        "secondTeacher": "HUMERES ALEXIS JOHANY"
       },
       {
         "day": "MA",
@@ -2390,13 +2273,6 @@
         "description": "CÁTEDRA UNICA",
         "isMandatory": true,
         "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA UNICA",
-        "isMandatory": true,
-        "teacher": "HUMERES ALEXIS JOHANY"
       }
     ]
   },
@@ -2410,126 +2286,24 @@
         "block": "A",
         "description": "LABORATORIO 2",
         "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
+        "teacher": "TOLEDO JAVIERA FABIOLA",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "LABORATORIO 2",
         "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
+        "teacher": "TOLEDO JAVIERA FABIOLA",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "LABORATORIO 2",
         "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "RUIZ VICENTE"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "RUIZ VICENTE"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "RUIZ VICENTE"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 2",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
+        "teacher": "TOLEDO JAVIERA FABIOLA",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "MA",
@@ -2543,7 +2317,8 @@
         "block": "C",
         "description": "CÁTEDRA UNICA",
         "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
+        "teacher": "PAREDES PAULA EUGENIA",
+        "secondTeacher": "HUMERES ALEXIS JOHANY"
       },
       {
         "day": "MA",
@@ -2551,13 +2326,6 @@
         "description": "CÁTEDRA UNICA",
         "isMandatory": true,
         "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA UNICA",
-        "isMandatory": true,
-        "teacher": "HUMERES ALEXIS JOHANY"
       }
     ]
   },
@@ -2683,19 +2451,13 @@
         "block": "B",
         "description": "CÁTEDRA MADRE 1 Y 2",
         "isMandatory": true,
-        "teacher": "ALLERS INGRID ILSE"
+        "teacher": "ALLERS INGRID ILSE",
+        "secondTeacher": "BEAMIN NATALIA MACARENA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "TALLER 1",
-        "isMandatory": true,
-        "teacher": "BEAMIN NATALIA MACARENA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA MADRE 1 Y 2",
         "isMandatory": true,
         "teacher": "BEAMIN NATALIA MACARENA"
       }
@@ -2711,28 +2473,16 @@
         "block": "C",
         "description": "TALLER 2",
         "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "TALLER 2",
-        "isMandatory": true,
-        "teacher": "PRIETO XIMENA ALEJANDRA"
+        "teacher": "RAPIMAN MARIA EUGENIA",
+        "secondTeacher": "PRIETO XIMENA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA MADRE 1 Y 2",
         "isMandatory": true,
-        "teacher": "BEAMIN NATALIA MACARENA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA MADRE 1 Y 2",
-        "isMandatory": true,
-        "teacher": "ALLERS INGRID ILSE"
+        "teacher": "BEAMIN NATALIA MACARENA",
+        "secondTeacher": "ALLERS INGRID ILSE"
       }
     ]
   },
@@ -2886,42 +2636,24 @@
         "block": "A",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "JU",
@@ -2942,42 +2674,24 @@
         "block": "A",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "JU",
@@ -2998,42 +2712,24 @@
         "block": "A",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "JU",
@@ -3061,42 +2757,24 @@
         "block": "A",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA1,2,3,4",
         "isMandatory": true,
-        "teacher": "ARANEDA ROBERTO ORTEGA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA1,2,3,4",
-        "isMandatory": true,
-        "teacher": "QUEZADA MAURICIO ANDRES"
+        "teacher": "ARANEDA ROBERTO ORTEGA",
+        "secondTeacher": "QUEZADA MAURICIO ANDRES"
       }
     ]
   },
@@ -3124,42 +2802,24 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN",
+        "secondTeacher": "VILLANUEVA CAROLINA ANDREA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BOCHARD ANA MARÍA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PARRA BENJAMIN VICENTE"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JABES VALERIA PATRICIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PALACIOS MAKARENA PAZ"
+        "teacher": "BOCHARD ANA MARÍA",
+        "secondTeacher": "VILLANUEVA CAROLINA ANDREA"
       },
       {
         "day": "MI",
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CALQUIN FABIOLA CAROLINA"
+        "teacher": "CALQUIN FABIOLA CAROLINA",
+        "secondTeacher": "ORTIZ PAULA CAROLINA"
       },
       {
         "day": "MA",
@@ -3177,34 +2837,6 @@
       },
       {
         "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VILLANUEVA CAROLINA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VILLANUEVA CAROLINA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PINCHEIRA RODRIGO"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTIZ PAULA CAROLINA"
-      },
-      {
-        "day": "MI",
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
@@ -3236,14 +2868,16 @@
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "AGUIRRE JEMIMAH FRANCIS"
+        "teacher": "AGUIRRE JEMIMAH FRANCIS",
+        "secondTeacher": "REBOLLEDO XIMENA DEL CARMEN"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VILLANUEVA CAROLINA ANDREA"
+        "teacher": "VILLANUEVA CAROLINA ANDREA",
+        "secondTeacher": "JABES VALERIA PATRICIA"
       },
       {
         "day": "MI",
@@ -3261,21 +2895,7 @@
       },
       {
         "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "MA",
         "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ZUÑIGA JULIA VICTORIA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "ZUÑIGA JULIA VICTORIA"
@@ -3289,38 +2909,11 @@
       },
       {
         "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CALQUIN FABIOLA CAROLINA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CALQUIN FABIOLA CAROLINA"
-      },
-      {
-        "day": "MA",
         "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "PALACIOS MAKARENA PAZ"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "JABES VALERIA PATRICIA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "PARRA BENJAMIN VICENTE"
+        "teacher": "PALACIOS MAKARENA PAZ",
+        "secondTeacher": "PARRA BENJAMIN VICENTE"
       },
       {
         "day": "MI",
@@ -3328,13 +2921,6 @@
         "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "BOCHARD ANA MARÍA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
       }
     ]
   },
@@ -3355,35 +2941,16 @@
         "block": "E",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
+        "teacher": "RIVEROS ALEJANDRO ALBERTO",
+        "secondTeacher": "LEON ANDRES EDUARDO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "RIVEROS ALEJANDRO ALBERTO",
+        "secondTeacher": ""
       }
     ]
   },
@@ -3397,7 +2964,8 @@
         "block": "F",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "",
+        "secondTeacher": "LEON ANDRES EDUARDO"
       },
       {
         "day": "LU",
@@ -3411,28 +2979,8 @@
         "block": "E",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
+        "teacher": "RIVEROS ALEJANDRO ALBERTO",
+        "secondTeacher": "LEON ANDRES EDUARDO"
       }
     ]
   },
@@ -3446,7 +2994,8 @@
         "block": "F",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "",
+        "secondTeacher": "RIVEROS ALEJANDRO ALBERTO"
       },
       {
         "day": "LU",
@@ -3460,28 +3009,8 @@
         "block": "E",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
+        "teacher": "LEON ANDRES EDUARDO",
+        "secondTeacher": "RIVEROS ALEJANDRO ALBERTO"
       }
     ]
   },
@@ -3502,35 +3031,16 @@
         "block": "E",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
+        "teacher": "RIVEROS ALEJANDRO ALBERTO",
+        "secondTeacher": "LEON ANDRES EDUARDO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 1,2,3,4",
         "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 1,2,3,4",
-        "isMandatory": true,
-        "teacher": ""
+        "teacher": "RIVEROS ALEJANDRO ALBERTO",
+        "secondTeacher": ""
       }
     ]
   },
@@ -3544,19 +3054,13 @@
         "block": "A",
         "description": "CÁTEDRA 1 Y 2",
         "isMandatory": true,
-        "teacher": "ARANDA WALDO ARMANDO"
+        "teacher": "ARANDA WALDO ARMANDO",
+        "secondTeacher": "ARANDA ANGEL OMAR"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "LABORATORIO 1",
-        "isMandatory": true,
-        "teacher": "ARANDA ANGEL OMAR"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
         "isMandatory": true,
         "teacher": "ARANDA ANGEL OMAR"
       }
@@ -3572,7 +3076,8 @@
         "block": "A",
         "description": "CÁTEDRA 1 Y 2",
         "isMandatory": true,
-        "teacher": "ARANDA WALDO ARMANDO"
+        "teacher": "ARANDA WALDO ARMANDO",
+        "secondTeacher": "ARANDA ANGEL OMAR"
       },
       {
         "day": "VI",
@@ -3580,13 +3085,6 @@
         "description": "LABORATORIO 2",
         "isMandatory": true,
         "teacher": "ARANDA WALDO ARMANDO"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "ARANDA ANGEL OMAR"
       }
     ]
   },
@@ -3600,7 +3098,8 @@
         "block": "A",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "BERNALES MARIA UNISE"
+        "teacher": "BERNALES MARIA UNISE",
+        "secondTeacher": "BURATTINI NATALIA AURORA"
       },
       {
         "day": "VI",
@@ -3621,7 +3120,8 @@
         "block": "A",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "BOCHARD ANA MARÍA"
+        "teacher": "BOCHARD ANA MARÍA",
+        "secondTeacher": "BEAMIN NATALIA MACARENA"
       },
       {
         "day": "VI",
@@ -3635,14 +3135,8 @@
         "block": "B",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "BURATTINI NATALIA AURORA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "BURATTINI NATALIA AURORA"
+        "teacher": "BURATTINI NATALIA AURORA",
+        "secondTeacher": "ARAYA PAULINA CECILIA"
       },
       {
         "day": "VI",
@@ -3652,32 +3146,11 @@
         "teacher": "LIEMPI SOLANGE BEATRICE"
       },
       {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "BRITO DENNISSE ANDREA"
-      },
-      {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
         "teacher": "PRIETO XIMENA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "ARAYA PAULINA CECILIA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "BEAMIN NATALIA MACARENA"
       },
       {
         "day": "MI",
@@ -3733,21 +3206,16 @@
         "block": "B",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "BOCHARD ANA MARÍA"
+        "teacher": "BOCHARD ANA MARÍA",
+        "secondTeacher": "PRIETO XIMENA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "CÁCERES NATALIA DE LOURDES"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "BURATTINI NATALIA AURORA"
+        "teacher": "CÁCERES NATALIA DE LOURDES",
+        "secondTeacher": "BRITO DENNISSE ANDREA"
       },
       {
         "day": "JU",
@@ -3766,13 +3234,6 @@
       {
         "day": "MI",
         "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "BEAMIN NATALIA MACARENA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
         "teacher": "BEAMIN NATALIA MACARENA"
@@ -3783,20 +3244,6 @@
         "description": "CÁTEDRA 2",
         "isMandatory": true,
         "teacher": "ARAYA PAULINA CECILIA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "PRIETO XIMENA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "BRITO DENNISSE ANDREA"
       }
     ]
   },
@@ -3810,7 +3257,8 @@
         "block": "C",
         "description": "CÁTEDRA UNICA",
         "isMandatory": true,
-        "teacher": "ORTIZ PAULA CAROLINA"
+        "teacher": "ORTIZ PAULA CAROLINA",
+        "secondTeacher": "VILLANUEVA CAROLINA ANDREA"
       },
       {
         "day": "MA",
@@ -3821,24 +3269,11 @@
       },
       {
         "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA UNICA",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
-      },
-      {
-        "day": "MA",
         "block": "A",
         "description": "CÁTEDRA UNICA",
         "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA UNICA",
-        "isMandatory": true,
-        "teacher": "LIEMPI SOLANGE BEATRICE"
+        "teacher": "RIVEROS ALEJANDRO ALBERTO",
+        "secondTeacher": "LIEMPI SOLANGE BEATRICE"
       },
       {
         "day": "MA",
@@ -3846,13 +3281,6 @@
         "description": "CÁTEDRA UNICA",
         "isMandatory": true,
         "teacher": "MALDONADO MARCIA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA UNICA",
-        "isMandatory": true,
-        "teacher": "VILLANUEVA CAROLINA ANDREA"
       }
     ]
   },
@@ -3866,28 +3294,16 @@
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MAZO PILAR ROCÍO"
+        "teacher": "MAZO PILAR ROCÍO",
+        "secondTeacher": "ARANGUIZ JULIETA DE LOS ANGELES"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LABBE CAROLINE ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FLOREZ OSCAR YESID"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
+        "teacher": "LABBE CAROLINE ALEJANDRA",
+        "secondTeacher": "FLOREZ OSCAR YESID"
       }
     ]
   },
@@ -3901,28 +3317,16 @@
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "FLOREZ OSCAR YESID"
+        "teacher": "FLOREZ OSCAR YESID",
+        "secondTeacher": "LABBE CAROLINE ALEJANDRA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "LABBE CAROLINE ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "MAZO PILAR ROCÍO"
+        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES",
+        "secondTeacher": "MAZO PILAR ROCÍO"
       }
     ]
   },
@@ -3950,14 +3354,8 @@
         "block": "A",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "FLOREZ OSCAR YESID"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "CARVALLO NATALY"
+        "teacher": "FLOREZ OSCAR YESID",
+        "secondTeacher": "CARVALLO NATALY"
       }
     ]
   },
@@ -3999,14 +3397,16 @@
         "block": "B",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "LUCERO GLADYS DE LAS MERCEDES"
+        "teacher": "LUCERO GLADYS DE LAS MERCEDES",
+        "secondTeacher": "MUÑOZ MARA ELIZABETH"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "PACHECO CAROLINA"
+        "teacher": "PACHECO CAROLINA",
+        "secondTeacher": "SALAS MARCELA PAZ"
       },
       {
         "day": "VI",
@@ -4020,35 +3420,8 @@
         "block": "A",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "ARAYA PAULINA CECILIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "ZUÑIGA JULIA VICTORIA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "HENRIQUEZ SARA ESTER"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "SANZ MARCELA CECILIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "MUÑOZ MARA ELIZABETH"
+        "teacher": "ARAYA PAULINA CECILIA",
+        "secondTeacher": "SANZ MARCELA CECILIA"
       },
       {
         "day": "VI",
@@ -4058,25 +3431,12 @@
         "teacher": "MUÑOZ MARA ELIZABETH"
       },
       {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "SALAS MARCELA PAZ"
-      },
-      {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "URIBE MARIELA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "WILLATT CAROLINA"
+        "teacher": "URIBE MARIELA ALEJANDRA",
+        "secondTeacher": "WILLATT CAROLINA"
       },
       {
         "day": "JU",
@@ -4125,56 +3485,32 @@
         "block": "C",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "LUCERO GLADYS DE LAS MERCEDES"
+        "teacher": "LUCERO GLADYS DE LAS MERCEDES",
+        "secondTeacher": "MUÑOZ MARA ELIZABETH"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "SANZ MARCELA CECILIA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "MUÑOZ MARA ELIZABETH"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "HENRIQUEZ SARA ESTER"
+        "teacher": "SANZ MARCELA CECILIA",
+        "secondTeacher": "ZUÑIGA JULIA VICTORIA"
       },
       {
         "day": "VI",
         "block": "A",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "PACHECO CAROLINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "WILLATT CAROLINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "SALAS MARCELA PAZ"
+        "teacher": "PACHECO CAROLINA",
+        "secondTeacher": "SALAS MARCELA PAZ"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "URIBE MARIELA ALEJANDRA"
+        "teacher": "URIBE MARIELA ALEJANDRA",
+        "secondTeacher": "AGURTO HERLEYN"
       },
       {
         "day": "JU",
@@ -4210,27 +3546,6 @@
         "description": "CÁTEDRA 2",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "AGURTO HERLEYN"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "ARAYA PAULINA CECILIA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "ZUÑIGA JULIA VICTORIA"
       }
     ]
   },
@@ -4251,49 +3566,24 @@
         "block": "C",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "VERGARA IRELLA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "JABES VALERIA PATRICIA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "REGUEIRO NATHALIE"
+        "teacher": "VERGARA IRELLA ALEJANDRA",
+        "secondTeacher": "REGUEIRO NATHALIE"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "CALQUIN FABIOLA CAROLINA"
+        "teacher": "CALQUIN FABIOLA CAROLINA",
+        "secondTeacher": "SALAS MARCELA PAZ"
       },
       {
         "day": "LU",
         "block": "A",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "MALDONADO MARCIA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "VILLANUEVA CAROLINA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "SALAS MARCELA PAZ"
+        "teacher": "MALDONADO MARCIA ALEJANDRA",
+        "secondTeacher": "VILLANUEVA CAROLINA ANDREA"
       }
     ]
   },
@@ -4314,49 +3604,24 @@
         "block": "B",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "VILLANUEVA CAROLINA ANDREA"
+        "teacher": "VILLANUEVA CAROLINA ANDREA",
+        "secondTeacher": "MALDONADO MARCIA ALEJANDRA"
       },
       {
         "day": "LU",
         "block": "A",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "SALAS MARCELA PAZ"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "MALDONADO MARCIA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "CALQUIN FABIOLA CAROLINA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "REGUEIRO NATHALIE"
+        "teacher": "SALAS MARCELA PAZ",
+        "secondTeacher": "REGUEIRO NATHALIE"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "VERGARA IRELLA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "JABES VALERIA PATRICIA"
+        "teacher": "VERGARA IRELLA ALEJANDRA",
+        "secondTeacher": "JABES VALERIA PATRICIA"
       }
     ]
   },
@@ -4370,35 +3635,8 @@
         "block": "A",
         "description": "CÁTEDRA 1 Y 2",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARA ELIZABETH"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "SEPULVEDA CARMEN TERESA DE LOURDES"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "LABBE CAROLINE ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "MAZO PILAR ROCÍO"
+        "teacher": "MUÑOZ MARA ELIZABETH",
+        "secondTeacher": "RAPIMAN MARIA EUGENIA"
       },
       {
         "day": "MI",
@@ -4406,13 +3644,6 @@
         "description": "CÁTEDRA 1 Y 2",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
       },
       {
         "day": "MI",
@@ -4440,28 +3671,8 @@
         "block": "A",
         "description": "CÁTEDRA 1 Y 2",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARA ELIZABETH"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "SEPULVEDA CARMEN TERESA DE LOURDES"
+        "teacher": "MUÑOZ MARA ELIZABETH",
+        "secondTeacher": "LABBE CAROLINE ALEJANDRA"
       },
       {
         "day": "MI",
@@ -4469,13 +3680,6 @@
         "description": "CÁTEDRA 1 Y 2",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "MAZO PILAR ROCÍO"
       },
       {
         "day": "MI",
@@ -4490,13 +3694,6 @@
         "description": "TALLER 2",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 1 Y 2",
-        "isMandatory": true,
-        "teacher": "LABBE CAROLINE ALEJANDRA"
       }
     ]
   },
@@ -4517,14 +3714,8 @@
         "block": "B",
         "description": "CÁTEDRA 3 Y 4",
         "isMandatory": true,
-        "teacher": "MAZO PILAR ROCÍO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "LABBE CAROLINE ALEJANDRA"
+        "teacher": "MAZO PILAR ROCÍO",
+        "secondTeacher": "MUÑOZ MARA ELIZABETH"
       },
       {
         "day": "MI",
@@ -4539,34 +3730,6 @@
         "description": "TALLER 3",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "SEPULVEDA CARMEN TERESA DE LOURDES"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "MUÑOZ MARA ELIZABETH"
       }
     ]
   },
@@ -4594,21 +3757,8 @@
         "block": "B",
         "description": "CÁTEDRA 3 Y 4",
         "isMandatory": true,
-        "teacher": "MUÑOZ MARA ELIZABETH"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "SEPULVEDA CARMEN TERESA DE LOURDES"
+        "teacher": "MUÑOZ MARA ELIZABETH",
+        "secondTeacher": "MAZO PILAR ROCÍO"
       },
       {
         "day": "MI",
@@ -4616,27 +3766,6 @@
         "description": "CÁTEDRA 3 Y 4",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "LABBE CAROLINE ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 3 Y 4",
-        "isMandatory": true,
-        "teacher": "MAZO PILAR ROCÍO"
       }
     ]
   },
@@ -4657,21 +3786,8 @@
         "block": "F",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "BURGOS LORETO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
+        "teacher": "BURGOS LORETO",
+        "secondTeacher": "RAPIMAN MARIA EUGENIA"
       }
     ]
   },
@@ -4692,21 +3808,8 @@
         "block": "E",
         "description": "CÁTEDRA 2",
         "isMandatory": true,
-        "teacher": "BURGOS LORETO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 2",
-        "isMandatory": true,
-        "teacher": "RAPIMAN MARIA EUGENIA"
+        "teacher": "BURGOS LORETO",
+        "secondTeacher": "RAPIMAN MARIA EUGENIA"
       }
     ]
   },
@@ -4958,42 +4061,8 @@
         "block": "A",
         "description": "PRÁCTICA 1",
         "isMandatory": true,
-        "teacher": "BERNALES MARIA UNISE"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "ALVAREZ LUCIA RAQUEL AMELIA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "BOCHARD ANA MARÍA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "LIEMPI SOLANGE BEATRICE"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "PRIETO XIMENA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "BEAMIN NATALIA MACARENA"
+        "teacher": "BERNALES MARIA UNISE",
+        "secondTeacher": "BEAMIN NATALIA MACARENA"
       }
     ]
   },
@@ -5007,7 +4076,8 @@
         "block": "A",
         "description": "PRÁCTICA 1",
         "isMandatory": true,
-        "teacher": "REBOLLEDO VILMA PILAR"
+        "teacher": "REBOLLEDO VILMA PILAR",
+        "secondTeacher": "REBOLLEDO XIMENA DEL CARMEN"
       },
       {
         "day": "JU",
@@ -5242,59 +4312,11 @@
       },
       {
         "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "URIBE MARIELA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "ORTIZ PAULA CAROLINA"
-      },
-      {
-        "day": "JU",
         "block": "G",
         "description": "PRÁCTICA 1",
         "isMandatory": true,
-        "teacher": "ARAYA PAULINA CECILIA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "AGUIRRE JEMIMAH FRANCIS"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "ZUÑIGA JULIA VICTORIA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "FLOREZ OSCAR YESID"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "RIVEROS ALEJANDRO ALBERTO"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+        "teacher": "ARAYA PAULINA CECILIA",
+        "secondTeacher": "FLOREZ OSCAR YESID"
       }
     ]
   },
@@ -5308,7 +4330,8 @@
         "block": "A",
         "description": "PRÁCTICA 1",
         "isMandatory": true,
-        "teacher": "JABES VALERIA PATRICIA"
+        "teacher": "JABES VALERIA PATRICIA",
+        "secondTeacher": "ZUÑIGA JULIA VICTORIA"
       },
       {
         "day": "JU",
@@ -5526,27 +4549,6 @@
         "description": "PRÁCTICA 1",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "SALAS MARCELA PAZ"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "LEON ANDRES EDUARDO"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "VILLANUEVA CAROLINA ANDREA"
       },
       {
         "day": "JU",
@@ -5557,24 +4559,11 @@
       },
       {
         "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "ZUÑIGA JULIA VICTORIA"
-      },
-      {
-        "day": "MI",
         "block": "B",
         "description": "PRÁCTICA 1",
         "isMandatory": true,
-        "teacher": "CALQUIN FABIOLA CAROLINA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "PRÁCTICA 1",
-        "isMandatory": true,
-        "teacher": "GUIÑEZ JUAN CARLOS"
+        "teacher": "CALQUIN FABIOLA CAROLINA",
+        "secondTeacher": "GUIÑEZ JUAN CARLOS"
       }
     ]
   },
@@ -5609,28 +4598,16 @@
         "block": "F",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "ERRAZURIZ MARIA JOSE"
+        "teacher": "ERRAZURIZ MARIA JOSE",
+        "secondTeacher": "SANCHEZ ESTEBAN"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "CÁTEDRA 1",
         "isMandatory": true,
-        "teacher": "ERRAZURIZ MARIA JOSE"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "SANCHEZ ESTEBAN"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA 1",
-        "isMandatory": true,
-        "teacher": "SANCHEZ ESTEBAN"
+        "teacher": "ERRAZURIZ MARIA JOSE",
+        "secondTeacher": "SANCHEZ ESTEBAN"
       }
     ]
   }

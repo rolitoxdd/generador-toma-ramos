@@ -2032,42 +2032,24 @@
         "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA PAZ"
+        "teacher": "GONZALEZ MARIA PAZ",
+        "secondTeacher": "JAVI DE MIGUEL"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA PAZ"
+        "teacher": "GONZALEZ MARIA PAZ",
+        "secondTeacher": "JAVI DE MIGUEL"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA PAZ"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "JAVI DE MIGUEL"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "JAVI DE MIGUEL"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "JAVI DE MIGUEL"
+        "teacher": "GONZALEZ MARIA PAZ",
+        "secondTeacher": "JAVI DE MIGUEL"
       }
     ]
   },
@@ -2081,42 +2063,24 @@
         "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "LEIVA CARLOS ALEJANDRO"
+        "teacher": "LEIVA CARLOS ALEJANDRO",
+        "secondTeacher": "OLAVE SIMÓN ANDRÉS"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "LEIVA CARLOS ALEJANDRO"
+        "teacher": "LEIVA CARLOS ALEJANDRO",
+        "secondTeacher": "OLAVE SIMÓN ANDRÉS"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "LEIVA CARLOS ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "OLAVE SIMÓN ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "OLAVE SIMÓN ANDRÉS"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "OLAVE SIMÓN ANDRÉS"
+        "teacher": "LEIVA CARLOS ALEJANDRO",
+        "secondTeacher": "OLAVE SIMÓN ANDRÉS"
       }
     ]
   },
@@ -2130,28 +2094,16 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BELLO FELIPE ANTONIO"
+        "teacher": "BELLO FELIPE ANTONIO",
+        "secondTeacher": "VILLALOBOS GENESIS ANGELINA"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BELLO FELIPE ANTONIO"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VILLALOBOS GENESIS ANGELINA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VILLALOBOS GENESIS ANGELINA"
+        "teacher": "BELLO FELIPE ANTONIO",
+        "secondTeacher": "VILLALOBOS GENESIS ANGELINA"
       }
     ]
   },
@@ -2165,28 +2117,16 @@
         "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERA EVA MARIA"
+        "teacher": "VERA EVA MARIA",
+        "secondTeacher": "CATALAN MARIELLA IGNACIA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERA EVA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CATALAN MARIELLA IGNACIA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CATALAN MARIELLA IGNACIA"
+        "teacher": "VERA EVA MARIA",
+        "secondTeacher": "CATALAN MARIELLA IGNACIA"
       }
     ]
   },

@@ -4433,14 +4433,8 @@
         "block": "F",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
-        "teacher": "MANQUI FHERNANDO"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "CARRIL FRANCISCO JAVIER"
+        "teacher": "MANQUI FHERNANDO",
+        "secondTeacher": "CARRIL FRANCISCO JAVIER"
       }
     ]
   },
@@ -4636,7 +4630,8 @@
         "block": "F",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
-        "teacher": "OLIVARES ROBERTO"
+        "teacher": "OLIVARES ROBERTO",
+        "secondTeacher": "TAPIA JUAN RAMON"
       },
       {
         "day": "MA",
@@ -4651,13 +4646,6 @@
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "GONZALEZ PABLO ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "TAPIA JUAN RAMON"
       }
     ]
   },
@@ -4685,14 +4673,8 @@
         "block": "B",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
-        "teacher": "AMAYA WILLIAMS"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "VEJAR NICOLAS"
+        "teacher": "AMAYA WILLIAMS",
+        "secondTeacher": "VEJAR NICOLAS"
       }
     ]
   },
@@ -4748,14 +4730,8 @@
         "block": "G",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
-        "teacher": "SILVA JAVIER"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "CORTÉS ALEJANDRA CAMILA"
+        "teacher": "SILVA JAVIER",
+        "secondTeacher": "CORTÉS ALEJANDRA CAMILA"
       }
     ]
   },
@@ -7352,7 +7328,8 @@
         "block": "G",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
-        "teacher": "CORTES GONZALO BENJAMIN"
+        "teacher": "CORTES GONZALO BENJAMIN",
+        "secondTeacher": "CONCHA MATEO IGNACIO"
       },
       {
         "day": "MA",
@@ -7360,13 +7337,6 @@
         "description": "LABORATORIO 01",
         "isMandatory": true,
         "teacher": "SILVA JAVIER"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "CONCHA MATEO IGNACIO"
       }
     ]
   },
@@ -7401,14 +7371,8 @@
         "block": "G",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
-        "teacher": "CONCHA MATEO IGNACIO"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "CORTES GONZALO BENJAMIN"
+        "teacher": "CONCHA MATEO IGNACIO",
+        "secondTeacher": "CORTES GONZALO BENJAMIN"
       }
     ]
   },
@@ -7443,14 +7407,8 @@
         "block": "G",
         "description": "AYUDANTÍA 01",
         "isMandatory": true,
-        "teacher": "CONCHA MATEO IGNACIO"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "AYUDANTÍA 01",
-        "isMandatory": true,
-        "teacher": "CORTES GONZALO BENJAMIN"
+        "teacher": "CONCHA MATEO IGNACIO",
+        "secondTeacher": "CORTES GONZALO BENJAMIN"
       }
     ]
   },
@@ -8094,28 +8052,16 @@
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BELLO DIEGO IGNACIO"
+        "teacher": "BELLO DIEGO IGNACIO",
+        "secondTeacher": "SILVA GABRIEL MAURICIO"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BELLO DIEGO IGNACIO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA GABRIEL MAURICIO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA GABRIEL MAURICIO"
+        "teacher": "BELLO DIEGO IGNACIO",
+        "secondTeacher": "SILVA GABRIEL MAURICIO"
       }
     ]
   },

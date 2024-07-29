@@ -9,28 +9,16 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "KONG FELIPE IGOR"
+        "teacher": "KONG FELIPE IGOR",
+        "secondTeacher": "ROCHA VICTOR MARIO"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "KONG FELIPE IGOR"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ROCHA VICTOR MARIO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ROCHA VICTOR MARIO"
+        "teacher": "KONG FELIPE IGOR",
+        "secondTeacher": "ROCHA VICTOR MARIO"
       }
     ]
   },

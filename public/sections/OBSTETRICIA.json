@@ -30,28 +30,16 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       }
     ]
   },
@@ -65,42 +53,24 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAEZA CECILIA ELENA"
+        "teacher": "BAEZA CECILIA ELENA",
+        "secondTeacher": "ARANGUIZ JULIETA DE LOS ANGELES"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAEZA CECILIA ELENA"
+        "teacher": "BAEZA CECILIA ELENA",
+        "secondTeacher": "ARANGUIZ JULIETA DE LOS ANGELES"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAEZA CECILIA ELENA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
+        "teacher": "BAEZA CECILIA ELENA",
+        "secondTeacher": "ARANGUIZ JULIETA DE LOS ANGELES"
       }
     ]
   },
@@ -114,42 +84,24 @@
         "block": "A",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
+        "teacher": "RECABARREN ROSSANA BEATRIZ",
+        "secondTeacher": "MORA JUANA GABRIELA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
+        "teacher": "RECABARREN ROSSANA BEATRIZ",
+        "secondTeacher": "MORA JUANA GABRIELA"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "LAB S1",
         "isMandatory": true,
-        "teacher": "CHAVEZ CAMILA JAVIERA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
+        "teacher": "CHAVEZ CAMILA JAVIERA",
+        "secondTeacher": "MORA JUANA GABRIELA"
       }
     ]
   },
@@ -163,42 +115,24 @@
         "block": "A",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
+        "teacher": "RECABARREN ROSSANA BEATRIZ",
+        "secondTeacher": "MORA JUANA GABRIELA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
+        "teacher": "RECABARREN ROSSANA BEATRIZ",
+        "secondTeacher": "MORA JUANA GABRIELA"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "LAB S2",
         "isMandatory": true,
-        "teacher": "CHAVEZ CAMILA JAVIERA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
+        "teacher": "CHAVEZ CAMILA JAVIERA",
+        "secondTeacher": "RECABARREN ROSSANA BEATRIZ"
       }
     ]
   },
@@ -212,42 +146,24 @@
         "block": "E",
         "description": "LAB S1",
         "isMandatory": true,
-        "teacher": "PLANAS MONSERRAT"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "PLANAS MONSERRAT",
+        "secondTeacher": "BUSTAMANTE NATALIA LILIAN"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "LU",
         "block": "D",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       }
     ]
   },
@@ -261,42 +177,24 @@
         "block": "C",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "LU",
         "block": "D",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "LAB S2",
         "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "PLANAS MONSERRAT"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
+        "teacher": "DUARTE PATRICIA DEL PILAR",
+        "secondTeacher": "PLANAS MONSERRAT"
       }
     ]
   },
@@ -324,14 +222,8 @@
         "block": "C",
         "description": "LAB S1",
         "isMandatory": true,
-        "teacher": "PEREZ FABIOLA JACQUELINE"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
+        "teacher": "PEREZ FABIOLA JACQUELINE",
+        "secondTeacher": "MONTENEGRO ANTONIO ALEJANDRO"
       }
     ]
   },
@@ -345,14 +237,8 @@
         "block": "D",
         "description": "LAB S2",
         "isMandatory": true,
-        "teacher": "PEREZ FABIOLA JACQUELINE"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
+        "teacher": "PEREZ FABIOLA JACQUELINE",
+        "secondTeacher": "RAMIREZ MAICOL ALEJANDRO"
       },
       {
         "day": "MA",
@@ -401,994 +287,264 @@
         "block": "H",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "MORENO CECILIA DEL CARMEN"
+        "teacher": "MORENO CECILIA DEL CARMEN",
+        "secondTeacher": "RAMIREZ MAICOL ALEJANDRO"
       },
       {
         "day": "MA",
         "block": "H",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "MORENO CECILIA DEL CARMEN"
+        "teacher": "MORENO CECILIA DEL CARMEN",
+        "secondTeacher": "RAMIREZ MAICOL ALEJANDRO"
       },
       {
         "day": "MI",
         "block": "H",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "MORENO CECILIA DEL CARMEN"
+        "teacher": "MORENO CECILIA DEL CARMEN",
+        "secondTeacher": "RAMIREZ MAICOL ALEJANDRO"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "MORENO CECILIA DEL CARMEN"
+        "teacher": "MORENO CECILIA DEL CARMEN",
+        "secondTeacher": "RAMIREZ MAICOL ALEJANDRO"
       },
       {
         "day": "VI",
         "block": "H",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "MORENO CECILIA DEL CARMEN"
+        "teacher": "MORENO CECILIA DEL CARMEN",
+        "secondTeacher": "RAMIREZ MAICOL ALEJANDRO"
       },
       {
         "day": "MA",
         "block": "A",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "A",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "A",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "D",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "G",
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
-        "teacher": "NAPOLITANO CAROLINA SOL"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SEVERINO ABIGAIL"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "NUÑEZ XIMENA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "CHAVEZ CAMILA JAVIERA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "CHAVEZ CAMILA JAVIERA"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "CHAVEZ CAMILA JAVIERA"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "CHAVEZ CAMILA JAVIERA"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "CHAVEZ CAMILA JAVIERA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PEREZ FABIOLA JACQUELINE"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PEREZ FABIOLA JACQUELINE"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PEREZ FABIOLA JACQUELINE"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PEREZ FABIOLA JACQUELINE"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PEREZ FABIOLA JACQUELINE"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MOYA CATALINA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MOYA CATALINA"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MOYA CATALINA"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MOYA CATALINA"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MOYA CATALINA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PLANAS MONSERRAT"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PLANAS MONSERRAT"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PLANAS MONSERRAT"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PLANAS MONSERRAT"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "PLANAS MONSERRAT"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "BALCAZAR AMANDA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FIGUEROA MELISSA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FIGUEROA MELISSA"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FIGUEROA MELISSA"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FIGUEROA MELISSA"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FIGUEROA MELISSA"
+        "teacher": "NAPOLITANO CAROLINA SOL",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "LU",
@@ -1424,643 +580,6 @@
         "description": "PRÁCTICA CLÍNICA",
         "isMandatory": true,
         "teacher": "CANELO MARIA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "REYES KARINA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RECABARREN ROSSANA BEATRIZ"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MORA JUANA GABRIELA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "GALLARDO MARIANA VALERIA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "GALLARDO MARIANA VALERIA"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "GALLARDO MARIANA VALERIA"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "GALLARDO MARIANA VALERIA"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "GALLARDO MARIANA VALERIA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ JESUS ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ JESUS ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ JESUS ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ JESUS ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ JESUS ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "ARANGUIZ JULIETA DE LOS ANGELES"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "PRÁCTICA CLÍNICA",
-        "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
       }
     ]
   },
@@ -2074,42 +593,24 @@
         "block": "J",
         "description": "INTERNADO NEONATOLOGÍA",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "VI",
         "block": "J",
         "description": "INTERNADO NEONATOLOGÍA",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "SA",
         "block": "J",
         "description": "INTERNADO NEONATOLOGÍA",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
-      },
-      {
-        "day": "JU",
-        "block": "J",
-        "description": "INTERNADO NEONATOLOGÍA",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "VI",
-        "block": "J",
-        "description": "INTERNADO NEONATOLOGÍA",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "SA",
-        "block": "J",
-        "description": "INTERNADO NEONATOLOGÍA",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       }
     ]
   },
@@ -2123,42 +624,24 @@
         "block": "I",
         "description": "INTERNADO APS",
         "isMandatory": true,
-        "teacher": "ARAMBURU SANDRA HAYDEE"
+        "teacher": "ARAMBURU SANDRA HAYDEE",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       },
       {
         "day": "MA",
         "block": "I",
         "description": "INTERNADO APS",
         "isMandatory": true,
-        "teacher": "ARAMBURU SANDRA HAYDEE"
+        "teacher": "ARAMBURU SANDRA HAYDEE",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       },
       {
         "day": "MI",
         "block": "I",
         "description": "INTERNADO APS",
         "isMandatory": true,
-        "teacher": "ARAMBURU SANDRA HAYDEE"
-      },
-      {
-        "day": "LU",
-        "block": "I",
-        "description": "INTERNADO APS",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "MA",
-        "block": "I",
-        "description": "INTERNADO APS",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "MI",
-        "block": "I",
-        "description": "INTERNADO APS",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
+        "teacher": "ARAMBURU SANDRA HAYDEE",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       }
     ]
   },
@@ -4167,42 +2650,24 @@
         "block": "I",
         "description": "INTERNADO GINECOLOGÍA",
         "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
+        "teacher": "RAMIREZ MAICOL ALEJANDRO",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "VI",
         "block": "I",
         "description": "INTERNADO GINECOLOGÍA",
         "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
+        "teacher": "RAMIREZ MAICOL ALEJANDRO",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       },
       {
         "day": "SA",
         "block": "I",
         "description": "INTERNADO GINECOLOGÍA",
         "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "I",
-        "description": "INTERNADO GINECOLOGÍA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "I",
-        "description": "INTERNADO GINECOLOGÍA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
-      },
-      {
-        "day": "SA",
-        "block": "I",
-        "description": "INTERNADO GINECOLOGÍA",
-        "isMandatory": true,
-        "teacher": "SALAZAR CLAUDIA ALEJANDRA"
+        "teacher": "RAMIREZ MAICOL ALEJANDRO",
+        "secondTeacher": "SALAZAR CLAUDIA ALEJANDRA"
       }
     ]
   },
@@ -4216,42 +2681,24 @@
         "block": "J",
         "description": "INTERNADO OBSTETRICIA",
         "isMandatory": true,
-        "teacher": "SOTO JOSE IGNACIO"
+        "teacher": "SOTO JOSE IGNACIO",
+        "secondTeacher": "YANEZ NICOLAS FABRICIO"
       },
       {
         "day": "MA",
         "block": "J",
         "description": "INTERNADO OBSTETRICIA",
         "isMandatory": true,
-        "teacher": "SOTO JOSE IGNACIO"
+        "teacher": "SOTO JOSE IGNACIO",
+        "secondTeacher": "YANEZ NICOLAS FABRICIO"
       },
       {
         "day": "MI",
         "block": "J",
         "description": "INTERNADO OBSTETRICIA",
         "isMandatory": true,
-        "teacher": "SOTO JOSE IGNACIO"
-      },
-      {
-        "day": "LU",
-        "block": "J",
-        "description": "INTERNADO OBSTETRICIA",
-        "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
-      },
-      {
-        "day": "MA",
-        "block": "J",
-        "description": "INTERNADO OBSTETRICIA",
-        "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
-      },
-      {
-        "day": "MI",
-        "block": "J",
-        "description": "INTERNADO OBSTETRICIA",
-        "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
+        "teacher": "SOTO JOSE IGNACIO",
+        "secondTeacher": "YANEZ NICOLAS FABRICIO"
       }
     ]
   },
@@ -4272,21 +2719,8 @@
         "block": "G",
         "description": "AYUDANTÍA S1-S2",
         "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "AYUDANTÍA S1-S2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "AYUDANTÍA S1-S2",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
+        "teacher": "CABRERA MARTA LISSETTE",
+        "secondTeacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "JU",
@@ -4314,42 +2748,16 @@
         "block": "D",
         "description": "LABORATORIO S1",
         "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
+        "teacher": "CABRERA MARTA LISSETTE",
+        "secondTeacher": "PAREDES PAULA EUGENIA"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "LABORATORIO S1",
         "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "LABORATORIO S1",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO S1",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "LABORATORIO S1",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO S1",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
+        "teacher": "CABRERA MARTA LISSETTE",
+        "secondTeacher": "PAREDES PAULA EUGENIA"
       }
     ]
   },
@@ -4363,35 +2771,24 @@
         "block": "G",
         "description": "AYUDANTÍA S1-S2",
         "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
+        "teacher": "CABRERA MARTA LISSETTE",
+        "secondTeacher": "PAREDES PAULA EUGENIA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "LABORATORIO S2",
         "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
+        "teacher": "CABRERA MARTA LISSETTE",
+        "secondTeacher": "PAREDES PAULA EUGENIA"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "LABORATORIO S2",
         "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "AYUDANTÍA S1-S2",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "AYUDANTÍA S1-S2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
+        "teacher": "CABRERA MARTA LISSETTE",
+        "secondTeacher": "PAREDES PAULA EUGENIA"
       },
       {
         "day": "JU",
@@ -4420,34 +2817,6 @@
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "LABORATORIO S2",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "LABORATORIO S2",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "LABORATORIO S2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "LABORATORIO S2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
       }
     ]
   },
@@ -4475,14 +2844,8 @@
         "block": "D",
         "description": "TALLER S1",
         "isMandatory": true,
-        "teacher": "PUENTES MARCELA PAZ"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "TALLER S1",
-        "isMandatory": true,
-        "teacher": "BAEZA CECILIA ELENA"
+        "teacher": "PUENTES MARCELA PAZ",
+        "secondTeacher": "BAEZA CECILIA ELENA"
       }
     ]
   },
@@ -4510,14 +2873,8 @@
         "block": "D",
         "description": "TALLER S1",
         "isMandatory": true,
-        "teacher": "BAEZA CECILIA ELENA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "TALLER S1",
-        "isMandatory": true,
-        "teacher": "PUENTES MARCELA PAZ"
+        "teacher": "BAEZA CECILIA ELENA",
+        "secondTeacher": "PUENTES MARCELA PAZ"
       }
     ]
   },
@@ -4531,7 +2888,8 @@
         "block": "E",
         "description": "TALLER S2",
         "isMandatory": true,
-        "teacher": "BAEZA CECILIA ELENA"
+        "teacher": "BAEZA CECILIA ELENA",
+        "secondTeacher": "PUENTES MARCELA PAZ"
       },
       {
         "day": "LU",
@@ -4546,13 +2904,6 @@
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
         "teacher": "BAEZA CECILIA ELENA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "TALLER S2",
-        "isMandatory": true,
-        "teacher": "PUENTES MARCELA PAZ"
       }
     ]
   },
@@ -4580,14 +2931,8 @@
         "block": "E",
         "description": "TALLER S2",
         "isMandatory": true,
-        "teacher": "BAEZA CECILIA ELENA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "TALLER S2",
-        "isMandatory": true,
-        "teacher": "PUENTES MARCELA PAZ"
+        "teacher": "BAEZA CECILIA ELENA",
+        "secondTeacher": "PUENTES MARCELA PAZ"
       }
     ]
   },
@@ -4713,98 +3058,48 @@
         "block": "B",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "RIVERO PABLO ANDRES"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "RIVERO PABLO ANDRES"
       },
       {
         "day": "LU",
         "block": "A",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "ALLENDES CHRISTIAN JAIME"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "ALLENDES CHRISTIAN JAIME"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "LAB S1",
         "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
+        "teacher": "ALLENDES CHRISTIAN JAIME",
+        "secondTeacher": "RIVERO PABLO ANDRES"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "LAB S1",
         "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
+        "teacher": "ALLENDES CHRISTIAN JAIME",
+        "secondTeacher": "RIVERO PABLO ANDRES"
       },
       {
         "day": "VI",
@@ -4832,112 +3127,48 @@
         "block": "E",
         "description": "LAB S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "ALLENDES CHRISTIAN JAIME"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "LAB S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "FIGUEROA MELISSA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "FIGUEROA MELISSA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "ALLENDES CHRISTIAN JAIME"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "RIVERO PABLO ANDRES"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "RIVERO PABLO ANDRES"
       },
       {
         "day": "LU",
         "block": "A",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "ALLENDES CHRISTIAN JAIME"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MAASS RODRIGO LEONARDO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "RIVERO PABLO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "ALLENDES CHRISTIAN JAIME"
+        "teacher": "MAASS RODRIGO LEONARDO",
+        "secondTeacher": "ALLENDES CHRISTIAN JAIME"
       }
     ]
   },
@@ -4951,49 +3182,24 @@
         "block": "A",
         "description": "LAB S1",
         "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
+        "teacher": "DUARTE PATRICIA DEL PILAR",
+        "secondTeacher": "MOYA CATALINA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
+        "teacher": "DUARTE PATRICIA DEL PILAR",
+        "secondTeacher": "BUSTAMANTE NATALIA LILIAN"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "MUENA DANIELA PAMELA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "MOYA CATALINA"
+        "teacher": "DUARTE PATRICIA DEL PILAR",
+        "secondTeacher": "BUSTAMANTE NATALIA LILIAN"
       }
     ]
   },
@@ -5007,49 +3213,24 @@
         "block": "C",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "DUARTE PATRICIA DEL PILAR"
+        "teacher": "BUSTAMANTE NATALIA LILIAN",
+        "secondTeacher": "DUARTE PATRICIA DEL PILAR"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "LAB S2",
         "isMandatory": true,
-        "teacher": "MUENA DANIELA PAMELA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "MOYA CATALINA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE NATALIA LILIAN"
+        "teacher": "MUENA DANIELA PAMELA",
+        "secondTeacher": "BUSTAMANTE NATALIA LILIAN"
       }
     ]
   },
@@ -5063,49 +3244,24 @@
         "block": "D",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
+        "teacher": "MONTENEGRO ANTONIO ALEJANDRO",
+        "secondTeacher": "GONZÁLEZ HILDA DEL CARMEN"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
+        "teacher": "MONTENEGRO ANTONIO ALEJANDRO",
+        "secondTeacher": "GONZÁLEZ HILDA DEL CARMEN"
       },
       {
         "day": "MI",
         "block": "A",
         "description": "LAB S1",
         "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LAB S1",
-        "isMandatory": true,
-        "teacher": "GONZÁLEZ HILDA DEL CARMEN"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GONZÁLEZ HILDA DEL CARMEN"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GONZÁLEZ HILDA DEL CARMEN"
+        "teacher": "RAMIREZ MAICOL ALEJANDRO",
+        "secondTeacher": "GONZÁLEZ HILDA DEL CARMEN"
       }
     ]
   },
@@ -5119,49 +3275,24 @@
         "block": "D",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
+        "teacher": "MONTENEGRO ANTONIO ALEJANDRO",
+        "secondTeacher": "GONZÁLEZ HILDA DEL CARMEN"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "MONTENEGRO ANTONIO ALEJANDRO"
+        "teacher": "MONTENEGRO ANTONIO ALEJANDRO",
+        "secondTeacher": "GONZÁLEZ HILDA DEL CARMEN"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "LAB S2",
         "isMandatory": true,
-        "teacher": "RAMIREZ MAICOL ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "GALLARDO MARIANA VALERIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LAB S2",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GONZÁLEZ HILDA DEL CARMEN"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GONZÁLEZ HILDA DEL CARMEN"
+        "teacher": "RAMIREZ MAICOL ALEJANDRO",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       }
     ]
   },
@@ -5182,42 +3313,24 @@
         "block": "D",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
+        "teacher": "YANEZ NICOLAS FABRICIO",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
+        "teacher": "YANEZ NICOLAS FABRICIO",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
+        "teacher": "YANEZ NICOLAS FABRICIO",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       }
     ]
   },
@@ -5231,42 +3344,24 @@
         "block": "D",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
+        "teacher": "YANEZ NICOLAS FABRICIO",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
+        "teacher": "YANEZ NICOLAS FABRICIO",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CAT S1-S2",
         "isMandatory": true,
-        "teacher": "YANEZ NICOLAS FABRICIO"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CAT S1-S2",
-        "isMandatory": true,
-        "teacher": "GUTIERREZ BARBARA FRANCISCA"
+        "teacher": "YANEZ NICOLAS FABRICIO",
+        "secondTeacher": "GUTIERREZ BARBARA FRANCISCA"
       },
       {
         "day": "LU",

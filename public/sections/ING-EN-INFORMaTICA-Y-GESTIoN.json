@@ -996,28 +996,16 @@
         "block": "H",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MORENO ROBERTO ANDRES"
+        "teacher": "MORENO ROBERTO ANDRES",
+        "secondTeacher": "LETELIER RUBEN PATRICIO"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MORENO ROBERTO ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "LETELIER RUBEN PATRICIO"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "LETELIER RUBEN PATRICIO"
+        "teacher": "MORENO ROBERTO ANDRES",
+        "secondTeacher": "LETELIER RUBEN PATRICIO"
       }
     ]
   },

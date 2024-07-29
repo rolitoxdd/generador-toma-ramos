@@ -114,75 +114,45 @@
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "MA",
         "block": "A",
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LABORATORIO 01",
         "isMandatory": true,
         "teacher": "MUÑOZ FABIAN ALEJANDRO"
       }
@@ -205,70 +175,40 @@
         "block": "A",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "GOMEZ GIOVANNA DEL CARMEN",
+        "secondTeacher": "MUÑOZ FABIAN ALEJANDRO"
       }
     ]
   },
@@ -289,70 +229,40 @@
         "block": "A",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "HUMERES JAVIERA ALEJANDRA"
+        "teacher": "HUMERES JAVIERA ALEJANDRA",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "VI",
         "block": "G",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "HUMERES JAVIERA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "HUMERES JAVIERA ALEJANDRA",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       }
     ]
   },
@@ -366,70 +276,40 @@
         "block": "C",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "MA",
         "block": "H",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "MUÑOZ FABIAN ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "GOMEZ GIOVANNA DEL CARMEN"
+        "teacher": "MUÑOZ FABIAN ALEJANDRO",
+        "secondTeacher": "GOMEZ GIOVANNA DEL CARMEN"
       },
       {
         "day": "MA",
@@ -450,119 +330,64 @@
         "block": "C",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
+        "teacher": "FERNANDEZ KATIA YANINA",
+        "secondTeacher": "LANDSKRON ERWIN MAURICIO"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "MA",
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "MI",
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       }
     ]
   },
@@ -576,112 +401,64 @@
         "block": "C",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "OBANDO RITA MERCEDES"
+        "teacher": "OBANDO RITA MERCEDES",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "OBANDO RITA MERCEDES"
+        "teacher": "OBANDO RITA MERCEDES",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "OBANDO RITA MERCEDES"
+        "teacher": "OBANDO RITA MERCEDES",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "OBANDO RITA MERCEDES"
+        "teacher": "OBANDO RITA MERCEDES",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "TALLER 02",
         "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "TALLER 02",
-        "isMandatory": true,
-        "teacher": "OBANDO RITA MERCEDES"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES",
+        "secondTeacher": "OBANDO RITA MERCEDES"
       }
     ]
   },
@@ -695,119 +472,64 @@
         "block": "D",
         "description": "TALLER 03",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "LANDSKRON ERWIN MAURICIO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "LANDSKRON ERWIN MAURICIO",
+        "secondTeacher": "CORTES PEDRO RAUL"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "LU",
         "block": "D",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "CORTES PEDRO RAUL"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "TALLER 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "TALLER 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
+        "teacher": "CORTES PEDRO RAUL",
+        "secondTeacher": "FERNANDEZ CLAUDIA DE LOS ANGELES"
       }
     ]
   },
@@ -821,28 +543,16 @@
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "ARAYA ARMIN ANDRÉS"
+        "teacher": "ARAYA ARMIN ANDRÉS",
+        "secondTeacher": "ANTILEF TAMARA ALEJANDRA"
       },
       {
         "day": "SA",
         "block": "B",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "ARAYA ARMIN ANDRÉS"
-      },
-      {
-        "day": "SA",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "ANTILEF TAMARA ALEJANDRA"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "ANTILEF TAMARA ALEJANDRA"
+        "teacher": "ARAYA ARMIN ANDRÉS",
+        "secondTeacher": "ANTILEF TAMARA ALEJANDRA"
       },
       {
         "day": "JU",
@@ -877,28 +587,16 @@
         "block": "C",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "ANTILEF TAMARA ALEJANDRA"
+        "teacher": "ANTILEF TAMARA ALEJANDRA",
+        "secondTeacher": "ARAYA ARMIN ANDRÉS"
       },
       {
         "day": "SA",
         "block": "D",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "ANTILEF TAMARA ALEJANDRA"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "ARAYA ARMIN ANDRÉS"
-      },
-      {
-        "day": "SA",
-        "block": "D",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "ARAYA ARMIN ANDRÉS"
+        "teacher": "ANTILEF TAMARA ALEJANDRA",
+        "secondTeacher": "ARAYA ARMIN ANDRÉS"
       },
       {
         "day": "LU",
@@ -926,28 +624,16 @@
         "block": "G",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "ANTILEF TAMARA ALEJANDRA"
+        "teacher": "ANTILEF TAMARA ALEJANDRA",
+        "secondTeacher": "ARAYA ARMIN ANDRÉS"
       },
       {
         "day": "JU",
         "block": "H",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "ANTILEF TAMARA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "ARAYA ARMIN ANDRÉS"
-      },
-      {
-        "day": "JU",
-        "block": "H",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "ARAYA ARMIN ANDRÉS"
+        "teacher": "ANTILEF TAMARA ALEJANDRA",
+        "secondTeacher": "ARAYA ARMIN ANDRÉS"
       },
       {
         "day": "MA",
@@ -975,14 +661,8 @@
         "block": "G",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "ZENTENO MARCELO LENIN"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "ROSALES LUZ VERONICA"
+        "teacher": "ZENTENO MARCELO LENIN",
+        "secondTeacher": "ROSALES LUZ VERONICA"
       }
     ]
   },
@@ -996,19 +676,13 @@
         "block": "F",
         "description": "TALLER 02",
         "isMandatory": true,
-        "teacher": "ZENTENO MARCELO LENIN"
+        "teacher": "ZENTENO MARCELO LENIN",
+        "secondTeacher": "ROSALES LUZ VERONICA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "ROSALES LUZ VERONICA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "TALLER 02",
         "isMandatory": true,
         "teacher": "ROSALES LUZ VERONICA"
       }
@@ -1031,14 +705,8 @@
         "block": "E",
         "description": "TALLER 03",
         "isMandatory": true,
-        "teacher": "ZENTENO MARCELO LENIN"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "TALLER 03",
-        "isMandatory": true,
-        "teacher": "ROSALES LUZ VERONICA"
+        "teacher": "ZENTENO MARCELO LENIN",
+        "secondTeacher": "ROSALES LUZ VERONICA"
       }
     ]
   },
@@ -1066,14 +734,8 @@
         "block": "F",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "FLOREZ OSCAR YESID"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+        "teacher": "FLOREZ OSCAR YESID",
+        "secondTeacher": "BELTRÁN CRISTÓBAL CAMILO"
       }
     ]
   },
@@ -1101,14 +763,8 @@
         "block": "H",
         "description": "TALLER 02",
         "isMandatory": true,
-        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "TALLER 02",
-        "isMandatory": true,
-        "teacher": "CASTILLO LIDIA PAZ"
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO",
+        "secondTeacher": "CASTILLO LIDIA PAZ"
       }
     ]
   },
@@ -1129,14 +785,8 @@
         "block": "H",
         "description": "TALLER 02",
         "isMandatory": true,
-        "teacher": "CASTILLO LIDIA PAZ"
-      },
-      {
-        "day": "VI",
-        "block": "H",
-        "description": "TALLER 02",
-        "isMandatory": true,
-        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+        "teacher": "CASTILLO LIDIA PAZ",
+        "secondTeacher": "BELTRÁN CRISTÓBAL CAMILO"
       },
       {
         "day": "VI",
@@ -1171,14 +821,8 @@
         "block": "G",
         "description": "TALLER 03",
         "isMandatory": true,
-        "teacher": "CASTILLO LIDIA PAZ"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "TALLER 03",
-        "isMandatory": true,
-        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
+        "teacher": "CASTILLO LIDIA PAZ",
+        "secondTeacher": "BELTRÁN CRISTÓBAL CAMILO"
       }
     ]
   },
@@ -1206,14 +850,8 @@
         "block": "G",
         "description": "TALLER 04",
         "isMandatory": true,
-        "teacher": "BELTRÁN CRISTÓBAL CAMILO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "TALLER 04",
-        "isMandatory": true,
-        "teacher": "FLOREZ OSCAR YESID"
+        "teacher": "BELTRÁN CRISTÓBAL CAMILO",
+        "secondTeacher": "FLOREZ OSCAR YESID"
       }
     ]
   },
@@ -1535,7 +1173,8 @@
         "block": "E",
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
-        "teacher": "GREEN JANET DEL CARMEN"
+        "teacher": "GREEN JANET DEL CARMEN",
+        "secondTeacher": "PROKES MARÍA JOSÉ"
       },
       {
         "day": "LU",
@@ -1543,13 +1182,6 @@
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
         "teacher": "GREEN JANET DEL CARMEN"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "PROKES MARÍA JOSÉ"
       },
       {
         "day": "LU",
@@ -1661,7 +1293,8 @@
         "block": "E",
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
-        "teacher": "GREEN JANET DEL CARMEN"
+        "teacher": "GREEN JANET DEL CARMEN",
+        "secondTeacher": "PROKES MARÍA JOSÉ"
       },
       {
         "day": "LU",
@@ -1765,13 +1398,6 @@
         "day": "MA",
         "block": "F",
         "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "PROKES MARÍA JOSÉ"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
         "teacher": "PROKES MARÍA JOSÉ"
       }
@@ -1885,7 +1511,8 @@
         "block": "E",
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
-        "teacher": "GREEN JANET DEL CARMEN"
+        "teacher": "GREEN JANET DEL CARMEN",
+        "secondTeacher": "PROKES MARÍA JOSÉ"
       },
       {
         "day": "LU",
@@ -1893,13 +1520,6 @@
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
         "teacher": "GREEN JANET DEL CARMEN"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "PROKES MARÍA JOSÉ"
       }
     ]
   },
@@ -1913,7 +1533,8 @@
         "block": "E",
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
-        "teacher": "GREEN JANET DEL CARMEN"
+        "teacher": "GREEN JANET DEL CARMEN",
+        "secondTeacher": "PROKES MARÍA JOSÉ"
       },
       {
         "day": "LU",
@@ -2019,13 +1640,6 @@
         "description": "ACTIVIDAD CLÍNICA",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "PROKES MARÍA JOSÉ"
       }
     ]
   },
@@ -2039,7 +1653,8 @@
         "block": "E",
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
-        "teacher": "GREEN JANET DEL CARMEN"
+        "teacher": "GREEN JANET DEL CARMEN",
+        "secondTeacher": "PROKES MARÍA JOSÉ"
       },
       {
         "day": "LU",
@@ -2145,13 +1760,6 @@
         "description": "LABORATORIO 05",
         "isMandatory": true,
         "teacher": "PROKES MARÍA JOSÉ"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "PROKES MARÍA JOSÉ"
       }
     ]
   },
@@ -2165,7 +1773,8 @@
         "block": "E",
         "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
-        "teacher": "GREEN JANET DEL CARMEN"
+        "teacher": "GREEN JANET DEL CARMEN",
+        "secondTeacher": "PROKES MARÍA JOSÉ"
       },
       {
         "day": "LU",
@@ -2269,13 +1878,6 @@
         "day": "SA",
         "block": "C",
         "description": "LABORATORIO 06",
-        "isMandatory": true,
-        "teacher": "PROKES MARÍA JOSÉ"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA MADRE S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
         "teacher": "PROKES MARÍA JOSÉ"
       }
@@ -2305,42 +1907,24 @@
         "block": "E",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       }
     ]
   },
@@ -2368,42 +1952,24 @@
         "block": "A",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
+        "teacher": "QUIROGA GUILLERMO MOISES",
+        "secondTeacher": "BESA NATALIA PAZ"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
+        "teacher": "QUIROGA GUILLERMO MOISES",
+        "secondTeacher": "BESA NATALIA PAZ"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "QUIROGA GUILLERMO MOISES",
+        "secondTeacher": "BESA NATALIA PAZ"
       }
     ]
   },
@@ -2424,21 +1990,24 @@
         "block": "A",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "PINEDA JORGE JAVIER",
+        "secondTeacher": "BESA NATALIA PAZ"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "PINEDA JORGE JAVIER",
+        "secondTeacher": "BESA NATALIA PAZ"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "PINEDA JORGE JAVIER",
+        "secondTeacher": "BESA NATALIA PAZ"
       },
       {
         "day": "LU",
@@ -2446,27 +2015,6 @@
         "description": "CÁTEDRA MADRE S1-S2-S3-S4",
         "isMandatory": true,
         "teacher": "QUIROGA GUILLERMO MOISES"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
       }
     ]
   },
@@ -2487,42 +2035,24 @@
         "block": "A",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       },
       {
         "day": "JU",
@@ -2543,28 +2073,16 @@
         "block": "B",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA",
+        "secondTeacher": "VILLAGRA LORENA DEL PILAR"
       },
       {
         "day": "SA",
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
-      },
-      {
-        "day": "SA",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA",
+        "secondTeacher": "VILLAGRA LORENA DEL PILAR"
       }
     ]
   },
@@ -2578,28 +2096,16 @@
         "block": "A",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+        "teacher": "VILLAGRA LORENA DEL PILAR",
+        "secondTeacher": "GONZÁLEZ ALEJANDRA GEMA"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "TALLER 02",
         "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "TALLER 02",
-        "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+        "teacher": "VILLAGRA LORENA DEL PILAR",
+        "secondTeacher": "GONZÁLEZ ALEJANDRA GEMA"
       }
     ]
   },
@@ -2613,28 +2119,16 @@
         "block": "B",
         "description": "TALLER 03",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA",
+        "secondTeacher": "VILLAGRA LORENA DEL PILAR"
       },
       {
         "day": "MA",
         "block": "A",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "TALLER 03",
-        "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA",
+        "secondTeacher": "VILLAGRA LORENA DEL PILAR"
       }
     ]
   },
@@ -2648,28 +2142,16 @@
         "block": "D",
         "description": "TALLER 04",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA",
+        "secondTeacher": "VILLAGRA LORENA DEL PILAR"
       },
       {
         "day": "SA",
         "block": "C",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "GONZÁLEZ ALEJANDRA GEMA"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
-      },
-      {
-        "day": "SA",
-        "block": "D",
-        "description": "TALLER 04",
-        "isMandatory": true,
-        "teacher": "VILLAGRA LORENA DEL PILAR"
+        "teacher": "GONZÁLEZ ALEJANDRA GEMA",
+        "secondTeacher": "VILLAGRA LORENA DEL PILAR"
       }
     ]
   },
@@ -2711,42 +2193,24 @@
         "block": "G",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "ANTICEVIC VALERIA ANDREA"
+        "teacher": "ANTICEVIC VALERIA ANDREA",
+        "secondTeacher": "ARAYA GONZALO ANDRÉS"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARAYA GONZALO ANDRÉS"
+        "teacher": "ARAYA GONZALO ANDRÉS",
+        "secondTeacher": "ANTICEVIC VALERIA ANDREA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARAYA GONZALO ANDRÉS"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ANTICEVIC VALERIA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ANTICEVIC VALERIA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "ARAYA GONZALO ANDRÉS"
+        "teacher": "ARAYA GONZALO ANDRÉS",
+        "secondTeacher": "ANTICEVIC VALERIA ANDREA"
       }
     ]
   },
@@ -3600,28 +3064,16 @@
         "block": "G",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
+        "teacher": "LOPEZ JENNY MIGUELINA",
+        "secondTeacher": "FERRANDO MAGALY LORENA"
       },
       {
         "day": "LU",
         "block": "H",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
-      },
-      {
-        "day": "LU",
-        "block": "H",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
+        "teacher": "LOPEZ JENNY MIGUELINA",
+        "secondTeacher": "FERRANDO MAGALY LORENA"
       }
     ]
   },
@@ -5672,140 +5124,56 @@
         "block": "C",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
+        "teacher": "DUARTE OSVALDO ESTEBAN",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       },
       {
         "day": "JU",
         "block": "D",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
+        "teacher": "DUARTE OSVALDO ESTEBAN",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       },
       {
         "day": "VI",
         "block": "A",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
+        "teacher": "CORNEJO DANIEL ANDRES",
+        "secondTeacher": "FERRANDO MAGALY LORENA"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
+        "teacher": "CORNEJO DANIEL ANDRES",
+        "secondTeacher": "FERRANDO MAGALY LORENA"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
+        "teacher": "LATORRE RAFAEL ABRAHAM",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       },
       {
         "day": "MI",
         "block": "E",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
+        "teacher": "LATORRE RAFAEL ABRAHAM",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
+        "teacher": "LATORRE RAFAEL ABRAHAM",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       }
     ]
   },
@@ -5819,140 +5187,56 @@
         "block": "A",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
+        "teacher": "CORNEJO DANIEL ANDRES",
+        "secondTeacher": "DUARTE OSVALDO ESTEBAN"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
+        "teacher": "CORNEJO DANIEL ANDRES",
+        "secondTeacher": "DUARTE OSVALDO ESTEBAN"
       },
       {
         "day": "MI",
         "block": "A",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "RIOS PAULINA ALEJANDRA"
+        "teacher": "RIOS PAULINA ALEJANDRA",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "RIOS PAULINA ALEJANDRA"
+        "teacher": "RIOS PAULINA ALEJANDRA",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "RIOS PAULINA ALEJANDRA"
+        "teacher": "RIOS PAULINA ALEJANDRA",
+        "secondTeacher": "CORNEJO DANIEL ANDRES"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
+        "teacher": "DUARTE OSVALDO ESTEBAN",
+        "secondTeacher": "LATORRE RAFAEL ABRAHAM"
       },
       {
         "day": "MA",
         "block": "D",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
+        "teacher": "DUARTE OSVALDO ESTEBAN",
+        "secondTeacher": "LATORRE RAFAEL ABRAHAM"
       }
     ]
   },
@@ -5966,140 +5250,56 @@
         "block": "A",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
+        "teacher": "CORNEJO DANIEL ANDRES",
+        "secondTeacher": "FERRANDO MAGALY LORENA"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA MADRE S1-S2-S3",
         "isMandatory": true,
-        "teacher": "CORNEJO DANIEL ANDRES"
+        "teacher": "CORNEJO DANIEL ANDRES",
+        "secondTeacher": "FERRANDO MAGALY LORENA"
       },
       {
         "day": "JU",
         "block": "E",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "FREZ CAROLINA ANGÉLICA"
+        "teacher": "FREZ CAROLINA ANGÉLICA",
+        "secondTeacher": "CÁCERES SIMÓN TABARÉ"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "FREZ CAROLINA ANGÉLICA"
+        "teacher": "FREZ CAROLINA ANGÉLICA",
+        "secondTeacher": "CÁCERES SIMÓN TABARÉ"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
+        "teacher": "LATORRE RAFAEL ABRAHAM",
+        "secondTeacher": "DUARTE OSVALDO ESTEBAN"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
+        "teacher": "LATORRE RAFAEL ABRAHAM",
+        "secondTeacher": "DUARTE OSVALDO ESTEBAN"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "LATORRE RAFAEL ABRAHAM"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "DUARTE OSVALDO ESTEBAN"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "CÁCERES SIMÓN TABARÉ"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "LOPEZ JENNY MIGUELINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA MADRE S1-S2-S3",
-        "isMandatory": true,
-        "teacher": "FERRANDO MAGALY LORENA"
+        "teacher": "LATORRE RAFAEL ABRAHAM",
+        "secondTeacher": "DUARTE OSVALDO ESTEBAN"
       }
     ]
   },
@@ -7002,154 +6202,40 @@
         "block": "D",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "MA",
         "block": "E",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "MOYA EMMANUEL ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "MOYA EMMANUEL ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CUEVAS FABRIZIO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CUEVAS FABRIZIO"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "PAREDES PAULA EUGENIA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
+        "teacher": "BRAVO DANIELA ALEJANDRA",
+        "secondTeacher": "HUMERES ALEXIS JOHANY"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "HUMERES ALEXIS JOHANY"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "HUMERES ALEXIS JOHANY"
+        "teacher": "BRAVO DANIELA ALEJANDRA",
+        "secondTeacher": "HUMERES ALEXIS JOHANY"
       }
     ]
   },
@@ -7163,98 +6249,40 @@
         "block": "G",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "TOLEDO JAVIERA FABIOLA"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "CUEVAS FABRIZIO"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "TOLEDO JAVIERA FABIOLA"
+        "teacher": "BRAVO DANIELA ALEJANDRA",
+        "secondTeacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "HUMERES ALEXIS JOHANY"
+        "teacher": "HUMERES ALEXIS JOHANY",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "HUMERES ALEXIS JOHANY"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
+        "teacher": "HUMERES ALEXIS JOHANY",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA S1-S2",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA S1-S2",
-        "isMandatory": true,
-        "teacher": "PAREDES PAULA EUGENIA"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "PAREDES PAULA EUGENIA"
       }
     ]
   },
@@ -7282,28 +6310,16 @@
         "block": "E",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
+        "teacher": "GONZALEZ MARIA FLORENCIA",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "GONZALEZ MARIA FLORENCIA",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       }
     ]
   },
@@ -7317,14 +6333,16 @@
         "block": "A",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "GONZALEZ MARIA FLORENCIA"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "GONZALEZ MARIA FLORENCIA"
       },
       {
         "day": "JU",
@@ -7339,20 +6357,6 @@
         "description": "CÁTEDRA S1-S2-S3",
         "isMandatory": true,
         "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
       }
     ]
   },
@@ -7380,28 +6384,16 @@
         "block": "E",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
+        "teacher": "GONZALEZ MARIA FLORENCIA",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "GONZALEZ MARIA FLORENCIA",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       }
     ]
   },
@@ -7415,56 +6407,32 @@
         "block": "C",
         "description": "CÁTEDRA S4-S5-S6",
         "isMandatory": true,
-        "teacher": "HEYSEN HANS PAUL"
+        "teacher": "HEYSEN HANS PAUL",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA S4-S5-S6",
         "isMandatory": true,
-        "teacher": "VERGARA RODOLFO IVÁN"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "VERGARA RODOLFO IVÁN",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "GONZALEZ MARIA FLORENCIA"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "GONZALEZ MARIA FLORENCIA"
       }
     ]
   },
@@ -7478,56 +6446,32 @@
         "block": "A",
         "description": "LABORATORIO 05",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "GONZALEZ MARIA FLORENCIA"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "LABORATORIO 05",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "GONZALEZ MARIA FLORENCIA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA S4-S5-S6",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "VERGARA RODOLFO IVÁN"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA S4-S5-S6",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "VERGARA RODOLFO IVÁN"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "HEYSEN HANS PAUL"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 05",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 05",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "HEYSEN HANS PAUL"
       }
     ]
   },
@@ -7541,56 +6485,32 @@
         "block": "C",
         "description": "CÁTEDRA S4-S5-S6",
         "isMandatory": true,
-        "teacher": "HEYSEN HANS PAUL"
+        "teacher": "HEYSEN HANS PAUL",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "LABORATORIO 06",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
+        "teacher": "GONZALEZ MARIA FLORENCIA",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "LU",
         "block": "D",
         "description": "LABORATORIO 06",
         "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "LABORATORIO 06",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "LABORATORIO 06",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
+        "teacher": "GONZALEZ MARIA FLORENCIA",
+        "secondTeacher": "ARIAS MARIA PATRICIA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA S4-S5-S6",
         "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA S4-S5-S6",
-        "isMandatory": true,
-        "teacher": "VERGARA RODOLFO IVÁN"
+        "teacher": "ARIAS MARIA PATRICIA",
+        "secondTeacher": "VERGARA RODOLFO IVÁN"
       }
     ]
   },
@@ -7639,14 +6559,8 @@
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+        "teacher": "FERNANDEZ KATIA YANINA",
+        "secondTeacher": "REBOLLEDO XIMENA DEL CARMEN"
       },
       {
         "day": "JU",
@@ -7667,14 +6581,8 @@
         "block": "B",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       },
       {
         "day": "JU",
@@ -7716,14 +6624,8 @@
         "block": "C",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       }
     ]
   },
@@ -7751,21 +6653,8 @@
         "block": "A",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "ORTIZ PAULA CAROLINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+        "teacher": "ORTIZ PAULA CAROLINA",
+        "secondTeacher": "REBOLLEDO XIMENA DEL CARMEN"
       }
     ]
   },
@@ -7779,7 +6668,8 @@
         "block": "B",
         "description": "LABORATORIO 05",
         "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN",
+        "secondTeacher": "ORTIZ PAULA CAROLINA"
       },
       {
         "day": "JU",
@@ -7794,20 +6684,6 @@
         "description": "CÁTEDRA S1-S2-S3-S4-S5-S6",
         "isMandatory": true,
         "teacher": "REBOLLEDO XIMENA DEL CARMEN"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 05",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "LABORATORIO 05",
-        "isMandatory": true,
-        "teacher": "ORTIZ PAULA CAROLINA"
       }
     ]
   },
@@ -7835,21 +6711,8 @@
         "block": "C",
         "description": "LABORATORIO 06",
         "isMandatory": true,
-        "teacher": "REBOLLEDO XIMENA DEL CARMEN"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 06",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "LABORATORIO 06",
-        "isMandatory": true,
-        "teacher": "ORTIZ PAULA CAROLINA"
+        "teacher": "REBOLLEDO XIMENA DEL CARMEN",
+        "secondTeacher": "ORTIZ PAULA CAROLINA"
       }
     ]
   },
@@ -7870,42 +6733,24 @@
         "block": "A",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "LABORATORIO 01",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO 01",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       },
       {
         "day": "LU",
@@ -7940,42 +6785,24 @@
         "block": "E",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "LOPEZ EDINSON ALEJANDRO"
+        "teacher": "LOPEZ EDINSON ALEJANDRO",
+        "secondTeacher": "QUIROGA GUILLERMO MOISES"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "LOPEZ EDINSON ALEJANDRO"
+        "teacher": "LOPEZ EDINSON ALEJANDRO",
+        "secondTeacher": "QUIROGA GUILLERMO MOISES"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "LABORATORIO 02",
         "isMandatory": true,
-        "teacher": "LOPEZ EDINSON ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "LABORATORIO 02",
-        "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
+        "teacher": "LOPEZ EDINSON ALEJANDRO",
+        "secondTeacher": "QUIROGA GUILLERMO MOISES"
       }
     ]
   },
@@ -7996,42 +6823,24 @@
         "block": "E",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "LABORATORIO 03",
         "isMandatory": true,
-        "teacher": "BESA NATALIA PAZ"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "LABORATORIO 03",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ KATIA YANINA"
+        "teacher": "BESA NATALIA PAZ",
+        "secondTeacher": "FERNANDEZ KATIA YANINA"
       },
       {
         "day": "JU",
@@ -8066,42 +6875,24 @@
         "block": "E",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
+        "teacher": "QUIROGA GUILLERMO MOISES",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
+        "teacher": "QUIROGA GUILLERMO MOISES",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       },
       {
         "day": "VI",
         "block": "G",
         "description": "LABORATORIO 04",
         "isMandatory": true,
-        "teacher": "QUIROGA GUILLERMO MOISES"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "LABORATORIO 04",
-        "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "QUIROGA GUILLERMO MOISES",
+        "secondTeacher": "PINEDA JORGE JAVIER"
       }
     ]
   },
@@ -8122,42 +6913,24 @@
         "block": "E",
         "description": "LABORATORIO 05",
         "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "PINEDA JORGE JAVIER",
+        "secondTeacher": "LOPEZ EDINSON ALEJANDRO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "LABORATORIO 05",
         "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
+        "teacher": "PINEDA JORGE JAVIER",
+        "secondTeacher": "LOPEZ EDINSON ALEJANDRO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "LABORATORIO 05",
         "isMandatory": true,
-        "teacher": "PINEDA JORGE JAVIER"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "LABORATORIO 05",
-        "isMandatory": true,
-        "teacher": "LOPEZ EDINSON ALEJANDRO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "LABORATORIO 05",
-        "isMandatory": true,
-        "teacher": "LOPEZ EDINSON ALEJANDRO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "LABORATORIO 05",
-        "isMandatory": true,
-        "teacher": "LOPEZ EDINSON ALEJANDRO"
+        "teacher": "PINEDA JORGE JAVIER",
+        "secondTeacher": "LOPEZ EDINSON ALEJANDRO"
       },
       {
         "day": "MI",

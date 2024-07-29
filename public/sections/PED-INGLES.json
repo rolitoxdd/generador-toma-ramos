@@ -2284,28 +2284,16 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RAGLIANTI NINO VITTORIO"
+        "teacher": "RAGLIANTI NINO VITTORIO",
+        "secondTeacher": "JARA IGNACIO"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RAGLIANTI NINO VITTORIO"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA IGNACIO"
+        "teacher": "RAGLIANTI NINO VITTORIO",
+        "secondTeacher": "JARA IGNACIO"
       }
     ]
   },
@@ -2319,28 +2307,16 @@
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       }
     ]
   },
@@ -2354,28 +2330,16 @@
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
+        "teacher": "DIAZ DANIELA FERNANDA",
+        "secondTeacher": "OTAEGUI MARIA ALICIA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
+        "teacher": "DIAZ DANIELA FERNANDA",
+        "secondTeacher": "OTAEGUI MARIA ALICIA"
       }
     ]
   },

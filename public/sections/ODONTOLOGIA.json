@@ -30,14 +30,8 @@
         "block": "A",
         "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "SA",
-        "block": "A",
-        "description": "CÁTEDRAS MADRE",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
+        "teacher": "HERNANDEZ RODRIGO ALEJANDRO",
+        "secondTeacher": "BRAVO DANIELA ALEJANDRA"
       },
       {
         "day": "LU",
@@ -51,70 +45,24 @@
         "block": "B",
         "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
         "day": "SA",
         "block": "C",
         "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "LABORATORIO MARTES - SABADO",
-        "isMandatory": true,
-        "teacher": "MIRALLES RODOLFO"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LABORATORIO MARTES - SABADO",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO MARTES - SABADO",
-        "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "LABORATORIO MARTES - SABADO",
-        "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "LABORATORIO MARTES - SABADO",
-        "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "LABORATORIO MARTES - SABADO",
-        "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "LABORATORIO MARTES - SABADO",
-        "isMandatory": true,
-        "teacher": "VALENZUELA SAUL MANUEL"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "VALENZUELA SAUL MANUEL"
       }
     ]
   },
@@ -128,28 +76,32 @@
         "block": "E",
         "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "SA",
         "block": "B",
         "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "CORDOVA ROSA DEL CARMEN",
+        "secondTeacher": "GAMBOA NATALIA"
       },
       {
         "day": "SA",
         "block": "A",
         "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
-        "teacher": "BRAVO DANIELA ALEJANDRA"
+        "teacher": "BRAVO DANIELA ALEJANDRA",
+        "secondTeacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
         "day": "LU",
@@ -178,69 +130,6 @@
         "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "SA",
-        "block": "A",
-        "description": "CÁTEDRAS MADRE",
-        "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "VALENZUELA SAUL MANUEL"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "MIRALLES RODOLFO"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "GAMBOA NATALIA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "LABORATORIO JUEVES - SABADO",
-        "isMandatory": true,
-        "teacher": "PEÑA MARIA CORINA"
       }
     ]
   },
@@ -254,42 +143,24 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
+        "teacher": "ECHEVARRIA CLAUDIO ARTURO",
+        "secondTeacher": "BARRIA JOEL ALBERTO"
       },
       {
         "day": "VI",
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
+        "teacher": "ECHEVARRIA CLAUDIO ARTURO",
+        "secondTeacher": "BARRIA JOEL ALBERTO"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "BARRIA JOEL ALBERTO"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "BARRIA JOEL ALBERTO"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "BARRIA JOEL ALBERTO"
+        "teacher": "ECHEVARRIA CLAUDIO ARTURO",
+        "secondTeacher": "BARRIA JOEL ALBERTO"
       }
     ]
   },
@@ -303,84 +174,32 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MENESES ANA MARIA"
+        "teacher": "MENESES ANA MARIA",
+        "secondTeacher": "NAVARRO MYRIAM ANDREA"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MENESES ANA MARIA"
+        "teacher": "MENESES ANA MARIA",
+        "secondTeacher": "NAVARRO MYRIAM ANDREA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BRAVO JESSICA ANDREA"
+        "teacher": "BRAVO JESSICA ANDREA",
+        "secondTeacher": "NAVARRO MYRIAM ANDREA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BRAVO JESSICA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARIAS MARIA PATRICIA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "NAVARRO MYRIAM ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "NAVARRO MYRIAM ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "NAVARRO MYRIAM ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "NAVARRO MYRIAM ANDREA"
+        "teacher": "BRAVO JESSICA ANDREA",
+        "secondTeacher": "NAVARRO MYRIAM ANDREA"
       },
       {
         "day": "MI",
@@ -408,105 +227,24 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CARBONE MICHELE ANGELO"
+        "teacher": "CARBONE MICHELE ANGELO",
+        "secondTeacher": "TAPIA VERONICA DEL ROSARIO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CARBONE MICHELE ANGELO"
+        "teacher": "CARBONE MICHELE ANGELO",
+        "secondTeacher": "TAPIA VERONICA DEL ROSARIO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CARBONE MICHELE ANGELO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FUENTES MARIANA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FUENTES MARIANA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "FUENTES MARIANA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "COLOSIA KAREN NICOLE"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "COLOSIA KAREN NICOLE"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "COLOSIA KAREN NICOLE"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GODOY ELOISA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GODOY ELOISA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GODOY ELOISA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TAPIA VERONICA DEL ROSARIO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TAPIA VERONICA DEL ROSARIO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TAPIA VERONICA DEL ROSARIO"
+        "teacher": "CARBONE MICHELE ANGELO",
+        "secondTeacher": "TAPIA VERONICA DEL ROSARIO"
       }
     ]
   },
@@ -520,28 +258,32 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RETAMALES PATRICIO EDGARDO"
+        "teacher": "RETAMALES PATRICIO EDGARDO",
+        "secondTeacher": "WIESE GUILLERMO SEBASTIAN"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RETAMALES PATRICIO EDGARDO"
+        "teacher": "RETAMALES PATRICIO EDGARDO",
+        "secondTeacher": "WIESE GUILLERMO SEBASTIAN"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RETAMALES PATRICIO EDGARDO"
+        "teacher": "RETAMALES PATRICIO EDGARDO",
+        "secondTeacher": "WIESE GUILLERMO SEBASTIAN"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "DONDERS MICHELLE RENATA"
+        "teacher": "DONDERS MICHELLE RENATA",
+        "secondTeacher": "NAVARRO MYRIAM ANDREA"
       },
       {
         "day": "JU",
@@ -549,34 +291,6 @@
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "DONDERS MICHELLE RENATA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "WIESE GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "WIESE GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "WIESE GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "NAVARRO MYRIAM ANDREA"
       }
     ]
   },
@@ -604,28 +318,16 @@
         "block": "G",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "ZAMORA RENATO ANDRES"
+        "teacher": "ZAMORA RENATO ANDRES",
+        "secondTeacher": "PADILLA PAMELA DEL CARMEN"
       },
       {
         "day": "MA",
         "block": "H",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "ZAMORA RENATO ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "PADILLA PAMELA DEL CARMEN"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "PADILLA PAMELA DEL CARMEN"
+        "teacher": "ZAMORA RENATO ANDRES",
+        "secondTeacher": "PADILLA PAMELA DEL CARMEN"
       }
     ]
   },
@@ -639,63 +341,24 @@
         "block": "A",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
+        "teacher": "MARTINEZ CAROLINA ANDREA",
+        "secondTeacher": "MONASTERIO SANDRA ANA MARIA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
+        "teacher": "MARTINEZ CAROLINA ANDREA",
+        "secondTeacher": "MONASTERIO SANDRA ANA MARIA"
       },
       {
         "day": "MA",
         "block": "C",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "CRIADO LIANET"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "CRIADO LIANET"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "CRIADO LIANET"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MONASTERIO SANDRA ANA MARIA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MONASTERIO SANDRA ANA MARIA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MONASTERIO SANDRA ANA MARIA"
+        "teacher": "MARTINEZ CAROLINA ANDREA",
+        "secondTeacher": "MONASTERIO SANDRA ANA MARIA"
       }
     ]
   },
@@ -709,63 +372,24 @@
         "block": "E",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
+        "teacher": "LETELIER MARIA JOSE",
+        "secondTeacher": "ESTAY PAMELA ANDREA"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
+        "teacher": "LETELIER MARIA JOSE",
+        "secondTeacher": "ESTAY PAMELA ANDREA"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "PERRY GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "PERRY GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "PERRY GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ESTAY PAMELA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ESTAY PAMELA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ESTAY PAMELA ANDREA"
+        "teacher": "LETELIER MARIA JOSE",
+        "secondTeacher": "ESTAY PAMELA ANDREA"
       }
     ]
   },
@@ -779,63 +403,24 @@
         "block": "A",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "SCHOTT SEBASTIAN ANDREAS"
+        "teacher": "SCHOTT SEBASTIAN ANDREAS",
+        "secondTeacher": "REICHBERG CYNTHIA ANDREA"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "SCHOTT SEBASTIAN ANDREAS"
+        "teacher": "SCHOTT SEBASTIAN ANDREAS",
+        "secondTeacher": "REICHBERG CYNTHIA ANDREA"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "SCHOTT SEBASTIAN ANDREAS"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MARTINEZ MARIA SOLEDAD"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MARTINEZ MARIA SOLEDAD"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MARTINEZ MARIA SOLEDAD"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "REICHBERG CYNTHIA ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "REICHBERG CYNTHIA ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "REICHBERG CYNTHIA ANDREA"
+        "teacher": "SCHOTT SEBASTIAN ANDREAS",
+        "secondTeacher": "REICHBERG CYNTHIA ANDREA"
       }
     ]
   },
@@ -849,63 +434,24 @@
         "block": "E",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
+        "teacher": "MARTINEZ CAROLINA ANDREA",
+        "secondTeacher": "REBOLLEDO JUAN ENRIQUE"
       },
       {
         "day": "MI",
         "block": "F",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
+        "teacher": "MARTINEZ CAROLINA ANDREA",
+        "secondTeacher": "REBOLLEDO JUAN ENRIQUE"
       },
       {
         "day": "MI",
         "block": "G",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARANEDA SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARANEDA SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ARANEDA SEBASTIAN"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO JUAN ENRIQUE"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO JUAN ENRIQUE"
-      },
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "REBOLLEDO JUAN ENRIQUE"
+        "teacher": "MARTINEZ CAROLINA ANDREA",
+        "secondTeacher": "REBOLLEDO JUAN ENRIQUE"
       }
     ]
   },
@@ -961,28 +507,16 @@
         "block": "H",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "GODOY ELOISA ANDREA"
+        "teacher": "GODOY ELOISA ANDREA",
+        "secondTeacher": "RUEDA EDGAR GERARDO"
       },
       {
         "day": "MA",
         "block": "I",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "GODOY ELOISA ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "H",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "RUEDA EDGAR GERARDO"
-      },
-      {
-        "day": "MA",
-        "block": "I",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "RUEDA EDGAR GERARDO"
+        "teacher": "GODOY ELOISA ANDREA",
+        "secondTeacher": "RUEDA EDGAR GERARDO"
       }
     ]
   },
@@ -996,42 +530,24 @@
         "block": "E",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "GODOY SEBASTIAN ALFONSO"
+        "teacher": "GODOY SEBASTIAN ALFONSO",
+        "secondTeacher": "LETELIER MARIA JOSE"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "GODOY SEBASTIAN ALFONSO"
+        "teacher": "GODOY SEBASTIAN ALFONSO",
+        "secondTeacher": "LETELIER MARIA JOSE"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "GODOY SEBASTIAN ALFONSO"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
+        "teacher": "GODOY SEBASTIAN ALFONSO",
+        "secondTeacher": "LETELIER MARIA JOSE"
       }
     ]
   },
@@ -1045,84 +561,24 @@
         "block": "A",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
+        "teacher": "LETELIER MARIA JOSE",
+        "secondTeacher": "GODOY SEBASTIAN ALFONSO"
       },
       {
         "day": "SA",
         "block": "B",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
+        "teacher": "LETELIER MARIA JOSE",
+        "secondTeacher": "GODOY SEBASTIAN ALFONSO"
       },
       {
         "day": "SA",
         "block": "C",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "LETELIER MARIA JOSE"
-      },
-      {
-        "day": "SA",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "PERRY GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "PERRY GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "PERRY GUILLERMO SEBASTIAN"
-      },
-      {
-        "day": "SA",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "FALEIROS SIMONE"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "FALEIROS SIMONE"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "FALEIROS SIMONE"
-      },
-      {
-        "day": "SA",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "GODOY SEBASTIAN ALFONSO"
-      },
-      {
-        "day": "SA",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "GODOY SEBASTIAN ALFONSO"
-      },
-      {
-        "day": "SA",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "GODOY SEBASTIAN ALFONSO"
+        "teacher": "LETELIER MARIA JOSE",
+        "secondTeacher": "GODOY SEBASTIAN ALFONSO"
       }
     ]
   }

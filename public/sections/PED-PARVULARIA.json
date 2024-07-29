@@ -177,28 +177,16 @@
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ROMO MARIA FRANCISCA"
+        "teacher": "ROMO MARIA FRANCISCA",
+        "secondTeacher": "ARANCIBIA VALENTINA JOSEFA"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ROMO MARIA FRANCISCA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ARANCIBIA VALENTINA JOSEFA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ARANCIBIA VALENTINA JOSEFA"
+        "teacher": "ROMO MARIA FRANCISCA",
+        "secondTeacher": "ARANCIBIA VALENTINA JOSEFA"
       }
     ]
   },
@@ -212,28 +200,16 @@
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ROMO MARIA FRANCISCA"
+        "teacher": "ROMO MARIA FRANCISCA",
+        "secondTeacher": "ARANCIBIA VALENTINA JOSEFA"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ROMO MARIA FRANCISCA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ARANCIBIA VALENTINA JOSEFA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ARANCIBIA VALENTINA JOSEFA"
+        "teacher": "ROMO MARIA FRANCISCA",
+        "secondTeacher": "ARANCIBIA VALENTINA JOSEFA"
       }
     ]
   },
@@ -709,28 +685,16 @@
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "GUTIERREZ JUAN CARLOS"
+        "teacher": "GUTIERREZ JUAN CARLOS",
+        "secondTeacher": "ALCATRUZ PAULA DE LAS MERCEDES"
       },
       {
         "day": "LU",
         "block": "C",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "GUTIERREZ JUAN CARLOS"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+        "teacher": "GUTIERREZ JUAN CARLOS",
+        "secondTeacher": "ALCATRUZ PAULA DE LAS MERCEDES"
       }
     ]
   },
@@ -1493,28 +1457,16 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RAGLIANTI NINO VITTORIO"
+        "teacher": "RAGLIANTI NINO VITTORIO",
+        "secondTeacher": "JARA IGNACIO"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RAGLIANTI NINO VITTORIO"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA IGNACIO"
+        "teacher": "RAGLIANTI NINO VITTORIO",
+        "secondTeacher": "JARA IGNACIO"
       }
     ]
   },
@@ -3061,28 +3013,16 @@
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       }
     ]
   },
@@ -3096,28 +3036,16 @@
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       }
     ]
   }

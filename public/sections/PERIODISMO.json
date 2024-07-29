@@ -4468,28 +4468,16 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GARCIA JAVIERA"
+        "teacher": "GARCIA JAVIERA",
+        "secondTeacher": "BESOAIN RODOLFO"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GARCIA JAVIERA"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BESOAIN RODOLFO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BESOAIN RODOLFO"
+        "teacher": "GARCIA JAVIERA",
+        "secondTeacher": "BESOAIN RODOLFO"
       }
     ]
   },
@@ -4979,14 +4967,8 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MAUREIRA MONICA ANDREA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIEZ FELIPE"
+        "teacher": "MAUREIRA MONICA ANDREA",
+        "secondTeacher": "DIEZ FELIPE"
       }
     ]
   },
@@ -5000,28 +4982,16 @@
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ARANDA VERA"
+        "teacher": "ARANDA VERA",
+        "secondTeacher": "BAEZA DANIELA"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ARANDA VERA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "BAEZA DANIELA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "BAEZA DANIELA"
+        "teacher": "ARANDA VERA",
+        "secondTeacher": "BAEZA DANIELA"
       }
     ]
   },
@@ -5035,28 +5005,16 @@
         "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "NORAMBUENA FERNANDA"
+        "teacher": "NORAMBUENA FERNANDA",
+        "secondTeacher": "CASTILLO NANCY HAYDEE"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "NORAMBUENA FERNANDA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "CASTILLO NANCY HAYDEE"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "CASTILLO NANCY HAYDEE"
+        "teacher": "NORAMBUENA FERNANDA",
+        "secondTeacher": "CASTILLO NANCY HAYDEE"
       }
     ]
   },
@@ -5476,28 +5434,16 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "PERALTA MARÍA JESÚS"
+        "teacher": "PERALTA MARÍA JESÚS",
+        "secondTeacher": "ESCOBAR PAULA ELISA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "PERALTA MARÍA JESÚS"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESCOBAR PAULA ELISA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESCOBAR PAULA ELISA"
+        "teacher": "PERALTA MARÍA JESÚS",
+        "secondTeacher": "ESCOBAR PAULA ELISA"
       }
     ]
   },
@@ -5511,28 +5457,16 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "PERALTA MARÍA JESÚS"
+        "teacher": "PERALTA MARÍA JESÚS",
+        "secondTeacher": "ESCOBAR PAULA ELISA"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "PERALTA MARÍA JESÚS"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESCOBAR PAULA ELISA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESCOBAR PAULA ELISA"
+        "teacher": "PERALTA MARÍA JESÚS",
+        "secondTeacher": "ESCOBAR PAULA ELISA"
       }
     ]
   },

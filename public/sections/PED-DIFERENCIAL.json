@@ -919,14 +919,8 @@
         "block": "G",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "VILLALOBOS ANDREA CAROLINA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "SANTIS KATINA VALESKA"
+        "teacher": "VILLALOBOS ANDREA CAROLINA",
+        "secondTeacher": "SANTIS KATINA VALESKA"
       }
     ]
   },
@@ -1115,112 +1109,64 @@
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       },
       {
         "day": "MA",
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       },
       {
         "day": "MI",
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       },
       {
         "day": "MI",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "BAHAMONDES LORENA GRACIELA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "MENARES CATHERYNE DOROTHY"
+        "teacher": "BAHAMONDES LORENA GRACIELA",
+        "secondTeacher": "MENARES CATHERYNE DOROTHY"
       }
     ]
   },
@@ -1647,7 +1593,8 @@
         "block": "E",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "SANTIS KATINA VALESKA"
+        "teacher": "SANTIS KATINA VALESKA",
+        "secondTeacher": "AREVALO RITA ISABEL MARGARITA"
       },
       {
         "day": "LU",
@@ -1676,13 +1623,6 @@
         "description": "CÁTEDRA",
         "isMandatory": true,
         "teacher": "VILLALOBOS ANDREA CAROLINA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "AREVALO RITA ISABEL MARGARITA"
       }
     ]
   },
@@ -2116,28 +2056,16 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RAGLIANTI NINO VITTORIO"
+        "teacher": "RAGLIANTI NINO VITTORIO",
+        "secondTeacher": "JARA IGNACIO"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "RAGLIANTI NINO VITTORIO"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA IGNACIO"
+        "teacher": "RAGLIANTI NINO VITTORIO",
+        "secondTeacher": "JARA IGNACIO"
       }
     ]
   },
@@ -3684,28 +3612,16 @@
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       }
     ]
   },
@@ -3719,28 +3635,16 @@
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "OTAEGUI MARIA ALICIA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DIAZ DANIELA FERNANDA"
+        "teacher": "OTAEGUI MARIA ALICIA",
+        "secondTeacher": "DIAZ DANIELA FERNANDA"
       }
     ]
   },

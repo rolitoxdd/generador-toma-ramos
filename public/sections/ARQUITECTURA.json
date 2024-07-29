@@ -9,84 +9,48 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ZUÑIGA PAMELA ANDREA"
+        "teacher": "ZUÑIGA PAMELA ANDREA",
+        "secondTeacher": "SAELZER FRANCISCA"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ZUÑIGA PAMELA ANDREA"
+        "teacher": "ZUÑIGA PAMELA ANDREA",
+        "secondTeacher": "SAELZER FRANCISCA"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ZUÑIGA PAMELA ANDREA"
+        "teacher": "ZUÑIGA PAMELA ANDREA",
+        "secondTeacher": "SAELZER FRANCISCA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ZUÑIGA PAMELA ANDREA"
+        "teacher": "ZUÑIGA PAMELA ANDREA",
+        "secondTeacher": "SAELZER FRANCISCA"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ZUÑIGA PAMELA ANDREA"
+        "teacher": "ZUÑIGA PAMELA ANDREA",
+        "secondTeacher": "SAELZER FRANCISCA"
       },
       {
         "day": "VI",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ZUÑIGA PAMELA ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAELZER FRANCISCA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAELZER FRANCISCA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAELZER FRANCISCA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAELZER FRANCISCA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAELZER FRANCISCA"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAELZER FRANCISCA"
+        "teacher": "ZUÑIGA PAMELA ANDREA",
+        "secondTeacher": "SAELZER FRANCISCA"
       }
     ]
   },
@@ -128,63 +92,24 @@
         "block": "E",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "CELEDON ALEJANDRA"
+        "teacher": "CELEDON ALEJANDRA",
+        "secondTeacher": "SILVA PEDRO PABLO"
       },
       {
         "day": "JU",
         "block": "F",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "CELEDON ALEJANDRA"
+        "teacher": "CELEDON ALEJANDRA",
+        "secondTeacher": "SILVA PEDRO PABLO"
       },
       {
         "day": "JU",
         "block": "G",
         "description": "TALLER 01",
         "isMandatory": true,
-        "teacher": "CELEDON ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CROXATTO BERNARDITA MARIA JESUS"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CROXATTO BERNARDITA MARIA JESUS"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "CROXATTO BERNARDITA MARIA JESUS"
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "SILVA PEDRO PABLO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "SILVA PEDRO PABLO"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "TALLER 01",
-        "isMandatory": true,
-        "teacher": "SILVA PEDRO PABLO"
+        "teacher": "CELEDON ALEJANDRA",
+        "secondTeacher": "SILVA PEDRO PABLO"
       }
     ]
   },
@@ -3404,252 +3329,48 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BOSCH FRANCISCO"
+        "teacher": "BOSCH FRANCISCO",
+        "secondTeacher": "VERGARA DIEGO JOSE"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BOSCH FRANCISCO"
+        "teacher": "BOSCH FRANCISCO",
+        "secondTeacher": "VERGARA DIEGO JOSE"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BOSCH FRANCISCO"
+        "teacher": "BOSCH FRANCISCO",
+        "secondTeacher": "VERGARA DIEGO JOSE"
       },
       {
         "day": "VI",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BOSCH FRANCISCO"
+        "teacher": "BOSCH FRANCISCO",
+        "secondTeacher": "VERGARA DIEGO JOSE"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BOSCH FRANCISCO"
+        "teacher": "BOSCH FRANCISCO",
+        "secondTeacher": "VERGARA DIEGO JOSE"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BOSCH FRANCISCO"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DAMBROSIO SERENA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DAMBROSIO SERENA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DAMBROSIO SERENA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DAMBROSIO SERENA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DAMBROSIO SERENA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "DAMBROSIO SERENA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "CABARGAS NICOLAS"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "CABARGAS NICOLAS"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "CABARGAS NICOLAS"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "CABARGAS NICOLAS"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "CABARGAS NICOLAS"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "CABARGAS NICOLAS"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MAGRINI CLAUDIO MASSIMO RENATO GIUSEPPE"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MAGRINI CLAUDIO MASSIMO RENATO GIUSEPPE"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MAGRINI CLAUDIO MASSIMO RENATO GIUSEPPE"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MAGRINI CLAUDIO MASSIMO RENATO GIUSEPPE"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MAGRINI CLAUDIO MASSIMO RENATO GIUSEPPE"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MAGRINI CLAUDIO MASSIMO RENATO GIUSEPPE"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
+        "teacher": "BOSCH FRANCISCO",
+        "secondTeacher": "VERGARA DIEGO JOSE"
       }
     ]
   },
@@ -3663,28 +3384,16 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
+        "teacher": "FLORES RODRIGO ALFONSO",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
+        "teacher": "FLORES RODRIGO ALFONSO",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       }
     ]
   },
@@ -3698,42 +3407,24 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "HEVIA RAFAEL"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "HEVIA RAFAEL"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HEVIA RAFAEL"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HEVIA RAFAEL"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "HEVIA RAFAEL"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "HEVIA RAFAEL"
       }
     ]
   },
@@ -3747,126 +3438,48 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "WAGEMANN ELIZABETH CAROLINA"
+        "teacher": "WAGEMANN ELIZABETH CAROLINA",
+        "secondTeacher": "PRIETO ALEJANDRO IGNACIO"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "WAGEMANN ELIZABETH CAROLINA"
+        "teacher": "WAGEMANN ELIZABETH CAROLINA",
+        "secondTeacher": "PRIETO ALEJANDRO IGNACIO"
       },
       {
         "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "WAGEMANN ELIZABETH CAROLINA"
+        "teacher": "WAGEMANN ELIZABETH CAROLINA",
+        "secondTeacher": "PRIETO ALEJANDRO IGNACIO"
       },
       {
         "day": "VI",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "WAGEMANN ELIZABETH CAROLINA"
+        "teacher": "WAGEMANN ELIZABETH CAROLINA",
+        "secondTeacher": "PRIETO ALEJANDRO IGNACIO"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "WAGEMANN ELIZABETH CAROLINA"
+        "teacher": "WAGEMANN ELIZABETH CAROLINA",
+        "secondTeacher": "PRIETO ALEJANDRO IGNACIO"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "WAGEMANN ELIZABETH CAROLINA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESPINOZA CARLOS ANDRÉS"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESPINOZA CARLOS ANDRÉS"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESPINOZA CARLOS ANDRÉS"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESPINOZA CARLOS ANDRÉS"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESPINOZA CARLOS ANDRÉS"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ESPINOZA CARLOS ANDRÉS"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PRIETO ALEJANDRO IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PRIETO ALEJANDRO IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PRIETO ALEJANDRO IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PRIETO ALEJANDRO IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PRIETO ALEJANDRO IGNACIO"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PRIETO ALEJANDRO IGNACIO"
+        "teacher": "WAGEMANN ELIZABETH CAROLINA",
+        "secondTeacher": "PRIETO ALEJANDRO IGNACIO"
       }
     ]
   },
@@ -4363,84 +3976,48 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GALVEZ HUGO GABRIEL"
+        "teacher": "GALVEZ HUGO GABRIEL",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GALVEZ HUGO GABRIEL"
+        "teacher": "GALVEZ HUGO GABRIEL",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GALVEZ HUGO GABRIEL"
+        "teacher": "GALVEZ HUGO GABRIEL",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GALVEZ HUGO GABRIEL"
+        "teacher": "GALVEZ HUGO GABRIEL",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GALVEZ HUGO GABRIEL"
+        "teacher": "GALVEZ HUGO GABRIEL",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GALVEZ HUGO GABRIEL"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "UNDURRAGA SILVIA MARIA"
+        "teacher": "GALVEZ HUGO GABRIEL",
+        "secondTeacher": "UNDURRAGA SILVIA MARIA"
       }
     ]
   },
@@ -4454,84 +4031,48 @@
         "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "MARDONES PATRICIO EDUARDO"
+        "teacher": "MARDONES PATRICIO EDUARDO",
+        "secondTeacher": "FERNANDEZ ANDRES GUILLERMO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "MARDONES PATRICIO EDUARDO"
+        "teacher": "MARDONES PATRICIO EDUARDO",
+        "secondTeacher": "FERNANDEZ ANDRES GUILLERMO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "MARDONES PATRICIO EDUARDO"
+        "teacher": "MARDONES PATRICIO EDUARDO",
+        "secondTeacher": "FERNANDEZ ANDRES GUILLERMO"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "MARDONES PATRICIO EDUARDO"
+        "teacher": "MARDONES PATRICIO EDUARDO",
+        "secondTeacher": "FERNANDEZ ANDRES GUILLERMO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "MARDONES PATRICIO EDUARDO"
+        "teacher": "MARDONES PATRICIO EDUARDO",
+        "secondTeacher": "FERNANDEZ ANDRES GUILLERMO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "MARDONES PATRICIO EDUARDO"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ ANDRES GUILLERMO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ ANDRES GUILLERMO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ ANDRES GUILLERMO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ ANDRES GUILLERMO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ ANDRES GUILLERMO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "FERNANDEZ ANDRES GUILLERMO"
+        "teacher": "MARDONES PATRICIO EDUARDO",
+        "secondTeacher": "FERNANDEZ ANDRES GUILLERMO"
       }
     ]
   },
@@ -4545,84 +4086,48 @@
         "block": "A",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "MONTANARELLA LUCA"
+        "teacher": "MONTANARELLA LUCA",
+        "secondTeacher": "FLORES RODRIGO ALFONSO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "MONTANARELLA LUCA"
+        "teacher": "MONTANARELLA LUCA",
+        "secondTeacher": "FLORES RODRIGO ALFONSO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "MONTANARELLA LUCA"
+        "teacher": "MONTANARELLA LUCA",
+        "secondTeacher": "FLORES RODRIGO ALFONSO"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "MONTANARELLA LUCA"
+        "teacher": "MONTANARELLA LUCA",
+        "secondTeacher": "FLORES RODRIGO ALFONSO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "MONTANARELLA LUCA"
+        "teacher": "MONTANARELLA LUCA",
+        "secondTeacher": "FLORES RODRIGO ALFONSO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "MONTANARELLA LUCA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "FLORES RODRIGO ALFONSO"
+        "teacher": "MONTANARELLA LUCA",
+        "secondTeacher": "FLORES RODRIGO ALFONSO"
       }
     ]
   },
@@ -4636,84 +4141,48 @@
         "block": "A",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "ARAYA ALEJANDRA"
+        "teacher": "ARAYA ALEJANDRA",
+        "secondTeacher": "SIGNORELLI LAURA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "ARAYA ALEJANDRA"
+        "teacher": "ARAYA ALEJANDRA",
+        "secondTeacher": "SIGNORELLI LAURA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "ARAYA ALEJANDRA"
+        "teacher": "ARAYA ALEJANDRA",
+        "secondTeacher": "SIGNORELLI LAURA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "ARAYA ALEJANDRA"
+        "teacher": "ARAYA ALEJANDRA",
+        "secondTeacher": "SIGNORELLI LAURA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "ARAYA ALEJANDRA"
+        "teacher": "ARAYA ALEJANDRA",
+        "secondTeacher": "SIGNORELLI LAURA"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "ARAYA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "SIGNORELLI LAURA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "SIGNORELLI LAURA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "SIGNORELLI LAURA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "SIGNORELLI LAURA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "SIGNORELLI LAURA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "SIGNORELLI LAURA"
+        "teacher": "ARAYA ALEJANDRA",
+        "secondTeacher": "SIGNORELLI LAURA"
       }
     ]
   },
@@ -4727,84 +4196,48 @@
         "block": "A",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "DEL CAMPO CAROLINA ISABEL"
+        "teacher": "DEL CAMPO CAROLINA ISABEL",
+        "secondTeacher": "QUINTEROS LEONARDO ANDRÉS"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "DEL CAMPO CAROLINA ISABEL"
+        "teacher": "DEL CAMPO CAROLINA ISABEL",
+        "secondTeacher": "QUINTEROS LEONARDO ANDRÉS"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "DEL CAMPO CAROLINA ISABEL"
+        "teacher": "DEL CAMPO CAROLINA ISABEL",
+        "secondTeacher": "QUINTEROS LEONARDO ANDRÉS"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "DEL CAMPO CAROLINA ISABEL"
+        "teacher": "DEL CAMPO CAROLINA ISABEL",
+        "secondTeacher": "QUINTEROS LEONARDO ANDRÉS"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "DEL CAMPO CAROLINA ISABEL"
+        "teacher": "DEL CAMPO CAROLINA ISABEL",
+        "secondTeacher": "QUINTEROS LEONARDO ANDRÉS"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": "DEL CAMPO CAROLINA ISABEL"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "QUINTEROS LEONARDO ANDRÉS"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "QUINTEROS LEONARDO ANDRÉS"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "QUINTEROS LEONARDO ANDRÉS"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "QUINTEROS LEONARDO ANDRÉS"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "QUINTEROS LEONARDO ANDRÉS"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 05",
-        "isMandatory": true,
-        "teacher": "QUINTEROS LEONARDO ANDRÉS"
+        "teacher": "DEL CAMPO CAROLINA ISABEL",
+        "secondTeacher": "QUINTEROS LEONARDO ANDRÉS"
       }
     ]
   },
@@ -4818,84 +4251,48 @@
         "block": "A",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
+        "teacher": "HOLMES ROBERT JONATHAN",
+        "secondTeacher": "DANYAN DIEGO IGNACIO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
+        "teacher": "HOLMES ROBERT JONATHAN",
+        "secondTeacher": "DANYAN DIEGO IGNACIO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
+        "teacher": "HOLMES ROBERT JONATHAN",
+        "secondTeacher": "DANYAN DIEGO IGNACIO"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
+        "teacher": "HOLMES ROBERT JONATHAN",
+        "secondTeacher": "DANYAN DIEGO IGNACIO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
+        "teacher": "HOLMES ROBERT JONATHAN",
+        "secondTeacher": "DANYAN DIEGO IGNACIO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 06",
         "isMandatory": true,
-        "teacher": "HOLMES ROBERT JONATHAN"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "DANYAN DIEGO IGNACIO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "DANYAN DIEGO IGNACIO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "DANYAN DIEGO IGNACIO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "DANYAN DIEGO IGNACIO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "DANYAN DIEGO IGNACIO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 06",
-        "isMandatory": true,
-        "teacher": "DANYAN DIEGO IGNACIO"
+        "teacher": "HOLMES ROBERT JONATHAN",
+        "secondTeacher": "DANYAN DIEGO IGNACIO"
       }
     ]
   },
@@ -4909,84 +4306,48 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "GAMBOA PIA MACARENA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "GAMBOA PIA MACARENA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "GAMBOA PIA MACARENA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "GAMBOA PIA MACARENA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "GAMBOA PIA MACARENA"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GOMEZ ALFONSO JAVIER"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAMBOA PIA MACARENA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAMBOA PIA MACARENA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAMBOA PIA MACARENA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAMBOA PIA MACARENA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAMBOA PIA MACARENA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAMBOA PIA MACARENA"
+        "teacher": "GOMEZ ALFONSO JAVIER",
+        "secondTeacher": "GAMBOA PIA MACARENA"
       }
     ]
   },
@@ -5000,84 +4361,48 @@
         "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
+        "teacher": "VERGARA DIEGO JOSE",
+        "secondTeacher": "SANCHEZ PALOMA MARIA"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
+        "teacher": "VERGARA DIEGO JOSE",
+        "secondTeacher": "SANCHEZ PALOMA MARIA"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
+        "teacher": "VERGARA DIEGO JOSE",
+        "secondTeacher": "SANCHEZ PALOMA MARIA"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
+        "teacher": "VERGARA DIEGO JOSE",
+        "secondTeacher": "SANCHEZ PALOMA MARIA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
+        "teacher": "VERGARA DIEGO JOSE",
+        "secondTeacher": "SANCHEZ PALOMA MARIA"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "VERGARA DIEGO JOSE"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SANCHEZ PALOMA MARIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SANCHEZ PALOMA MARIA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SANCHEZ PALOMA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SANCHEZ PALOMA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SANCHEZ PALOMA MARIA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SANCHEZ PALOMA MARIA"
+        "teacher": "VERGARA DIEGO JOSE",
+        "secondTeacher": "SANCHEZ PALOMA MARIA"
       }
     ]
   },
@@ -5091,84 +4416,48 @@
         "block": "A",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "VALDIVIESO SOFÍA"
+        "teacher": "VALDIVIESO SOFÍA",
+        "secondTeacher": "RAMIREZ ALVARO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "VALDIVIESO SOFÍA"
+        "teacher": "VALDIVIESO SOFÍA",
+        "secondTeacher": "RAMIREZ ALVARO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "VALDIVIESO SOFÍA"
+        "teacher": "VALDIVIESO SOFÍA",
+        "secondTeacher": "RAMIREZ ALVARO"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "VALDIVIESO SOFÍA"
+        "teacher": "VALDIVIESO SOFÍA",
+        "secondTeacher": "RAMIREZ ALVARO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "VALDIVIESO SOFÍA"
+        "teacher": "VALDIVIESO SOFÍA",
+        "secondTeacher": "RAMIREZ ALVARO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "VALDIVIESO SOFÍA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMIREZ ALVARO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMIREZ ALVARO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMIREZ ALVARO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMIREZ ALVARO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMIREZ ALVARO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMIREZ ALVARO"
+        "teacher": "VALDIVIESO SOFÍA",
+        "secondTeacher": "RAMIREZ ALVARO"
       }
     ]
   },
@@ -5182,84 +4471,48 @@
         "block": "A",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "DELPINO SEBASTIAN"
+        "teacher": "DELPINO SEBASTIAN",
+        "secondTeacher": "CONCHA DANIEL ALEJANDRO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "DELPINO SEBASTIAN"
+        "teacher": "DELPINO SEBASTIAN",
+        "secondTeacher": "CONCHA DANIEL ALEJANDRO"
       },
       {
         "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "DELPINO SEBASTIAN"
+        "teacher": "DELPINO SEBASTIAN",
+        "secondTeacher": "CONCHA DANIEL ALEJANDRO"
       },
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "DELPINO SEBASTIAN"
+        "teacher": "DELPINO SEBASTIAN",
+        "secondTeacher": "CONCHA DANIEL ALEJANDRO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "DELPINO SEBASTIAN"
+        "teacher": "DELPINO SEBASTIAN",
+        "secondTeacher": "CONCHA DANIEL ALEJANDRO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "DELPINO SEBASTIAN"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "CONCHA DANIEL ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "CONCHA DANIEL ALEJANDRO"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "CONCHA DANIEL ALEJANDRO"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "CONCHA DANIEL ALEJANDRO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "CONCHA DANIEL ALEJANDRO"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "CONCHA DANIEL ALEJANDRO"
+        "teacher": "DELPINO SEBASTIAN",
+        "secondTeacher": "CONCHA DANIEL ALEJANDRO"
       }
     ]
   },
@@ -5406,84 +4659,48 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JANS MARGARITA BEATRIZ"
+        "teacher": "JANS MARGARITA BEATRIZ",
+        "secondTeacher": "ORTEGA ASTRID ANDREA"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JANS MARGARITA BEATRIZ"
+        "teacher": "JANS MARGARITA BEATRIZ",
+        "secondTeacher": "ORTEGA ASTRID ANDREA"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JANS MARGARITA BEATRIZ"
+        "teacher": "JANS MARGARITA BEATRIZ",
+        "secondTeacher": "ORTEGA ASTRID ANDREA"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JANS MARGARITA BEATRIZ"
+        "teacher": "JANS MARGARITA BEATRIZ",
+        "secondTeacher": "ORTEGA ASTRID ANDREA"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JANS MARGARITA BEATRIZ"
+        "teacher": "JANS MARGARITA BEATRIZ",
+        "secondTeacher": "ORTEGA ASTRID ANDREA"
       },
       {
         "day": "VI",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "JANS MARGARITA BEATRIZ"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTEGA ASTRID ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTEGA ASTRID ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTEGA ASTRID ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTEGA ASTRID ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTEGA ASTRID ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORTEGA ASTRID ANDREA"
+        "teacher": "JANS MARGARITA BEATRIZ",
+        "secondTeacher": "ORTEGA ASTRID ANDREA"
       }
     ]
   },
@@ -5497,84 +4714,48 @@
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BRICEÑO CESAR ANDRES"
+        "teacher": "BRICEÑO CESAR ANDRES",
+        "secondTeacher": "PAZOLS MAXIMILIANO JOSE"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BRICEÑO CESAR ANDRES"
+        "teacher": "BRICEÑO CESAR ANDRES",
+        "secondTeacher": "PAZOLS MAXIMILIANO JOSE"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BRICEÑO CESAR ANDRES"
+        "teacher": "BRICEÑO CESAR ANDRES",
+        "secondTeacher": "PAZOLS MAXIMILIANO JOSE"
       },
       {
         "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BRICEÑO CESAR ANDRES"
+        "teacher": "BRICEÑO CESAR ANDRES",
+        "secondTeacher": "PAZOLS MAXIMILIANO JOSE"
       },
       {
         "day": "VI",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BRICEÑO CESAR ANDRES"
+        "teacher": "BRICEÑO CESAR ANDRES",
+        "secondTeacher": "PAZOLS MAXIMILIANO JOSE"
       },
       {
         "day": "VI",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BRICEÑO CESAR ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAZOLS MAXIMILIANO JOSE"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAZOLS MAXIMILIANO JOSE"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAZOLS MAXIMILIANO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAZOLS MAXIMILIANO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAZOLS MAXIMILIANO JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "G",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAZOLS MAXIMILIANO JOSE"
+        "teacher": "BRICEÑO CESAR ANDRES",
+        "secondTeacher": "PAZOLS MAXIMILIANO JOSE"
       }
     ]
   },
